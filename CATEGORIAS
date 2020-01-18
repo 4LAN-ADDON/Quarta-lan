@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia601505.us.archive.org/24/items/fanart_20200117_2115/tvonline.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
@@ -18,7 +18,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/subcategorias%20filmes</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
@@ -33,7 +33,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/Series.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/desenhos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
