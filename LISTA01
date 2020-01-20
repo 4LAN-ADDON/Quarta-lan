@@ -1,459 +1,887 @@
 #EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="CANAIS",SBT PI- Canal FutucAndroiD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" tvg-id="tv serra dourada" group-title="CANAIS",SBT GOCanal FutucAndroiD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO-Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/1.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrJMPC83tMfZHkEZnIsTiv168M9ObOPjc4ERK3Q-nYMPgj5LvW" tvg-id="0" group-title="CANAIS",GLOBO SD-Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/22356
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV SP SD" tvg-logo="https://2.bp.blogspot.com/-Fj37MKkXH5c/W55N2q9YhLI/AAAAAAAACfo/tMB8LPvBtaEFBy1b3g6Q_aTsTHWQ8yshgCLcBGAs/s1600/recordsp.png" group-title="CANAIS",RECORD TV SP SD- Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1710
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS", REDE TV! SP- Canal FutucAndroiD
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" tvg-id="0" group-title="CANAIS",REDE TV! SP- Canal FutucAndroiD
-http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-id="via morena"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS",VIA MORENA- Canal FutucAndroiD
-https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tv diário"tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_MD5iIrjmj5ScV9-fwwm9L-nxefjFfjl9A-XAQLAqqzwFduBW" tvg-id="0" group-title="CANAIS",DISNEY- Canal FutucAndroiD
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-
-#EXTINF:-1 tvg-id="0"tvg-logo="https://imgur.com/Srg7wCz.jpg " group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/124.ts
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Srg7wCz.jpg" tvg-id="0" group-title="CANAIS",DISCOVERY TURBO- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37112.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5wVaBbB0V5hsJl_0BE4EvSloZj0CmAq1rB84uEGWhYgmkM7sE" group-title="CANAIS",AXN- Canal FutucAndroiD
-http://painel.ebanonet.com.br:25461/1303/1303/6140
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd794kHmCl536b27pcCjSZiJ6HyZMxIoG1pHC-5pQ3i5Mih4lv" tvg-id="0" group-title="CANAIS",ANIMAL PLANET- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37128.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS",HBO2- Canal FutucAndroiD
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/230.ts
-
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png" tvg-id="0" group-title="CANAIS",FOX LIFE - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1038
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Fox_%285%29.png/revision/latest?cb=20141101145906" tvg-id="0" group-title="CANAIS",FOX MOVIES- Canal FutucAndroiD
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" tvg-id="0" group-title="CANAIS",FOX PREMIUM 1- Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/928
-
-
-#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/20816
-
-#EXTINF:-1 tvg-logo="http://aovivonatv.com/fotos/fccdfe721dfa6782ec748b5b8c15b776.jpg" tvg-id="0" group-title="CANAIS",FOX PREMIUM 2 FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/232.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR70shyfJmW0ABnluYhuJnl1vY83sUfGac--rA-9et32zJBMJVR" tvg-id="0" group-title="CANAIS",TBS FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/121.ts
-
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/183.ts
-
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-77-canal-max-up.png" tvg-id="0" group-title="CANAIS",MAX UP - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1005
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVBsyo5HzfZTLi3Ph0bNKBoBX4mNW3olMNqecid3MLlFIVHMmf" tvg-id="0" group-title="CANAIS",HBO FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/132.ts
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/pbs.twimg.com/profile_images/744342921516826624/z3DYuDwD_400x400.jpg" group-title="CANAIS",TV NA ILHA- Canal FutucAndroiD
-http://stmv4.srvstm.com/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1030442366
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" tvg-id="0" group-title="CANAIS",TELE CINE ACTION FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/133.ts
-
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="CANAIS",TELECINE ACTION SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/935
-
-#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/137.ts
-
-#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" tvg-id="0" group-title="CANAIS",TELE CINE PREMIUM - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/2415
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FUN FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/134.ts
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156148/telecine-fun-hd.png?v=636446362364770000" tvg-id="0" group-title="CANAIS",TELE CINE FAN SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/931
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156144/telecine-action-hd.png?v=636446361920170000" tvg-id="0" group-title="CANAIS",TELE CINE ACTION- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37040.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37039.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.claro.com.br/imagem/telecine-cult-1509133083260.png?1527898040931" tvg-id="0" group-title="CANAIS",TELE CINE CULT SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/933
-
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="CANAIS",TELECINE TOUCH SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/926
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/929
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk1LtlDn3bGDqT8cxOh2Vj7oVTjd2D5HvVja0UirKRKmIHaN7C" tvg-id="0" group-title="CANAIS",TELE CINE PIPOCA- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37038.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER FHD- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/45.ts
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_aEgTedPqUK4/SJkmVoXnSZI/AAAAAAAAIZA/noJaHMLcfUo/s400/warner+logo.jpg" tvg-id="0" group-title="CANAIS",WARNER - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/896
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/925
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" tvg-id="0" group-title="CANAIS",TCM- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37037.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1qImkGTS4tIrklxASF74RGYUl6OBaoAjrKV5R_BWCZlQcf4OH" tvg-id="0" group-title="CANAIS",UNIVERSAL CHANNEL - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/940
-
-#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/03/novo-programa-studio-universal.jpg" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-e4Hwf6_-Zwc/VaBmzm0DgUI/AAAAAAAAkyU/A4fPY75Fj40/s1600/Fox_life_it.png" tvg-id="0" group-title="CANAIS",FOX LIFE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37100.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg" tvg-id="0" group-title="CANAIS",FOX- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37101.m3u8
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg " tvg-id="0" group-title="CANAIS",FOX SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1329
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NUqhIGIog6Q/V7pfdwICc0I/AAAAAAAAvlg/Kh_2NtCAbjEN6wBeUs9_pj3-N2tCtnWowCLcB/s1600/fx_tr.png" tvg-id="0" group-title="CANAIS",FX- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37097.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37046.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" tvg-id="0" group-title="CANAIS",SPACE SD- Canal FutucAndroiD
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8?ANTONIO
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkIsS3-7Wmy4Kp1qDpogzH6u8bcCIanU3JurrW4DzUsGB0U1Ez" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37035.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFzV5J_zz_hsBWLvy3jQeZDeDGdKo69tJovz6biAUCgcsZw3Jv" tvg-id="0" group-title="CANAIS",TNT SÉRIES- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37034.m3u8
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YmxDFQHZqss/WLhZqBih87I/AAAAAAAAOEg/bJWEJTjhTAAYnTpAq_tWP6Cd_Q23Vm12wCLcB/s1600/maxresdefault.jpg" tvg-id="0" group-title="CANAIS",GNT- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37088.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN2I5v-LLrb32Bq74oyZcPmNixd5NrwiMEcpXLHEOPYdBphPhP" tvg-id="0" group-title="CANAIS",HBO- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37087.ts
-
-#EXTINF:-1 tvg-logo="http://ocdn.eu/images/program-tv/Nzc7MDA_/16169c06f52570d620fc3dc6481e698c.png" tvg-id="0" group-title="CANAIS",HBO 2- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37086.ts
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37083.ts
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" tvg-id="0" group-title="CANAIS",HBO PLUS - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1014
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO_Lwy8FxYIib6Mz0aBgTa8vin9v5rTHsgf32RyaDP3CEbYKR2" tvg-id="0" group-title="CANAIS",HBO FAMILY- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37085.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37082.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/pR8JkJoEn-xGIY1l9RcsU8XHVhQ=/300x300/top/smart/hagah/4/48/hbo-signature-hd-4884f78c.jpg" tvg-id="0" group-title="CANAIS",HBO SIGNATURE - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/2488
-
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME SD" tvg-logo="https://3.bp.blogspot.com/-OFc1gLDWPyc/WhXBylyd_LI/AAAAAAAABUg/8syI7aa2Ox4BKq5EP4sUFZfe0uCbPg_AQCLcBGAs/s1600/maxprime.png" group-title="CANAIS",MAX PRIME SD - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/1006
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/839816129778487296/NQRyFRJB_400x400.jpg" tvg-id="0" group-title="CANAIS",HISTORY- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37081.ts
-
-#EXTINF:-1 tvg-logo="https://cdn.cmjornal.pt/images/2018-07/img_770x433$2018_07_03_18_18_36_754250.jpg" tvg-id="0" group-title="CANAIS",DISNEY JR- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37110.m3u8
-
-#EXTINF:-1 tvg-logo="http://anmtv.xpg.com.br/wp-content/uploads/disney-channel-logo-2015-600x300.jpg" tvg-id="0" group-title="CANAIS",DISNEY CHANNEL- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37111.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk" tvg-id="0" group-title="CANAIS",CARTOON NETWORK- Canal FutucAndroiD
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgQPoE9IYSZTfG7iaO233ciV6zHzB6o50ufbTwXHhc5YhRCvyokw" tvg-id="0" group-title="CANAIS",NICK JR- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37065.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM6B8R4WaQ3vprwns5YoQv6JTOmO2lydzZQccChQK8pPXxBy4" tvg-id="0" group-title="CANAIS",NICK- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37064.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRESoEe2lrbZ2PB2iaoy7X9iy-gN8_O1YQekHfGG-MiQT0dF2O5" tvg-id="0" group-title="CANAIS",TOONCAST- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37033.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" tvg-id="0" group-title="CANAIS",COMED CENTRAL
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37118.m3u8
-
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" tvg-id="0" group-title="CANAIS",VIVA - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/23981
-
-#EXTINF:-1 tvg-logo="http://www.redenew.com.br/wp-content/uploads/2018/04/redenew_logo_mid.jpg" tvg-id="0" group-title="CANAIS",REDE NEW- Canal FutucAndroiD
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmX31HFuXGoPHLZOGqQJIW7uOTaoaBYtMA8C6TgxsGoTnrxTfqCg" tvg-id="0" group-title="CANAIS",OFF- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37063.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/88/Canalsonyhd.png/revision/latest?cb=20160412192803" tvg-id="0" group-title="CANAIS",SONY- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36987.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSxubfc61mrtFdMdwhaL8wzh7-mpKuu40OcrSAiuXvXlXUKfA7" tvg-id="0" group-title="CANAIS",SONY SD- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37007.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-Vf65YehC1Jjmy_CHT7878ZqFjfmkw5MSoabtbPK3YAw9qoK" tvg-id="0" group-title="CANAIS",PARAMOUNT CHANNEL- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37062.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/618497065283416064/B50suy-t_400x400.png" tvg-id="0" group-title="CANAIS",CINEMAX- Canal FutucAndroiD
-http://tv.factoryiptv.com/live//Celso02/Celso02/37120.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqNDkEpNas5s3PtamWEXjXg3lQ-eXt4hwhH-pAsKTRrMe2mzXV" tvg-id="0" group-title="CANAIS",MAX- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37076.m3u8
-
-#EXTINF:-1 tvg-logo="http://t.likeiptv.com/maxprime1.jpg" tvg-id="0" group-title="CANAIS",MAX PRIME- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37075.m3u8
-
-#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/video-thumbnails/maxup.jpeg" tvg-id="0" group-title="CANAIS",MAX UP- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37073.m3u8
-
-#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" tvg-id="0" group-title="CANAIS",MEGAPIX- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37072.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv50BqIB-okyMch2yqsE1ivk1gOjpyB2J-cXf6MBo0KgsLyQcS" tvg-id="0" group-title="CANAIS",STUDIO UNIVERSAL- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37043.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReGtmCoB6_Tu_p-24Gy-tVAMopKmxHKbwrAD9s2EAMCFwzc3zG" tvg-id="0" group-title="CANAIS",SYFY- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37042.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 1- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37057.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 2- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37060.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 3- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37059.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE 4- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37058.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37017.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUNH-AFnLI9hF2mdbKNoLdTX0f1rKtNTdVLFAeW3w4evCHCnQk" tvg-id="0" group-title="CANAIS",PREMIERE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37016.ts
-
-#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/157011/espn-2-hd.png?v=636712200523100000" tvg-id="0" group-title="CANAIS",ESPN 2- Canal FutucAndroiD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/123.ts
-
-#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN BRASIL- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/37104.m3u8
-
-#EXTINF:-1 tvg-logo="http://goo.gl/iSukWD?" tvg-id="0" group-title="CANAIS",ESPN+- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/36976.ts
-
-#EXTINF:-1 tvg-logo="http://goo.gl/yfNU1t?" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/141.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXSPORTS2.png" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/139.ts
-
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" tvg-id="0" group-title="CANAIS",SPORTV- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/143.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSH6hwVXgsQw4izW-qnpvqYwM3DckWJCm5XqCcq8HRcpDJcB9sA" tvg-id="0" group-title="CANAIS",SPORTV 2- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/138.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmDKLFNlkxuVvxFht_1Jo-_03e4j35-5f7H4zIRlI6rkug4yA" tvg-id="0" group-title="CANAIS",SPORTV 3- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/136.ts
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/146/original/pic_foxsports.png?1522179420" tvg-id="0" group-title="CANAIS",FOX SPORTS- Canal FutucAndroiD
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK-uNJfIUQQ2irOBcomGbXHFbEZHtrGjjg_CfNCVR7t-U7GAAk" tvg-id="0" group-title="CANAIS",REAL MADRID TV- Canal FutucAndroiD
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a0d0a56bd4618d5d85e49f87519751b6.jpg" tvg-id="0" group-title="CANAIS",SEVILLA TV- Canal FutucAndroiD
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBkPRxBNPdNGtFf53p2aP-luRBYX1Bqnw3aviAULH1GEHev6m5" tvg-id="0" group-title="CANAIS",ALL SPORTS- Canal FutucAndroiD
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE HD- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36986.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/combate.png" tvg-id="0" group-title="CANAIS",COMBATE - Canal FutucAndroiD
-http://lista.digitalgroup.me:80/robert1/robert1/22439
-
-#EXTINF:-1 tvg-logo="https://rd1.com.br/wp-content/uploads/2015/04/espn.jpg" tvg-id="0" group-title="CANAIS",ESPN BRASIL - Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37104.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/espnmaisb.png" tvg-id="0" group-title="CANAIS",ESPN PLUS- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/36976.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQuHh-mQXPlrJFdhDXTr_hypLHNbRko2Vu9r4gL8dXVe0GI-GtJ" tvg-id="0" group-title="CANAIS",FOX SPORTS SD- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37099.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/bm3a1vUwvq80R1imVAW35qs2mss=/0x5:1100x738/1200x800/filters:focal(0x5:1100x738)/cdn.vox-cdn.com/uploads/chorus_image/image/5378209/fox_20sports_202.0.jpg" tvg-id="0" group-title="CANAIS",FOX SPORTS 2- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37098.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNYMFmVWvKegS57UBwLD1M1T0flACJrmUyslZ0tTxIzhd7_1dN" tvg-id="0" group-title="CANAIS",REDE BRASIL- Canal FutucAndroiD
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxhIxYpHaW_Gy-STCJvN3N-GrIVY7WqjLQIvBXpPfyhuad5dgB" tvg-id="0" group-title="CANAIS",TV CULTURA MG- Canal FutucAndroiD
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2J7ya2oQXq85w4fMdiBhGuxxV4M8Y9HxukI8hzKzzCKxNx0O" tvg-id="0" group-title="CANAIS",FUTEBOL- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/140.ts
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e102e2a838d5207b803272e0f31bfa79.jpg" tvg-id="0" group-title="CANAIS",REDE FAMÍLIA- Canal FutucAndroiD
-https://5a7bcfb834235.streamlock.net/zw901/smil:zw901.smil/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/174abcdaff2dea4f8a12695f26f6e517.png" tvg-id="0" group-title="CANAIS",HOP CHANNEL- Canal FutucAndroiD
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on 
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" tvg-id="0" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?ANTONIO
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzEa63M07BZNTXGvY85k-RKA4j3e8r3NQB4HBNN5VhC8ZUQ7u" tvg-id="0" group-title="CANAIS",RECORD- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/2020/2020/36051.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnnQ9boXmS2m_wUHYxpqfJTiniRSj5fbZNjrJoZ9ww9VhDOMAK" tvg-id="0" group-title="CANAIS",PRIME- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/37053.ts
-
-#EXTINF:-1 tvg-id="tv Record" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c84cb251395cf7314d2d0b5e7091d6ee.png" group-title="CANAIS",RECORD TV GUARÁ- Canal FutucAndroiD
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV 
-
-#EXTINF:-1 tvg-id="0"tvg-logo="https://1.bp.blogspot.com/-pvKHwq5Akao/W1r_17iDezI/AAAAAAAAAD4/XScCm8AL0n0bGDi6IqsU32LYz7Ys-iD0ACLcBGAs/s1600/logotipo-tv-aparecida.png" group-title="CANAIS",TV APARECIDA- Canal FutucAndroiD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-id="band" tvg-name="band" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND- Canal FutucAndroiD
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w587755610.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS ",BAND- Canal FutucAndroiD
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS",BAND SD- Canal FutucAndroiD
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" tvg-id="0" group-title="CANAIS",GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kESeqRG.png" tvg-id="0" group-title="CANAIS",AMAZON SAT- Canal FutucAndroiD
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ANTONIO
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" tvg-id="0" group-title="CANAIS",TVE BA HD- Canal FutucAndroiD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
-
-#EXTINF:-1 tvg-id="0" tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://goo.gl/Ua7iiL?" tvg-id="0" group-title="CANAIS",TNT- Canal FutucAndroiD
-http://177.139.171.102:27030/live/alvaro/17/2.ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" tvg-id="0" group-title="CANAIS INTERNACIONAIS ",HBO2 HD- Canal FutucAndroiD
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" tvg-id="0" group-title="CANAIS",RAI MOVIES- Canal FutucAndroiD
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/s26.postimg.org/z3z9odwop/logo_TVclassique_web.jpg" tvg-id="0" group-title="CANAIS",CLASSIQUE TV- Canal FutucAndroiD
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" tvg-id="0" group-title="CANAIS",CARIOCA NET- Canal FutucAndroiD
-http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/chunklist_w114717025.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDb4SXh.png" tvg-id="0" group-title="CANAIS",RECORD NEWS- Canal FutucAndroiD
-http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88b31fb327e6c171af2862bcf03d78e4.png" tvg-id="0" group-title="CANAIS",DW NEWS- Canal FutucAndroiD
-http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-id="dw News" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS",HISTORY LAB- Canal FutucAndroiD
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV 
-
-#EXTINF:-1 tvg-id="rai movies" tvg-name="Rai movies ." tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9005845dafd7598d202d9b1e8221e6f7.png" group-title="CANAIS",TELE BARN
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" tvg-id="0" group-title="CANAIS",LOCOMOTION- Canal FutucAndroiD
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cvVK7m.png?1" tvg-id="0" group-title="CANAIS",COMBATE- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/jcarlos/jcarlos/37119.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WZ5X5IlbvJk/W46Xoxnru6I/AAAAAAABJWU/X3det7UxEjEjFk8tCNXZ9iTzwFSQo8wpwCJoC/w317-h318-n/gplus919542092.png" tvg-id="0" group-title="CANAIS",DESENHOS 24 HORAS- Canal FutucAndroiD
-http://tv.factoryiptv.com:80/live/1752/1752/39775.ts
-
-#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" tvg-id="0" group-title="CANAIS",ABN KIDS- Canal FutucAndroiD
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTa59sGPQaTvjcnoo6VmIoc1UQTOc9ojERqip38TTmmKLf3tWis" tvg-id="0" group-title="CANAIS",GOSPEL CARTOON- Canal FutucAndroiD
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" tvg-id="0" group-title="CANAIS",TV TEEN NET- Canal FutucAndroiD
-http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8303c11c0310e371ef23dee00fff67dd.jpg" tvg-id="0" group-title="CANAIS",HIT TV- Canal FutucAndroiD
-http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" tvg-id="0" group-title="CANAIS",HIT MUSIC- Canal FutucAndroiD
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" tvg-id="0" group-title="CANAIS",RETRÔ TV- Canal FutucAndroiD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FCp72c6.png" tvg-id="0" group-title="CANAIS",CENTRAL TV CURITIBA- Canal FutucAndroiD
-https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/612953408899805184/OrrISiSH.png" tvg-id="0" group-title="CANAIS",TV CIDADE OESTE RN- Canal FutucAndroiD
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" tvg-id="0" group-title="CANAIS",TV PANTANAL MS- Canal FutucAndroiD
-http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" tvg-id="0" group-title="CANAIS",RETRÔ MUSIC- Canal FutucAndroiD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q0weOxZ.png?1" tvg-id="0" group-title="CANAIS",ARG:CANAL 26 HD- Canal FutucAndroiD
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 HD- Canal FutucAndroiD
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?ANTONYGTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" tvg-id="0" group-title="CANAIS",ARG:TELPIN CANAL 2 SD- Canal FutucAndroiD
-http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:-1,A&E
+http://lista.serverpower.me:80/79402/79402/37029
+#EXTINF:-1,A&E ¹
+http://lista.serverpower.me:80/79402/79402/37577
+#EXTINF:-1,A&E HD
+http://lista.serverpower.me:80/79402/79402/37219
+#EXTINF:-1,A&E HD ¹
+http://lista.serverpower.me:80/79402/79402/37555
+#EXTINF:-1,AMC
+http://lista.serverpower.me:80/79402/79402/37043
+#EXTINF:-1,AMC ¹
+http://lista.serverpower.me:80/79402/79402/37582
+#EXTINF:-1,AMC HD
+http://lista.serverpower.me:80/79402/79402/37132
+#EXTINF:-1,AMC HD ¹
+http://lista.serverpower.me:80/79402/79402/37557
+#EXTINF:-1,ANIMAL PLANET
+http://lista.serverpower.me:80/79402/79402/37076
+#EXTINF:-1,ANIMAL PLANET ¹
+http://lista.serverpower.me:80/79402/79402/37583
+#EXTINF:-1,ANIMAL PLANET HD
+http://lista.serverpower.me:80/79402/79402/37133
+#EXTINF:-1,ANIMAL PLANET HD ¹
+http://lista.serverpower.me:80/79402/79402/37595
+#EXTINF:-1,ARTE 1
+http://lista.serverpower.me:80/79402/79402/37075
+#EXTINF:-1,ARTE 1 HD
+http://lista.serverpower.me:80/79402/79402/37134
+#EXTINF:-1,ARTE 1 HD ¹
+http://lista.serverpower.me:80/79402/79402/37641
+#EXTINF:-1,AXN
+http://lista.serverpower.me:80/79402/79402/37077
+#EXTINF:-1,AXN ¹
+http://lista.serverpower.me:80/79402/79402/37578
+#EXTINF:-1,AXN HD
+http://lista.serverpower.me:80/79402/79402/37135
+#EXTINF:-1,AXN HD ¹
+http://lista.serverpower.me:80/79402/79402/37556
+#EXTINF:-1,BABY TV ¹
+http://lista.serverpower.me:80/79402/79402/37598
+#EXTINF:-1,BAND NEWS
+http://lista.serverpower.me:80/79402/79402/37104
+#EXTINF:-1,BAND NEWS ²
+http://lista.serverpower.me:80/79402/79402/46832
+#EXTINF:-1,BAND NEWS HD
+http://lista.serverpower.me:80/79402/79402/37136
+#EXTINF:-1,BAND
+http://lista.serverpower.me:80/79402/79402/37096
+#EXTINF:-1,BAND¹
+http://lista.serverpower.me:80/79402/79402/37639
+#EXTINF:-1,BAND HD
+http://lista.serverpower.me:80/79402/79402/37220
+#EXTINF:-1,BAND SP  HD¹
+http://lista.serverpower.me:80/79402/79402/37635
+#EXTINF:-1,BAND SPORTS
+http://lista.serverpower.me:80/79402/79402/37103
+#EXTINF:-1,BAND SPORTS ¹
+http://lista.serverpower.me:80/79402/79402/37532
+#EXTINF:-1,BAND SPORT ²
+http://lista.serverpower.me:80/79402/79402/46833
+#EXTINF:-1,BAND SPORTS HD
+http://lista.serverpower.me:80/79402/79402/37137
+#EXTINF:-1,BAND SPORTS HD ¹
+http://lista.serverpower.me:80/79402/79402/37543
+#EXTINF:-1,BIS
+http://lista.serverpower.me:80/79402/79402/37101
+#EXTINF:-1,BIS  ¹
+http://lista.serverpower.me:80/79402/79402/37658
+#EXTINF:-1,BIS ²
+http://lista.serverpower.me:80/79402/79402/46831
+#EXTINF:-1,BIS HD
+http://lista.serverpower.me:80/79402/79402/37221
+#EXTINF:-1,BIS HD ¹
+http://lista.serverpower.me:80/79402/79402/37640
+#EXTINF:-1,TV MUNDIAL
+http://lista.serverpower.me:80/79402/79402/37662
+#EXTINF:-1,BOOMERANG
+http://lista.serverpower.me:80/79402/79402/37056
+#EXTINF:-1,BOOMERANG ¹
+http://lista.serverpower.me:80/79402/79402/37601
+#EXTINF:-1,BOOMERANG HD
+http://lista.serverpower.me:80/79402/79402/37138
+#EXTINF:-1,BOOMERANG HD ¹
+http://lista.serverpower.me:80/79402/79402/37605
+#EXTINF:-1,CANAL BRASIL
+http://lista.serverpower.me:80/79402/79402/37105
+#EXTINF:-1,CANAL BRASIL¹
+http://lista.serverpower.me:80/79402/79402/37637
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.serverpower.me:80/79402/79402/37139
+#EXTINF:-1,CANAL BRASIL HD¹
+http://lista.serverpower.me:80/79402/79402/37630
+#EXTINF:-1,CANAL SONY
+http://lista.serverpower.me:80/79402/79402/37073
+#EXTINF:-1,CANAL SONY ²
+http://lista.serverpower.me:80/79402/79402/46835
+#EXTINF:-1,CANAL SONY HD
+http://lista.serverpower.me:80/79402/79402/37140
+#EXTINF:-1,CANAL SONY HD ¹
+http://lista.serverpower.me:80/79402/79402/37554
+#EXTINF:-1,CARTOON NETWORK
+http://lista.serverpower.me:80/79402/79402/37041
+#EXTINF:-1,CARTOON NETWORK ¹
+http://lista.serverpower.me:80/79402/79402/37602
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.serverpower.me:80/79402/79402/37141
+#EXTINF:-1,CARTOON NETWORK HD ¹
+http://lista.serverpower.me:80/79402/79402/37612
+#EXTINF:-1, CINEMAX
+http://lista.serverpower.me:80/79402/79402/29705
+#EXTINF:-1,CINEMAX ¹
+http://lista.serverpower.me:80/79402/79402/37575
+#EXTINF:-1,CINEMAX HD
+http://lista.serverpower.me:80/79402/79402/37222
+#EXTINF:-1,CINEMAX HD ¹
+http://lista.serverpower.me:80/79402/79402/37553
+#EXTINF:-1,COMBATE
+http://lista.serverpower.me:80/79402/79402/37106
+#EXTINF:-1,COMBATE ¹
+http://lista.serverpower.me:80/79402/79402/37529
+#EXTINF:-1,COMBATE HD
+http://lista.serverpower.me:80/79402/79402/37142
+#EXTINF:-1,COMEDY CENTRAL
+http://lista.serverpower.me:80/79402/79402/37049
+#EXTINF:-1,COMEDY CENTRAL ¹
+http://lista.serverpower.me:80/79402/79402/37660
+#EXTINF:-1,COMBATE HD ¹
+http://lista.serverpower.me:80/79402/79402/37546
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.serverpower.me:80/79402/79402/37143
+#EXTINF:-1,COMEDY CENTRAL HD ¹
+http://lista.serverpower.me:80/79402/79402/37643
+#EXTINF:-1,CULTURA
+http://lista.serverpower.me:80/79402/79402/37026
+#EXTINF:-1,CULTURA HD
+http://lista.serverpower.me:80/79402/79402/37223
+#EXTINF:-1,CURTA!
+http://lista.serverpower.me:80/79402/79402/37059
+#EXTINF:-1,CURTA ¹
+http://lista.serverpower.me:80/79402/79402/37661
+#EXTINF:-1,CURTA! HD
+http://lista.serverpower.me:80/79402/79402/37144
+#EXTINF:-1,DISCOVERY H&H
+http://lista.serverpower.me:80/79402/79402/37117
+#EXTINF:-1,DISCOVERY H&H ¹
+http://lista.serverpower.me:80/79402/79402/37587
+#EXTINF:-1,DISCOVERY H&H ²
+http://lista.serverpower.me:80/79402/79402/46836
+#EXTINF:-1,DISCOVERY H&H HD
+http://lista.serverpower.me:80/79402/79402/37145
+#EXTINF:-1,DISCOVERY H&H HD ¹
+http://lista.serverpower.me:80/79402/79402/37590
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.serverpower.me:80/79402/79402/37024
+#EXTINF:-1,DISCOVERY CHANNEL ¹
+http://lista.serverpower.me:80/79402/79402/37586
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.serverpower.me:80/79402/79402/37225
+#EXTINF:-1,DISCOVERY CHANNEL HD ¹
+http://lista.serverpower.me:80/79402/79402/37589
+#EXTINF:-1,DISNEY CHANNEL
+http://lista.serverpower.me:80/79402/79402/37047
+#EXTINF:-1,DISNEY CHANNEL HD
+http://lista.serverpower.me:80/79402/79402/37149
+#EXTINF:-1,DISNEY CHANNEL HD ¹
+http://lista.serverpower.me:80/79402/79402/37594
+#EXTINF:-1,DISCOVERY CIVILIZATION ¹
+http://lista.serverpower.me:80/79402/79402/37585
+#EXTINF:-1,DISCOVERY CIVILIZATION HD ¹
+http://lista.serverpower.me:80/79402/79402/37596
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.serverpower.me:80/79402/79402/37102
+#EXTINF:-1,DISCOVERY KIDS ¹
+http://lista.serverpower.me:80/79402/79402/37600
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.serverpower.me:80/79402/79402/37226
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://lista.serverpower.me:80/79402/79402/37606
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.serverpower.me:80/79402/79402/37020
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.serverpower.me:80/79402/79402/37227
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://lista.serverpower.me:80/79402/79402/37591
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.serverpower.me:80/79402/79402/37042
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.serverpower.me:80/79402/79402/37146
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://lista.serverpower.me:80/79402/79402/37592
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.serverpower.me:80/79402/79402/37051
+#EXTINF:-1,DISCOVERY TURBO ²
+http://lista.serverpower.me:80/79402/79402/46837
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.serverpower.me:80/79402/79402/37147
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://lista.serverpower.me:80/79402/79402/37588
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.serverpower.me:80/79402/79402/37036
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.serverpower.me:80/79402/79402/37148
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://lista.serverpower.me:80/79402/79402/37593
+#EXTINF:-1,DISNEY JR
+http://lista.serverpower.me:80/79402/79402/37044
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/79402/79402/37603
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/79402/79402/37599
+#EXTINF:-1,DISNEY JR HD
+http://lista.serverpower.me:80/79402/79402/37150
+#EXTINF:-1,DISNEY JR HD ¹
+http://lista.serverpower.me:80/79402/79402/37607
+#EXTINF:-1,DISNEY XD HD ¹
+http://lista.serverpower.me:80/79402/79402/37611
+#EXTINF:-1,E!
+http://lista.serverpower.me:80/79402/79402/37107
+#EXTINF:-1,E! HD
+http://lista.serverpower.me:80/79402/79402/37151
+#EXTINF:-1,EI PLUS 
+http://lista.serverpower.me:80/79402/79402/37549
+#EXTINF:-1,ESPN
+http://lista.serverpower.me:80/79402/79402/37109
+#EXTINF:-1,ESPN HD
+http://lista.serverpower.me:80/79402/79402/37154
+#EXTINF:-1,ESPN HD ¹
+http://lista.serverpower.me:80/79402/79402/37547
+#EXTINF:-1,ESPN 2
+http://lista.serverpower.me:80/79402/79402/37110
+#EXTINF:-1,ESPN 2 ²
+http://lista.serverpower.me:80/79402/79402/46839
+#EXTINF:-1,ESPN 2 HD
+http://lista.serverpower.me:80/79402/79402/37155
+#EXTINF:-1,ESPN 2 HD ¹
+http://lista.serverpower.me:80/79402/79402/37537
+#EXTINF:-1,ESPN BRASIL
+http://lista.serverpower.me:80/79402/79402/37108
+#EXTINF:-1,ESPN BRASIL ²
+http://lista.serverpower.me:80/79402/79402/46838
+#EXTINF:-1,ESPN BRASIL ¹
+http://lista.serverpower.me:80/79402/79402/37534
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.serverpower.me:80/79402/79402/37152
+#EXTINF:-1,ESPN BRASIL HD ¹
+http://lista.serverpower.me:80/79402/79402/37536
+#EXTINF:-1,ESPN EXTRA
+http://lista.serverpower.me:80/79402/79402/37055
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.serverpower.me:80/79402/79402/37153
+#EXTINF:-1,ESPN EXTRA HD ¹
+http://lista.serverpower.me:80/79402/79402/37538
+#EXTINF:-1,FASHION TV
+http://lista.serverpower.me:80/79402/79402/37034
+#EXTINF:-1,FASHION TV HD
+http://lista.serverpower.me:80/79402/79402/37156
+#EXTINF:-1,FASHION TV HD  ¹
+http://lista.serverpower.me:80/79402/79402/37644
+#EXTINF:-1,FISH TV
+http://lista.serverpower.me:80/79402/79402/37126
+#EXTINF:-1,FISH TV  ¹
+http://lista.serverpower.me:80/79402/79402/37683
+#EXTINF:-1,FISH TV HD
+http://lista.serverpower.me:80/79402/79402/37157
+#EXTINF:-1,FISH HD ¹
+http://lista.serverpower.me:80/79402/79402/37548
+#EXTINF:-1,FOOD NETWORK
+http://lista.serverpower.me:80/79402/79402/37115
+#EXTINF:-1,FOOD NETWORK ¹
+http://lista.serverpower.me:80/79402/79402/37651
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.serverpower.me:80/79402/79402/37228
+#EXTINF:-1,FOOD NETWORK HD ¹
+http://lista.serverpower.me:80/79402/79402/37645
+#EXTINF:-1,FOX LIFE
+http://lista.serverpower.me:80/79402/79402/37081
+#EXTINF:-1,FOX LIFE ²
+http://lista.serverpower.me:80/79402/79402/46842
+#EXTINF:-1,FOX LIFE ¹
+http://lista.serverpower.me:80/79402/79402/37579
+#EXTINF:-1,FOX LIFE HD
+http://lista.serverpower.me:80/79402/79402/37159
+#EXTINF:-1,FOX LIFE HD ¹
+http://lista.serverpower.me:80/79402/79402/37563
+#EXTINF:-1,FOX PREMIUM 1 
+http://lista.serverpower.me:80/79402/79402/37071
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.serverpower.me:80/79402/79402/37160
+#EXTINF:-1,FOX PREMIUM 2
+http://lista.serverpower.me:80/79402/79402/37070
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://lista.serverpower.me:80/79402/79402/37161
+#EXTINF:-1,FOX
+http://lista.serverpower.me:80/79402/79402/37069
+#EXTINF:-1,FOX ¹
+http://lista.serverpower.me:80/79402/79402/37573
+#EXTINF:-1,FOX HD
+http://lista.serverpower.me:80/79402/79402/37158
+#EXTINF:-1,FOX SPORTS
+http://lista.serverpower.me:80/79402/79402/37111
+#EXTINF:-1,FOX SPORTS ¹
+http://lista.serverpower.me:80/79402/79402/37528
+#EXTINF:-1,FOX SPORTS HD
+http://lista.serverpower.me:80/79402/79402/37163
+#EXTINF:-1,FOX SPORTS HD ¹
+http://lista.serverpower.me:80/79402/79402/37542
+#EXTINF:-1,FOX SPORTS 2
+http://lista.serverpower.me:80/79402/79402/37114
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.serverpower.me:80/79402/79402/37162
+#EXTINF:-1,FOX SPORTS HD 2 ¹
+http://lista.serverpower.me:80/79402/79402/37527
+#EXTINF:-1,FOX SPORTS 2 HD ¹
+http://lista.serverpower.me:80/79402/79402/37545
+#EXTINF:-1,FUTURA
+http://lista.serverpower.me:80/79402/79402/37094
+#EXTINF:-1,FX
+http://lista.serverpower.me:80/79402/79402/37080
+#EXTINF:-1,FX ¹
+http://lista.serverpower.me:80/79402/79402/37580
+#EXTINF:-1,FX ²
+http://lista.serverpower.me:80/79402/79402/46840
+#EXTINF:-1,GLOBO BRASILIA
+http://lista.serverpower.me:80/79402/79402/30389
+#EXTINF:-1,GLOBO BRASILIA  HD
+http://lista.serverpower.me:80/79402/79402/40458
+#EXTINF:-1,FX HD
+http://lista.serverpower.me:80/79402/79402/37165
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/79402/79402/37388
+#EXTINF:-1,GLOBO  ES SD
+http://lista.serverpower.me:80/79402/79402/37706
+#EXTINF:-1,GLOBO ES HD 
+http://lista.serverpower.me:80/79402/79402/27677
+#EXTINF:-1,GLOBO ES FHD
+http://lista.serverpower.me:80/79402/79402/40477
+#EXTINF:-1,GLOBO ES H265
+http://lista.serverpower.me:80/79402/79402/40478
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/79402/79402/27525
+#EXTINF:-1,GLOBO MINAS HD
+http://lista.serverpower.me:80/79402/79402/27526
+#EXTINF:-1,GLOBO NEWS
+http://lista.serverpower.me:80/79402/79402/37062
+#EXTINF:-1,GLOBO NEWS ¹
+http://lista.serverpower.me:80/79402/79402/27533
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.serverpower.me:80/79402/79402/37166
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://lista.serverpower.me:80/79402/79402/37681
+#EXTINF:-1,GLOBO RJ HD
+http://lista.serverpower.me:80/79402/79402/27537
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/79402/79402/27530
+#EXTINF:-1,GLOOB
+http://lista.serverpower.me:80/79402/79402/37099
+#EXTINF:-1,GLOOB ¹
+http://lista.serverpower.me:80/79402/79402/37678
+#EXTINF:-1,GLOOB HD
+http://lista.serverpower.me:80/79402/79402/37231
+#EXTINF:-1,GLOOB HD ¹
+http://lista.serverpower.me:80/79402/79402/37610
+#EXTINF:-1,GNT
+http://lista.serverpower.me:80/79402/79402/37093
+#EXTINF:-1,GNT  ¹
+http://lista.serverpower.me:80/79402/79402/37656
+#EXTINF:-1,GNT ²
+http://lista.serverpower.me:80/79402/79402/46834
+#EXTINF:-1,GNT HD
+http://lista.serverpower.me:80/79402/79402/37167
+#EXTINF:-1,HBO+ ²
+http://lista.serverpower.me:80/79402/79402/46843
+#EXTINF:-1,HBO
+http://lista.serverpower.me:80/79402/79402/37119
+#EXTINF:-1,HBO HD
+http://lista.serverpower.me:80/79402/79402/37169
+#EXTINF:-1,HBO 2
+http://lista.serverpower.me:80/79402/79402/37123
+#EXTINF:-1,HBO 2 ²
+http://lista.serverpower.me:80/79402/79402/46844
+#EXTINF:-1,HBO 2 ¹
+http://lista.serverpower.me:80/79402/79402/37617
+#EXTINF:-1,HBO 2 HD
+http://lista.serverpower.me:80/79402/79402/37172
+#EXTINF:-1,HBO FAMILY
+http://lista.serverpower.me:80/79402/79402/37118
+#EXTINF:-1,HBO FAMILY HD
+http://lista.serverpower.me:80/79402/79402/37168
+#EXTINF:-1,HBO PLUS
+http://lista.serverpower.me:80/79402/79402/37122
+#EXTINF:-1,HBO PLUS ¹
+http://lista.serverpower.me:80/79402/79402/37618
+#EXTINF:-1,HBO PLUS HD
+http://lista.serverpower.me:80/79402/79402/37170
+#EXTINF:-1,HBO PLUS HD ¹
+http://lista.serverpower.me:80/79402/79402/37622
+#EXTINF:-1,HBO SIGNATURE
+http://lista.serverpower.me:80/79402/79402/37121
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.serverpower.me:80/79402/79402/37171
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://lista.serverpower.me:80/79402/79402/37623
+#EXTINF:-1,HGTV
+http://lista.serverpower.me:80/79402/79402/37017
+#EXTINF:-1,HGTV HD
+http://lista.serverpower.me:80/79402/79402/37224
+#EXTINF:-1,HISTORY 2
+http://lista.serverpower.me:80/79402/79402/37031
+#EXTINF:-1,HISTORY 2 ²
+http://lista.serverpower.me:80/79402/79402/46845
+#EXTINF:-1,HISTORY 2 HD
+http://lista.serverpower.me:80/79402/79402/37232
+#EXTINF:-1,HISTORY
+http://lista.serverpower.me:80/79402/79402/37072
+#EXTINF:-1,HISTORY ¹
+http://lista.serverpower.me:80/79402/79402/37584
+#EXTINF:-1,HISTORY HD
+http://lista.serverpower.me:80/79402/79402/37173
+#EXTINF:-1,HISTORY HD ¹
+http://lista.serverpower.me:80/79402/79402/37675
+#EXTINF:-1,ID
+http://lista.serverpower.me:80/79402/79402/37035
+#EXTINF:-1,ID ²
+http://lista.serverpower.me:80/79402/79402/46846
+#EXTINF:-1,ID HD
+http://lista.serverpower.me:80/79402/79402/37174
+#EXTINF:-1,ID HD ¹
+http://lista.serverpower.me:80/79402/79402/37597
+#EXTINF:-1,IDEAL  ¹
+http://lista.serverpower.me:80/79402/79402/37652
+#EXTINF:-1,IDEAL TV HD
+http://lista.serverpower.me:80/79402/79402/38675
+#EXTINF:-1,LIFETIME
+http://lista.serverpower.me:80/79402/79402/37030
+#EXTINF:-1,LIFETIME ¹
+http://lista.serverpower.me:80/79402/79402/37568
+#EXTINF:-1,LIFETIME ²
+http://lista.serverpower.me:80/79402/79402/46847
+#EXTINF:-1,LIFETIME HD
+http://lista.serverpower.me:80/79402/79402/37233
+#EXTINF:-1,MAIS GLOBOSAT
+http://lista.serverpower.me:80/79402/79402/37677
+#EXTINF:-1,MAIS GLOBOSAT ²
+http://lista.serverpower.me:80/79402/79402/46850
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.serverpower.me:80/79402/79402/37234
+#EXTINF:-1,MAX
+http://lista.serverpower.me:80/79402/79402/37023
+#EXTINF:-1,MAX ¹
+http://lista.serverpower.me:80/79402/79402/37581
+#EXTINF:-1,MAX HD
+http://lista.serverpower.me:80/79402/79402/37235
+#EXTINF:-1,MAX UP
+http://lista.serverpower.me:80/79402/79402/37120
+#EXTINF:-1,MAX UP ²
+http://lista.serverpower.me:80/79402/79402/46848
+#EXTINF:-1,MAX UP HD
+http://lista.serverpower.me:80/79402/79402/37176
+#EXTINF:-1,MAX PRIME
+http://lista.serverpower.me:80/79402/79402/37095
+#EXTINF:-1,MAX PRIME ¹
+http://lista.serverpower.me:80/79402/79402/37572
+#EXTINF:-1,MAX PRIME HD
+http://lista.serverpower.me:80/79402/79402/37236
+#EXTINF:-1,MAX PRIME HD ¹
+http://lista.serverpower.me:80/79402/79402/37562
+#EXTINF:-1,MEGAPIX
+http://lista.serverpower.me:80/79402/79402/37068
+#EXTINF:-1,MEGAPIX  ¹
+http://lista.serverpower.me:80/79402/79402/37570
+#EXTINF:-1,MEGAPIX HD
+http://lista.serverpower.me:80/79402/79402/37177
+#EXTINF:-1,MEGAPIX HD¹
+http://lista.serverpower.me:80/79402/79402/37551
+#EXTINF:-1,MTV
+http://lista.serverpower.me:80/79402/79402/37050
+#EXTINF:-1,MTV ²
+http://lista.serverpower.me:80/79402/79402/46849
+#EXTINF:-1,MTV HD
+http://lista.serverpower.me:80/79402/79402/37178
+#EXTINF:-1,MTV HD ¹
+http://lista.serverpower.me:80/79402/79402/37648
+#EXTINF:-1,MTV LIVE
+http://lista.serverpower.me:80/79402/79402/37032
+#EXTINF:-1,MTV LIVE HD
+http://lista.serverpower.me:80/79402/79402/37179
+#EXTINF:-1,MTV LIVE HD  ¹
+http://lista.serverpower.me:80/79402/79402/37649
+#EXTINF:-1,MULTISHOW
+http://lista.serverpower.me:80/79402/79402/37092
+#EXTINF:-1,MULTISHOW  ¹
+http://lista.serverpower.me:80/79402/79402/37655
+#EXTINF:-1,MULTISHOW HD
+http://lista.serverpower.me:80/79402/79402/37180
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://lista.serverpower.me:80/79402/79402/37057
+#EXTINF:-1,MUSIC BOX ¹
+http://lista.serverpower.me:80/79402/79402/37653
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://lista.serverpower.me:80/79402/79402/37181
+#EXTINF:-1,NATGEO KIDS
+http://lista.serverpower.me:80/79402/79402/37091
+#EXTINF:-1,NATGEO KIDS ²
+http://lista.serverpower.me:80/79402/79402/46851
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.serverpower.me:80/79402/79402/37182
+#EXTINF:-1,NATGEO KIDS HD ¹
+http://lista.serverpower.me:80/79402/79402/37613
+#EXTINF:-1,NATGEO
+http://lista.serverpower.me:80/79402/79402/37079
+#EXTINF:-1,NATGEO ²
+http://lista.serverpower.me:80/79402/79402/46852
+#EXTINF:-1,NATGEO HD
+http://lista.serverpower.me:80/79402/79402/38664
+#EXTINF:-1,NATGEO HD ¹
+http://lista.serverpower.me:80/79402/79402/37183
+#EXTINF:-1,NATGEO WILD
+http://lista.serverpower.me:80/79402/79402/37065
+#EXTINF:-1,NATGEO WILD HD
+http://lista.serverpower.me:80/79402/79402/37184
+#EXTINF:-1,NATGEO WILD HD ¹
+http://lista.serverpower.me:80/79402/79402/37674
+#EXTINF:-1,NHK
+http://lista.serverpower.me:80/79402/79402/37131
+#EXTINF:-1,NHK  ¹
+http://lista.serverpower.me:80/79402/79402/37654
+#EXTINF:-1,NHK WORLD HD ¹
+http://lista.serverpower.me:80/79402/79402/37642
+#EXTINF:-1,NICK JR
+http://lista.serverpower.me:80/79402/79402/37066
+#EXTINF:-1,NICK JR ¹
+http://lista.serverpower.me:80/79402/79402/37604
+#EXTINF:-1,NICK JR HD
+http://lista.serverpower.me:80/79402/79402/37185
+#EXTINF:-1,NICK JR HD ¹
+http://lista.serverpower.me:80/79402/79402/37609
+#EXTINF:-1,NICKELODEON
+http://lista.serverpower.me:80/79402/79402/37058
+#EXTINF:-1,NICKELODEON ²
+http://lista.serverpower.me:80/79402/79402/46853
+#EXTINF:-1,NICKELODEON HD
+http://lista.serverpower.me:80/79402/79402/37186
+#EXTINF:-1,OFF
+http://lista.serverpower.me:80/79402/79402/37098
+#EXTINF:-1,OFF HD
+http://lista.serverpower.me:80/79402/79402/37237
+#EXTINF:-1,PARAMOUNT
+http://lista.serverpower.me:80/79402/79402/37052
+#EXTINF:-1,PARAMOUNT ¹
+http://lista.serverpower.me:80/79402/79402/37574
+#EXTINF:-1,PARAMOUNT HD
+http://lista.serverpower.me:80/79402/79402/37187
+#EXTINF:-1,PREMIERE CLUBES
+http://lista.serverpower.me:80/79402/79402/37088
+#EXTINF:-1,PREMIERE CLUBES ²
+http://lista.serverpower.me:80/79402/79402/46858
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.serverpower.me:80/79402/79402/37195
+#EXTINF:-1,PREMIERE  1 ¹
+http://lista.serverpower.me:80/79402/79402/37670
+#EXTINF:-1,PREMIERE 1 HD ¹
+http://lista.serverpower.me:80/79402/79402/37521
+#EXTINF:-1,PREMIERE 2
+http://lista.serverpower.me:80/79402/79402/37090
+#EXTINF:-1,PREMIERE 2 ²
+http://lista.serverpower.me:80/79402/79402/46856
+#EXTINF:-1,PREMIERE 2 HD
+http://lista.serverpower.me:80/79402/79402/37189
+#EXTINF:-1,PREMIERE 2 HD ¹
+http://lista.serverpower.me:80/79402/79402/37523
+#EXTINF:-1,PREMIERE 3
+http://lista.serverpower.me:80/79402/79402/37112
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.serverpower.me:80/79402/79402/37190
+#EXTINF:-1,PREMIERE 3 HD  ¹
+http://lista.serverpower.me:80/79402/79402/37524
+#EXTINF:-1,PREMIERE 4
+http://lista.serverpower.me:80/79402/79402/37089
+#EXTINF:-1,PREMIERE 4  ¹
+http://lista.serverpower.me:80/79402/79402/37671
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.serverpower.me:80/79402/79402/37191
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://lista.serverpower.me:80/79402/79402/37522
+#EXTINF:-1,PREMIERE 5
+http://lista.serverpower.me:80/79402/79402/37113
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.serverpower.me:80/79402/79402/37192
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://lista.serverpower.me:80/79402/79402/37525
+#EXTINF:-1,PREMIERE 6
+http://lista.serverpower.me:80/79402/79402/37125
+#EXTINF:-1,PREMIERE 6 ²
+http://lista.serverpower.me:80/79402/79402/46857
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.serverpower.me:80/79402/79402/37193
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://lista.serverpower.me:80/79402/79402/37526
+#EXTINF:-1,PREMIERE 7
+http://lista.serverpower.me:80/79402/79402/37124
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.serverpower.me:80/79402/79402/37194
+#EXTINF:-1,PREMIERE  7 ¹
+http://lista.serverpower.me:80/79402/79402/37672
+#EXTINF:-1,PREMIERE 8  ¹
+http://lista.serverpower.me:80/79402/79402/37673
+#EXTINF:-1,PRIME BOX BRAZIL
+http://lista.serverpower.me:80/79402/79402/37054
+#EXTINF:-1,PRIME BOX BRAZIL HD
+http://lista.serverpower.me:80/79402/79402/37196
+#EXTINF:-1,PRIME BOX BRAZIL ¹
+http://lista.serverpower.me:80/79402/79402/37531
+#EXTINF:-1,PLAY TV  ¹
+http://lista.serverpower.me:80/79402/79402/37657
+#EXTINF:-1,PLAY TV HD
+http://lista.serverpower.me:80/79402/79402/38658
+#EXTINF:-1, RECORD SP  HD
+http://lista.serverpower.me:80/79402/79402/40474
+#EXTINF:-1,RECORD SP HD
+http://lista.serverpower.me:80/79402/79402/37704
+#EXTINF:-1,RECORD HD¹
+http://lista.serverpower.me:80/79402/79402/37627
+#EXTINF:-1,RECORD RJ HD
+http://lista.serverpower.me:80/79402/79402/40785
+#EXTINF:-1,RECORD DF HD
+http://lista.serverpower.me:80/79402/79402/37705
+#EXTINF:-1,RECORD AMAZONAS  HD
+http://lista.serverpower.me:80/79402/79402/40470
+#EXTINF:-1,RECORD CAMPINAS  HD
+http://lista.serverpower.me:80/79402/79402/40471
+#EXTINF:-1, RECORD MG  HD
+http://lista.serverpower.me:80/79402/79402/40472
+#EXTINF:-1,RECORD NORDESTE  HD
+http://lista.serverpower.me:80/79402/79402/40473
+#EXTINF:-1,REDE TV  SD
+http://lista.serverpower.me:80/79402/79402/37638
+#EXTINF:-1,REDE VIDA
+http://lista.serverpower.me:80/79402/79402/37061
+#EXTINF:-1,REDE VIDA HD
+http://lista.serverpower.me:80/79402/79402/37197
+#EXTINF:-1,REDE BRASIL ²
+http://lista.serverpower.me:80/79402/79402/46860
+#EXTINF:-1,RBS PORTO ALEGRE ²
+http://lista.serverpower.me:80/79402/79402/46859
+#EXTINF:-1,SBT ²
+http://lista.serverpower.me:80/79402/79402/46861
+#EXTINF:-1,SBT PR
+http://lista.serverpower.me:80/79402/79402/43890
+#EXTINF:-1,SBT PR HD
+http://lista.serverpower.me:80/79402/79402/43889
+#EXTINF:-1,SBT SP HD
+http://lista.serverpower.me:80/79402/79402/37625
+#EXTINF:-1,SPACE
+http://lista.serverpower.me:80/79402/79402/37037
+#EXTINF:-1,SPACE HD
+http://lista.serverpower.me:80/79402/79402/37199
+#EXTINF:-1,SPORTV
+http://lista.serverpower.me:80/79402/79402/37087
+#EXTINF:-1,SPORTV HD
+http://lista.serverpower.me:80/79402/79402/37200
+#EXTINF:-1,SPORTV HD ¹
+http://lista.serverpower.me:80/79402/79402/37682
+#EXTINF:-1,SPORTV 2
+http://lista.serverpower.me:80/79402/79402/37086
+#EXTINF:-1,SPORTV 2 ¹
+http://lista.serverpower.me:80/79402/79402/37530
+#EXTINF:-1,SPORTV 2 HD
+http://lista.serverpower.me:80/79402/79402/37201
+#EXTINF:-1,SPORTV 2 HD ¹
+http://lista.serverpower.me:80/79402/79402/37540
+#EXTINF:-1,SPORTV 3
+http://lista.serverpower.me:80/79402/79402/37083
+#EXTINF:-1,SPORTV 3 ¹
+http://lista.serverpower.me:80/79402/79402/37533
+#EXTINF:-1,SPORTV 3 HD
+http://lista.serverpower.me:80/79402/79402/37202
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.serverpower.me:80/79402/79402/37019
+#EXTINF:-1,STUDIO UNIVERSAL ¹
+http://lista.serverpower.me:80/79402/79402/37576
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.serverpower.me:80/79402/79402/37239
+#EXTINF:-1,SYFY
+http://lista.serverpower.me:80/79402/79402/37027
+#EXTINF:-1,SYFY ¹
+http://lista.serverpower.me:80/79402/79402/37566
+#EXTINF:-1,SYFY HD
+http://lista.serverpower.me:80/79402/79402/37240
+#EXTINF:-1,SYFY HD ¹
+http://lista.serverpower.me:80/79402/79402/37550
+#EXTINF:-1,TBS
+http://lista.serverpower.me:80/79402/79402/37040
+#EXTINF:-1,TBS ¹
+http://lista.serverpower.me:80/79402/79402/37567
+#EXTINF:-1,TBS HD
+http://lista.serverpower.me:80/79402/79402/37203
+#EXTINF:-1,TCM ¹
+http://lista.serverpower.me:80/79402/79402/37569
+#EXTINF:-1,TELECINE ACTION
+http://lista.serverpower.me:80/79402/79402/37060
+#EXTINF:-1,TELECINE ACTION ¹
+http://lista.serverpower.me:80/79402/79402/37410
+#EXTINF:-1,TELECINE ACTION HD
+http://lista.serverpower.me:80/79402/79402/37204
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://lista.serverpower.me:80/79402/79402/37402
+#EXTINF:-1,TELECINE CULT
+http://lista.serverpower.me:80/79402/79402/37067
+#EXTINF:-1,TELECINE CULT ¹
+http://lista.serverpower.me:80/79402/79402/37407
+#EXTINF:-1,TELECINE CULT HD
+http://lista.serverpower.me:80/79402/79402/37205
+#EXTINF:-1,TELECINE CULT HD ¹
+http://lista.serverpower.me:80/79402/79402/37409
+#EXTINF:-1,TELECINE FUN
+http://lista.serverpower.me:80/79402/79402/37082
+#EXTINF:-1,TELECINE FUN ²
+http://lista.serverpower.me:80/79402/79402/46867
+#EXTINF:-1,TELECINE FUN ¹
+http://lista.serverpower.me:80/79402/79402/37408
+#EXTINF:-1,TELECINE FUN HD
+http://lista.serverpower.me:80/79402/79402/37206
+#EXTINF:-1,TELECINE FUN HD ¹
+http://lista.serverpower.me:80/79402/79402/37403
+#EXTINF:-1,TELECINE PIPOCA
+http://lista.serverpower.me:80/79402/79402/37064
+#EXTINF:-1,TELECINE PIPOCA HD
+http://lista.serverpower.me:80/79402/79402/37207
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://lista.serverpower.me:80/79402/79402/37404
+#EXTINF:-1,TELECINE PREMIUM
+http://lista.serverpower.me:80/79402/79402/37116
+#EXTINF:-1,TELECINE PREMIUM HD
+http://lista.serverpower.me:80/79402/79402/37208
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://lista.serverpower.me:80/79402/79402/37405
+#EXTINF:-1,TELECINE TOUCH
+http://lista.serverpower.me:80/79402/79402/37063
+#EXTINF:-1,TELECINE TOUCH HD
+http://lista.serverpower.me:80/79402/79402/37209
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://lista.serverpower.me:80/79402/79402/37406
+#EXTINF:-1,TLC
+http://lista.serverpower.me:80/79402/79402/38225
+#EXTINF:-1,TLC ²
+http://lista.serverpower.me:80/79402/79402/46864
+#EXTINF:-1,TLC HD
+http://lista.serverpower.me:80/79402/79402/37241
+#EXTINF:-1,TLC HD ¹
+http://lista.serverpower.me:80/79402/79402/37561
+#EXTINF:-1,TNT
+http://lista.serverpower.me:80/79402/79402/37038
+#EXTINF:-1,TNT HD
+http://lista.serverpower.me:80/79402/79402/38636
+#EXTINF:-1,TNT HD¹
+http://lista.serverpower.me:80/79402/79402/37679
+#EXTINF:-1,TNT SERIES
+http://lista.serverpower.me:80/79402/79402/37039
+#EXTINF:-1,TNT SERIES HD
+http://lista.serverpower.me:80/79402/79402/37211
+#EXTINF:-1,TNT SERIES HD ¹
+http://lista.serverpower.me:80/79402/79402/37559
+#EXTINF:-1,TOONCAST ¹
+http://lista.serverpower.me:80/79402/79402/37565
+#EXTINF:-1,TOONCAST HD ¹
+http://lista.serverpower.me:80/79402/79402/37571
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://lista.serverpower.me:80/79402/79402/37033
+#EXTINF:-1,TRAVEL BOX BRAZIL HD
+http://lista.serverpower.me:80/79402/79402/37212
+#EXTINF:-1,TV BRASIL ²
+http://lista.serverpower.me:80/79402/79402/46865
+#EXTINF:-1,TV CAMERA ²
+http://lista.serverpower.me:80/79402/79402/46866
+#EXTINF:-1,TV APARECIDA HD
+http://lista.serverpower.me:80/79402/79402/27675
+#EXTINF:-1,TV CABO BRANCO HD
+http://lista.serverpower.me:80/79402/79402/37015
+#EXTINF:-1,TV GAZETA HD 
+http://lista.serverpower.me:80/79402/79402/37632
+#EXTINF:-1,TV NOVO TEMPO  
+http://lista.serverpower.me:80/79402/79402/37664
+#EXTINF:-1,TV NOVO TEMPO HD
+http://lista.serverpower.me:80/79402/79402/37214
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/79402/79402/37242
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/79402/79402/37028
+#EXTINF:-1,TV RATIMBUM HD ¹
+http://lista.serverpower.me:80/79402/79402/37615
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.serverpower.me:80/79402/79402/37085
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.serverpower.me:80/79402/79402/37215
+#EXTINF:-1,VH1
+http://lista.serverpower.me:80/79402/79402/37053
+#EXTINF:-1,VH1 ²
+http://lista.serverpower.me:80/79402/79402/46868
+#EXTINF:-1,VH1 HD
+http://lista.serverpower.me:80/79402/79402/37216
+#EXTINF:-1,VIVA
+http://lista.serverpower.me:80/79402/79402/37084
+#EXTINF:-1,VIVA ²
+http://lista.serverpower.me:80/79402/79402/46869
+#EXTINF:-1,VIVA HD
+http://lista.serverpower.me:80/79402/79402/37217
+#EXTINF:-1,WARNER CHANNEL
+http://lista.serverpower.me:80/79402/79402/37078
+#EXTINF:-1,WARNER CHANNEL ²
+http://lista.serverpower.me:80/79402/79402/46870
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.serverpower.me:80/79402/79402/37218
+#EXTINF:-1,WARNER CHANNEL HD ¹
+http://lista.serverpower.me:80/79402/79402/37558
+#EXTINF:-1,WOOHOO
+http://lista.serverpower.me:80/79402/79402/37021
+#EXTINF:-1,WOOHOO HD
+http://lista.serverpower.me:80/79402/79402/37243
+#EXTINF:-1,ZOOMO HD ¹
+http://lista.serverpower.me:80/79402/79402/37614
+#EXTINF:-1,PAI ENTERNO ²
+http://lista.serverpower.me:80/79402/79402/46854
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/79402/79402/40459
+#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO  HD
+http://lista.serverpower.me:80/79402/79402/40461
+#EXTINF:-1, GLOBO EPTV SAO CARLOS  HD
+http://lista.serverpower.me:80/79402/79402/40462
+#EXTINF:-1, GLOBO INTERNACIONAL  HD
+http://lista.serverpower.me:80/79402/79402/40463
+#EXTINF:-1,GLOBO NORDESTE  HD
+http://lista.serverpower.me:80/79402/79402/40465
+#EXTINF:-1, GLOBO RIBEIRÃO  HD
+http://lista.serverpower.me:80/79402/79402/40466
+#EXTINF:-1,GLOBO RJ  HD
+http://lista.serverpower.me:80/79402/79402/40467
+#EXTINF:-1,GLOBO RPC TV  HD
+http://lista.serverpower.me:80/79402/79402/40468
+#EXTINF:-1, GLOBO TV TRIBUNA SANTOS  HD
+http://lista.serverpower.me:80/79402/79402/40469
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/79402/79402/40476
+#EXTINF:-1,GLOBO ANHANGUERA        
+http://lista.serverpower.me:80/79402/79402/40550
+#EXTINF:-1,GLOBO VERDE MARES
+http://lista.serverpower.me:80/79402/79402/40551
+#EXTINF:-1,TVIDEONEWS
+http://lista.serverpower.me:80/79402/79402/40803
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/79402/79402/41094
+#EXTINF:-1,DAZN ESPANHA
+http://lista.serverpower.me:80/79402/79402/42720
+#EXTINF:-1,DAZN BRASIL  SD
+http://lista.serverpower.me:80/79402/79402/42407
+#EXTINF:-1,ITALIA | DAZN2  UHD
+http://lista.serverpower.me:80/79402/79402/42721
+#EXTINF:-1,ITALIA | DAZN1 SERIEA UHD
+http://lista.serverpower.me:80/79402/79402/42723
+#EXTINF:-1,ITALIA | DAZN1 SERIEA HD
+http://lista.serverpower.me:80/79402/79402/42724
+#EXTINF:-1,GLOBO MANAUS HD
+http://lista.serverpower.me:80/79402/79402/43121
+#EXTINF:-1,GLOBO MANAUS SD
+http://lista.serverpower.me:80/79402/79402/43122
+#EXTINF:-1,RECORD ES FHD
+http://lista.serverpower.me:80/79402/79402/45168
+#EXTINF:-1,SBT ES FHD
+http://lista.serverpower.me:80/79402/79402/45169
+#EXTINF:-1,Canção Nova SD
+http://lista.serverpower.me:80/79402/79402/45849
+#EXTINF:-1,Canção Nova HD
+http://lista.serverpower.me:80/79402/79402/45850
+#EXTINF:-1,FILM & ARTS ²
+http://lista.serverpower.me:80/79402/79402/46841
+#EXTINF:-1,NSC BLUMENAU
+http://lista.serverpower.me:80/79402/79402/46871
+#EXTINF:-1,NSC FLORIANOPOLIS HD
+http://lista.serverpower.me:80/79402/79402/46872
+#EXTINF:-1,GLOBO BAHIA
+http://lista.serverpower.me:80/79402/79402/48371
+#EXTINF:-1,GLOBO ACRE
+http://lista.serverpower.me:80/79402/79402/48372
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.serverpower.me:80/79402/79402/48399
+#EXTINF:-1,RECORD PORTO ALEGRE
+http://lista.serverpower.me:80/79402/79402/48402
