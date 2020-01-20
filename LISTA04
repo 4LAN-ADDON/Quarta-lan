@@ -1,268 +1,332 @@
-#EXTM3U
-#F4MTESTER
-#EXTINF:-1 type="stream" tvg-id="A&E" tvg-logo="https://i.ibb.co/F75tqwv/aande.png" group-title="Filme e Serie",A&E
-http://198.255.23.18:2095/streams/157_.m3u8
-#EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
-http://198.255.23.18:2095/streams/158_.m3u8
-#EXTINF:-1 type="stream" tvg-id="AXN" tvg-logo="https://i.ibb.co/stn1js5/axnb.png" group-title="Filme e Serie",AXN
-http://198.255.23.18:2095/streams/181_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
-http://198.255.23.18:2095/streams/98_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Animal Planet FHD" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
-http://198.255.23.18:2095/streams/99_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Arte 1" tvg-logo="https://i.ibb.co/QNkBQc6/arte1.png" group-title="Variedade",Arte 1
-http://198.255.23.18:2095/streams/147_.m3u8
-#EXTINF:-1 type="stream" tvg-id="BIS" tvg-logo="https://i.ibb.co/B2DbLdN/bis.png" group-title="Entretenimento e Musica",BIS
-http://198.255.23.18:2095/streams/140_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Baby TV" tvg-logo="https://i.ibb.co/yfscShb/babytv.png" group-title="Infantil",Baby TV
-http://198.255.23.18:2095/streams/126_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Band" tvg-logo="https://i.ibb.co/pWdRD7J/band.png" group-title="TV Aberta",Band
-http://198.255.23.18:2095/streams/13_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Band News" tvg-logo="https://i.ibb.co/tHgNtbw/bandnews.png" group-title="Notícia",Band News
-http://198.255.23.18:2095/streams/85_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Band Sports" tvg-logo="https://i.ibb.co/t8H0fk0/bandsports.png" group-title="Esporte",Band Sports
-http://198.255.23.18:2095/streams/46_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Boomerang" tvg-logo="https://i.ibb.co/4WsFbpW/boomerangb.png" group-title="Infantil",Boomerang
-http://198.255.23.18:2095/streams/127_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Canal Brasil" tvg-logo="https://i.ibb.co/dGDgcDc/canalbrasilb.png" group-title="Filme e Serie",Canal Brasil
-http://198.255.23.18:2095/streams/15_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Canal Rural" tvg-logo="https://i.ibb.co/fxWk6Mh/canalruralb.png" group-title="TV Aberta",Canal Rural
-http://198.255.23.18:2095/streams/17_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
-http://198.255.23.18:2095/streams/128_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cinemax" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
-http://198.255.23.18:2095/streams/183_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cinemax FHD" tvg-logo="https://i.ibb.co/qCx1SLY/cinemax.png" group-title="Filme e Serie",Cinemax
-http://198.255.23.18:2095/streams/184_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
-http://198.255.23.18:2095/streams/49_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Comedy Central" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Filme e Serie",Comedy Central
-http://198.255.23.18:2095/streams/148_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Comedy Central FHD" tvg-logo="https://i.ibb.co/Jxy45YQ/comedycentralb.png" group-title="Entretenimento",Comedy Central
-http://198.255.23.18:2095/streams/149_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cultura" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png" group-title="TV Aberta",Cultura
-http://198.255.23.18:2095/streams/19_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Cultura HD" tvg-logo="https://i.ibb.co/CvvkxnR/tvcultura.png" group-title="TV Aberta",Cultura
-http://198.255.23.18:2095/streams/20_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Curta" tvg-logo="https://i.ibb.co/YRKtq0s/curta.png" group-title="Variedade",Curta!
-http://198.255.23.18:2095/streams/20_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
-http://198.255.23.18:2095/streams/102_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Channel FHD " tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel
-http://198.255.23.18:2095/streams/103_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Infantil",Discovery Kids
-http://198.255.23.18:2095/streams/138_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Science" tvg-logo="https://i.ibb.co/cJwdX8C/discoveryscienceb.png" group-title="Documentario",Discovery Science
-http://198.255.23.18:2095/streams/121_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Theater" tvg-logo="https://i.ibb.co/z2JDsg0/discoverytheater.png" group-title="Documentario",Discovery Theater
-http://198.255.23.18:2095/streams/104_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo
-http://198.255.23.18:2095/streams/106_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Turbo" tvg-logo="https://i.ibb.co/LkFmVss/discoveryturbob.png" group-title="Documentario",Discovery Turbo
-http://198.255.23.18:2095/streams/107_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery World" tvg-logo="https://i.ibb.co/yYCzY9k/discoveryworld.png" group-title="Documentario",Discovery World
-http://198.255.23.18:2095/streams/108_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney Channel" tvg-logo="https://i.ibb.co/k1mR5zz/disney.png" group-title="Infantil",Disney Channel
-http://198.255.23.18:2095/streams/129_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney JR" tvg-logo="https://i.ibb.co/0MBKmFY/disneyjuniorb.png" group-title="Infantil",Disney JR
-http://198.255.23.18:2095/streams/130_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Disney XD" tvg-logo="https://i.ibb.co/KqXhhC2/disneyxd.png" group-title="Infantil",Disney XD
-http://198.255.23.18:2095/streams/131_.m3u8
-#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
-http://198.255.23.18:2095/streams/112_.m3u8
-#EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
-http://198.255.23.18:2095/streams/113_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fish TV" tvg-logo="https://i.ibb.co/3mqnQx2/fishtv.png" group-title="Variedade",Fish TV
-http://198.255.23.18:2095/streams/109_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Food Network" tvg-logo="https://i.ibb.co/wS6TzSk/foodnetwork.png" group-title="Variedade",Food Network
-http://198.255.23.18:2095/streams/111_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
-http://198.255.23.18:2095/streams/161_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox FHD" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
-http://198.255.23.18:2095/streams/162_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Life" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Variedade",Fox Life
-http://198.255.23.18:2095/streams/163_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Life FHD" tvg-logo="https://i.ibb.co/Z6hgvP7/foxlifeb.png" group-title="Entretenimento",Fox Life
-http://198.255.23.18:2095/streams/164_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
-http://198.255.23.18:2095/streams/165_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
-http://198.255.23.18:2095/streams/166_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2
-http://198.255.23.18:2095/streams/167_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2
-http://198.255.23.18:2095/streams/168_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/sPwqG58/foxsports.png" group-title="Esporte",Fox Sports
-http://198.255.23.18:2095/streams/56_.m3u8
-#EXTINF:-1 type="stream" tvg-id="GNT" tvg-logo="https://i.ibb.co/DDW7Xcz/gnt.png" group-title="Variedade",GNT
-http://198.255.23.18:2095/streams/150_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo Rio" tvg-logo="https://i.ibb.co/dcFy14L/globorj.png" group-title="TV Aberta",Globo
-http://198.255.23.18:2095/streams/22_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Globo SP" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo
-http://198.255.23.18:2095/streams/25_.m3u8
-#EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews
-http://198.255.23.18:2095/streams/84_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob
-http://198.255.23.18:2095/streams/132_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Gloob" tvg-logo="https://i.ibb.co/MSnGHZL/gloob.png" group-title="Infantil",Gloob
-http://198.255.23.18:2095/streams/133_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
-http://198.255.23.18:2095/streams/185_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
-http://198.255.23.18:2095/streams/186_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2
-http://198.255.23.18:2095/streams/187_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2
-http://198.255.23.18:2095/streams/188_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
-http://198.255.23.18:2095/streams/193_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
-http://198.255.23.18:2095/streams/194_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
-http://198.255.23.18:2095/streams/189_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
-http://198.255.23.18:2095/streams/190_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
-http://198.255.23.18:2095/streams/191_.m3u8
-#EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
-http://198.255.23.18:2095/streams/192_.m3u8
-#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
-http://198.255.23.18:2095/streams/114_.m3u8
-#EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
-http://198.255.23.18:2095/streams/115_.m3u8
-#EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Filme e Serie",History 2
-http://198.255.23.18:2095/streams/223_.m3u8
-#EXTINF:-1 type="stream" tvg-id="ID" tvg-logo="https://i.ibb.co/GkCFcmY/investigationb.png" group-title="Documentario",ID
-http://198.255.23.18:2095/streams/116_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Lifetime" tvg-logo="https://i.ibb.co/5rp1PW0/lifetime.png" group-title="Filme e Serie",Lifetime
-http://198.255.23.18:2095/streams/169_.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento e Musica",MTV
-http://198.255.23.18:2095/streams/141_.m3u8
-#EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento e Musica",MTV EUA
-http://198.255.23.18:2095/streams/142_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Mais Globosat" tvg-logo="https://i.ibb.co/tsRJmPR/maisglobosatb.png" group-title="Variedade",Mais Globosat
-http://198.255.23.18:2095/streams/151_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Max" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max
-http://198.255.23.18:2095/streams/195_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Max" tvg-logo="https://i.ibb.co/4Nw6mrM/max.png" group-title="Filme e Serie",Max
-http://198.255.23.18:2095/streams/196_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Max Prime" tvg-logo="https://i.ibb.co/2FBnTfk/maxprimeb.png" group-title="Filme e Serie",Max Prime
-http://198.255.23.18:2095/streams/197_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Megapix" tvg-logo="https://i.ibb.co/Vtq0pNb/megapixb.png" group-title="Filme e Serie",Megapix
-http://198.255.23.18:2095/streams/171_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento e Musica",Multishow
-http://198.255.23.18:2095/streams/143_.m3u8
-#EXTINF:-1 type="stream" tvg-id="NatGeo Kids" tvg-logo="https://i.ibb.co/m86jr31/natgeokids.png" group-title="Infantil",NatGeo Kids
-http://198.255.23.18:2095/streams/134_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild
-http://198.255.23.18:2095/streams/119_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild
-http://198.255.23.18:2095/streams/119_.m3u8
-#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic
-http://198.255.23.18:2095/streams/117_.m3u8
-#EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic
-http://198.255.23.18:2095/streams/118_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Nick Jr." tvg-logo="https://i.ibb.co/nn5x9pD/nickjr.png" group-title="Infantil",Nick Jr.
-http://198.255.23.18:2095/streams/139_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Infantil",Nickelodeon
-http://198.255.23.18:2095/streams/135_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Off" tvg-logo="https://i.ibb.co/J23V5yZ/canaloffb.png" group-title="Variedade e Esporte",Off
-http://198.255.23.18:2095/streams/59_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Paramount" tvg-logo="https://i.ibb.co/D9Lc0JL/paramount.png" group-title="Filme e Serie",Paramount
-http://198.255.23.18:2095/streams/172_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
-http://198.255.23.18:2095/streams/61_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
-http://198.255.23.18:2095/streams/62_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
-http://198.255.23.18:2095/streams/29_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
-http://198.255.23.18:2095/streams/30_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News
-http://198.255.23.18:2095/streams/80_.m3u8
-#EXTINF:-1 type="stream" tvg-id="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV!
-http://198.255.23.18:2095/streams/33_.m3u8
-#EXTINF:-1 type="stream" tvg-id="RedeTV!" tvg-logo="https://i.ibb.co/wR1cmgM/redetv.png" group-title="TV Aberta",RedeTV!
-http://198.255.23.18:2095/streams/34_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT
-http://198.255.23.18:2095/streams/37_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Sony" tvg-logo="https://i.ibb.co/rFxKrFQ/sony.png" group-title="Filme e Serie",Sony
-http://198.255.23.18:2095/streams/160_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="https://i.ibb.co/6wYLB5f/space.png" group-title="Filme e Serie",Space
-http://198.255.23.18:2095/streams/200_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
-http://198.255.23.18:2095/streams/70_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
-http://198.255.23.18:2095/streams/71_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
-http://198.255.23.18:2095/streams/72_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
-http://198.255.23.18:2095/streams/73_.m3u8
-#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
-http://198.255.23.18:2095/streams/74_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Syfy" tvg-logo="https://i.ibb.co/3pc26zL/syfy2018.png" group-title="Filme e Serie",Syfy
-http://198.255.23.18:2095/streams/174_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TBS" tvg-logo="https://i.ibb.co/kXhr2Cr/tbsb.png" group-title="Filme e Serie",TBS
-http://198.255.23.18:2095/streams/175_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TCM" tvg-logo="https://i.ibb.co/jgP3J7r/tcm.png" group-title="Filme e Serie",TCM
-http://198.255.23.18:2095/streams/201_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TLC" tvg-logo="https://i.ibb.co/njTvjL1/tlc.png" group-title="Variedade",TLC
-http://198.255.23.18:2095/streams/122_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT
-http://198.255.23.18:2095/streams/202_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series
-http://198.255.23.18:2095/streams/176_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Aparecida" tvg-logo="https://i.ibb.co/8xkPXfn/tvaparecida.png" group-title="TV Aberta",TV Aparecida
-http://198.255.23.18:2095/streams/38_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title="TV Aberta",TV Brasil
-http://198.255.23.18:2095/streams/39_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Brasil" tvg-logo="https://i.ibb.co/PgcdPNt/tvbrasil.png" group-title="TV Aberta",TV Brasil
-http://198.255.23.18:2095/streams/40_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Justica" tvg-logo="https://i.ibb.co/58Yvjj2/tvjustica.png" group-title="TV Aberta",TV Justica
-http://198.255.23.18:2095/streams/42_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Ratimbum" tvg-logo="https://i.ibb.co/GvYCgHy/tvratimbum.png" group-title="Infantil",TV Ratimbum
-http://198.255.23.18:2095/streams/136_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Senado" tvg-logo="https://i.ibb.co/nwtkNYt/tvsenado.png" group-title="TV Aberta",TV Senado
-http://198.255.23.18:2095/streams/44_.m3u8
-#EXTINF:-1 type="stream" tvg-id="TV Universal" tvg-logo="https://i.ibb.co/Kq2pHp3/universaltv.png" group-title="Filme e Serie",TV Universal
-http://198.255.23.18:2095/streams/178_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
-http://198.255.23.18:2095/streams/213_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
-http://198.255.23.18:2095/streams/214_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult
-http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult
-http://198.255.23.18:2095/streams/203_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun
-http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun
-http://198.255.23.18:2095/streams/205_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
-http://198.255.23.18:2095/streams/207_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
-http://198.255.23.18:2095/streams/208_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium
-http://198.255.23.18:2095/streams/209_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium
-http://198.255.23.18:2095/streams/210_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch
-http://198.255.23.18:2095/streams/211_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch
-http://198.255.23.18:2095/streams/212_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Tooncast" tvg-logo="https://i.ibb.co/9YDb4fW/tooncast.png" group-title="Infantil",Tooncast
-http://198.255.23.18:2095/streams/222_.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1" tvg-logo="https://i.ibb.co/p3cFRcS/vh1.png" group-title="Entretenimento e Musica",VH1
-http://198.255.23.18:2095/streams/145_.m3u8
-#EXTINF:-1 type="stream" tvg-id="VH1 Megahits" tvg-logo="https://i.ibb.co/WHdMy8M/vh1megahits.png" group-title="Entretenimento e Musica",VH1 Megahits
-http://198.255.23.18:2095/streams/146_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Viva" tvg-logo="https://i.ibb.co/W0w20Dn/viva2018.png" group-title="Variedade",Viva
-http://198.255.23.18:2095/streams/152_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
-http://198.255.23.18:2095/streams/179_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
-http://198.255.23.18:2095/streams/180_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Woohoo" tvg-logo="https://i.ibb.co/rvT7WT5/woohoo.png" group-title="Variedade",Woohoo
-http://198.255.23.18:2095/streams/154_.m3u8
-#EXTINF:-1 type="stream" tvg-id="Zoomoo HD" tvg-logo="https://i.ibb.co/XL5sJVf/zoomoo.png" group-title="Infantil",Zoomoo
-http://198.255.23.18:2095/streams/137_.m3u8
+#EXTINF:-1,|BR| SBT
+http://185.23.213.162:8789/ania/ania/24911
+#EXTINF:-1,|BR| Fox sport 
+http://185.23.213.162:8789/ania/ania/52529
+#EXTINF:-1,|BR| Fox sport 2 
+http://185.23.213.162:8789/ania/ania/52530
+#EXTINF:-1,|BR| Espn extra
+http://185.23.213.162:8789/ania/ania/52531
+#EXTINF:-1,|BR| Espn hd
+http://185.23.213.162:8789/ania/ania/52532
+#EXTINF:-1,|BR| Band Sports HD
+http://185.23.213.162:8789/ania/ania/52533
+#EXTINF:-1,|BR| Premiere Clubes HD
+http://185.23.213.162:8789/ania/ania/52534
+#EXTINF:-1,|BR| Premiere 2 HD
+http://185.23.213.162:8789/ania/ania/52535
+#EXTINF:-1,|BR| Premiere 3 HD
+http://185.23.213.162:8789/ania/ania/52536
+#EXTINF:-1,|BR| Premiere 4 HD
+http://185.23.213.162:8789/ania/ania/52537
+#EXTINF:-1,|BR| Premiere 5 HD
+http://185.23.213.162:8789/ania/ania/52538
+#EXTINF:-1,|BR| Premiere 6 HD
+http://185.23.213.162:8789/ania/ania/52539
+#EXTINF:-1,|BR| Premiere 7 HD
+http://185.23.213.162:8789/ania/ania/52540
+#EXTINF:-1,|BR| Sport tv 1
+http://185.23.213.162:8789/ania/ania/52541
+#EXTINF:-1,|BR| Sport tv 2
+http://185.23.213.162:8789/ania/ania/52542
+#EXTINF:-1,|BR| Sport tv 3
+http://185.23.213.162:8789/ania/ania/52543
+#EXTINF:-1,|BR| FOX Sports HD
+http://185.23.213.162:8789/ania/ania/52544
+#EXTINF:-1,|BR| FOX Sport 2 HD
+http://185.23.213.162:8789/ania/ania/52545
+#EXTINF:-1,|BR| HBO Family HD
+http://185.23.213.162:8789/ania/ania/52546
+#EXTINF:-1,|BR| HBO Signature HD
+http://185.23.213.162:8789/ania/ania/52547
+#EXTINF:-1,|BR| HBO Plus HD
+http://185.23.213.162:8789/ania/ania/52548
+#EXTINF:-1,|BR| HBO 2 HD
+http://185.23.213.162:8789/ania/ania/52549
+#EXTINF:-1,|BR| FOX Premium 1 HD
+http://185.23.213.162:8789/ania/ania/52550
+#EXTINF:-1,|BR| Fox Premium 2 HD
+http://185.23.213.162:8789/ania/ania/52551
+#EXTINF:-1,|BR| Telecine fun 
+http://185.23.213.162:8789/ania/ania/52552
+#EXTINF:-1,|BR| Telecine cult 
+http://185.23.213.162:8789/ania/ania/52553
+#EXTINF:-1,|BR| Telecine Premium HD
+http://185.23.213.162:8789/ania/ania/52554
+#EXTINF:-1,|BR| Telecine Action HD
+http://185.23.213.162:8789/ania/ania/52555
+#EXTINF:-1,|BR| Telecine Touch HD
+http://185.23.213.162:8789/ania/ania/52556
+#EXTINF:-1,|BR| Telecine Fun HD
+http://185.23.213.162:8789/ania/ania/52557
+#EXTINF:-1,|BR| Telecine Pipoca HD
+http://185.23.213.162:8789/ania/ania/52558
+#EXTINF:-1,|BR| Telecine Cult HD
+http://185.23.213.162:8789/ania/ania/52559
+#EXTINF:-1,|BR| Food network 
+http://185.23.213.162:8789/ania/ania/52560
+#EXTINF:-1,|BR| History hd
+http://185.23.213.162:8789/ania/ania/52561
+#EXTINF:-1,|BR| Band sport hd
+http://185.23.213.162:8789/ania/ania/52562
+#EXTINF:-1,|BR| Tnt hd
+http://185.23.213.162:8789/ania/ania/52563
+#EXTINF:-1,|BR| Canal sony
+http://185.23.213.162:8789/ania/ania/52564
+#EXTINF:-1,|BR| Universai channel
+http://185.23.213.162:8789/ania/ania/52565
+#EXTINF:-1,|BR| Nat geo wild
+http://185.23.213.162:8789/ania/ania/52566
+#EXTINF:-1,|BR| Gloob
+http://185.23.213.162:8789/ania/ania/52567
+#EXTINF:-1,|BR| Max up hd
+http://185.23.213.162:8789/ania/ania/52568
+#EXTINF:-1,|BR| Animal planet
+http://185.23.213.162:8789/ania/ania/52569
+#EXTINF:-1,|BR| Max
+http://185.23.213.162:8789/ania/ania/52570
+#EXTINF:-1,|BR| Max prime
+http://185.23.213.162:8789/ania/ania/52571
+#EXTINF:-1,|BR| Tnt series hd
+http://185.23.213.162:8789/ania/ania/52572
+#EXTINF:-1,|BR| Discovery teather 
+http://185.23.213.162:8789/ania/ania/52573
+#EXTINF:-1,|BR| Premier clubs
+http://185.23.213.162:8789/ania/ania/52574
+#EXTINF:-1,|BR| Telecine premium
+http://185.23.213.162:8789/ania/ania/52575
+#EXTINF:-1,|BR| Telecine touch
+http://185.23.213.162:8789/ania/ania/52576
+#EXTINF:-1,|BR| Telecine pipoca
+http://185.23.213.162:8789/ania/ania/52577
+#EXTINF:-1,|BR| Telecine action
+http://185.23.213.162:8789/ania/ania/52578
+#EXTINF:-1,|BR| Fox life 
+http://185.23.213.162:8789/ania/ania/52579
+#EXTINF:-1,|BR| Globo hd
+http://185.23.213.162:8789/ania/ania/52580
+#EXTINF:-1,|BR| Canal rural
+http://185.23.213.162:8789/ania/ania/52581
+#EXTINF:-1,|BR| Syfy hd
+http://185.23.213.162:8789/ania/ania/52582
+#EXTINF:-1,|BR| Vh1 mega hits
+http://185.23.213.162:8789/ania/ania/52583
+#EXTINF:-1,|BR| Espn brasil hd
+http://185.23.213.162:8789/ania/ania/52584
+#EXTINF:-1,|BR| Tv raetimbum
+http://185.23.213.162:8789/ania/ania/52585
+#EXTINF:-1,|BR| Arte 1
+http://185.23.213.162:8789/ania/ania/52586
+#EXTINF:-1,|BR| Curta
+http://185.23.213.162:8789/ania/ania/52587
+#EXTINF:-1,|BR| Mais globo sat
+http://185.23.213.162:8789/ania/ania/52588
+#EXTINF:-1,|BR| Music box brazil
+http://185.23.213.162:8789/ania/ania/52589
+#EXTINF:-1,|BR| Prime box brasil
+http://185.23.213.162:8789/ania/ania/52590
+#EXTINF:-1,|BR| Sicinter nacional
+http://185.23.213.162:8789/ania/ania/52591
+#EXTINF:-1,|BR| Mega
+http://185.23.213.162:8789/ania/ania/52592
+#EXTINF:-1,|BR| Rede 21
+http://185.23.213.162:8789/ania/ania/52593
+#EXTINF:-1,|BR| Cnn international
+http://185.23.213.162:8789/ania/ania/52594
+#EXTINF:-1,|BR| Viva hd
+http://185.23.213.162:8789/ania/ania/52595
+#EXTINF:-1,|BR| H2 hd
+http://185.23.213.162:8789/ania/ania/52596
+#EXTINF:-1,|BR| Canal brasil hd
+http://185.23.213.162:8789/ania/ania/52597
+#EXTINF:-1,|BR| Gloob hd
+http://185.23.213.162:8789/ania/ania/52598
+#EXTINF:-1,|BR| Bis hd
+http://185.23.213.162:8789/ania/ania/52599
+#EXTINF:-1,|BR| Universal channel hd
+http://185.23.213.162:8789/ania/ania/52600
+#EXTINF:-1,|BR| Tcm
+http://185.23.213.162:8789/ania/ania/52601
+#EXTINF:-1,|BR| Futura hd
+http://185.23.213.162:8789/ania/ania/52602
+#EXTINF:-1,|BR| Woohoo hd
+http://185.23.213.162:8789/ania/ania/52603
+#EXTINF:-1,|BR| Cultura
+http://185.23.213.162:8789/ania/ania/52604
+#EXTINF:-1,|BR| Nbr
+http://185.23.213.162:8789/ania/ania/52605
+#EXTINF:-1,|BR| Tve
+http://185.23.213.162:8789/ania/ania/52606
+#EXTINF:-1,|BR| Rit
+http://185.23.213.162:8789/ania/ania/52607
+#EXTINF:-1,|BR| Cartoon network
+http://185.23.213.162:8789/ania/ania/52608
+#EXTINF:-1,|BR| Nickelodeon hd
+http://185.23.213.162:8789/ania/ania/52609
+#EXTINF:-1,|BR| Studio universal
+http://185.23.213.162:8789/ania/ania/52610
+#EXTINF:-1,|BR| Tv senado
+http://185.23.213.162:8789/ania/ania/52611
+#EXTINF:-1,|BR| Tv justica
+http://185.23.213.162:8789/ania/ania/52612
+#EXTINF:-1,|BR| Canal comunitario
+http://185.23.213.162:8789/ania/ania/52613
+#EXTINF:-1,|BR| Canal universitario
+http://185.23.213.162:8789/ania/ania/52614
+#EXTINF:-1,|BR| Vh1 hd
+http://185.23.213.162:8789/ania/ania/52615
+#EXTINF:-1,|BR| Gnt hd
+http://185.23.213.162:8789/ania/ania/52616
+#EXTINF:-1,|BR| Multi show hd
+http://185.23.213.162:8789/ania/ania/52617
+#EXTINF:-1,|BR| AE hd
+http://185.23.213.162:8789/ania/ania/52618
+#EXTINF:-1,|BR| Offhd
+http://185.23.213.162:8789/ania/ania/52619
+#EXTINF:-1,|BR| Mtv hd
+http://185.23.213.162:8789/ania/ania/52620
+#EXTINF:-1,|BR| Axn hd
+http://185.23.213.162:8789/ania/ania/52621
+#EXTINF:-1,|BR| Globo news hd
+http://185.23.213.162:8789/ania/ania/52622
+#EXTINF:-1,|BR| Boavontade tv
+http://185.23.213.162:8789/ania/ania/52623
+#EXTINF:-1,|BR| Tv novo tempo
+http://185.23.213.162:8789/ania/ania/52624
+#EXTINF:-1,|BR| Food network hd
+http://185.23.213.162:8789/ania/ania/52625
+#EXTINF:-1,|BR| Life timehd
+http://185.23.213.162:8789/ania/ania/52626
+#EXTINF:-1,|BR| Poli shop tv
+http://185.23.213.162:8789/ania/ania/52627
+#EXTINF:-1,|BR| Rci
+http://185.23.213.162:8789/ania/ania/52628
+#EXTINF:-1,|BR| Tbs
+http://185.23.213.162:8789/ania/ania/52629
+#EXTINF:-1,|BR| Tv aparecida
+http://185.23.213.162:8789/ania/ania/52630
+#EXTINF:-1,|BR| Tv escola
+http://185.23.213.162:8789/ania/ania/52631
+#EXTINF:-1,|BR| Band news hd
+http://185.23.213.162:8789/ania/ania/52632
+#EXTINF:-1,|BR| Discovery science
+http://185.23.213.162:8789/ania/ania/52633
+#EXTINF:-1,|BR| Fish tv hd
+http://185.23.213.162:8789/ania/ania/52634
+#EXTINF:-1,|BR| Discovery civilization
+http://185.23.213.162:8789/ania/ania/52635
+#EXTINF:-1,|BR| Tv 5 
+http://185.23.213.162:8789/ania/ania/52636
+#EXTINF:-1,|BR| Canal sony hd
+http://185.23.213.162:8789/ania/ania/52637
+#EXTINF:-1,|BR| Paramount hd
+http://185.23.213.162:8789/ania/ania/52638
+#EXTINF:-1,|BR| Sport tv hd
+http://185.23.213.162:8789/ania/ania/52639
+#EXTINF:-1,|BR| Bloomberg
+http://185.23.213.162:8789/ania/ania/52640
+#EXTINF:-1,|BR| Max prime hd
+http://185.23.213.162:8789/ania/ania/52641
+#EXTINF:-1,|BR| Espn 2 hd
+http://185.23.213.162:8789/ania/ania/52642
+#EXTINF:-1,|BR| Cinemax hd
+http://185.23.213.162:8789/ania/ania/52643
+#EXTINF:-1,|BR| Discovery channel hd
+http://185.23.213.162:8789/ania/ania/52644
+#EXTINF:-1,|BR| Disc home health hd
+http://185.23.213.162:8789/ania/ania/52645
+#EXTINF:-1,|BR| Discovery turbo hd
+http://185.23.213.162:8789/ania/ania/52646
+#EXTINF:-1,|BR| Discovery turbo
+http://185.23.213.162:8789/ania/ania/52647
+#EXTINF:-1,|BR| Disney channel hd
+http://185.23.213.162:8789/ania/ania/52648
+#EXTINF:-1,|BR| Animal planet hd
+http://185.23.213.162:8789/ania/ania/52649
+#EXTINF:-1,|BR| Record news
+http://185.23.213.162:8789/ania/ania/52650
+#EXTINF:-1,|BR| E hd
+http://185.23.213.162:8789/ania/ania/52651
+#EXTINF:-1,|BR| Nat geo wild hd
+http://185.23.213.162:8789/ania/ania/52652
+#EXTINF:-1,|BR| Nat geo hd
+http://185.23.213.162:8789/ania/ania/52653
+#EXTINF:-1,|BR| Disney junior
+http://185.23.213.162:8789/ania/ania/52654
+#EXTINF:-1,|BR| Disney xd
+http://185.23.213.162:8789/ania/ania/52655
+#EXTINF:-1,|BR| Nickjr hd
+http://185.23.213.162:8789/ania/ania/52656
+#EXTINF:-1,|BR| Shop time
+http://185.23.213.162:8789/ania/ania/52657
+#EXTINF:-1,|BR| Boomerang hd
+http://185.23.213.162:8789/ania/ania/52658
+#EXTINF:-1,|BR| Redevida
+http://185.23.213.162:8789/ania/ania/52659
+#EXTINF:-1,|BR| Space
+http://185.23.213.162:8789/ania/ania/52660
+#EXTINF:-1,|BR| Baby tv
+http://185.23.213.162:8789/ania/ania/52661
+#EXTINF:-1,|BR| Ideal tv 
+http://185.23.213.162:8789/ania/ania/52662
+#EXTINF:-1,|BR| Tv brasil
+http://185.23.213.162:8789/ania/ania/52663
+#EXTINF:-1,|BR| Tv camara
+http://185.23.213.162:8789/ania/ania/52664
+#EXTINF:-1,|BR| Sex treme
+http://185.23.213.162:8789/ania/ania/52665
+#EXTINF:-1,|BR| Dw
+http://185.23.213.162:8789/ania/ania/52666
+#EXTINF:-1,|BR| Record TV HD
+http://185.23.213.162:8789/ania/ania/52667
+#EXTINF:-1,|BR| Band HD
+http://185.23.213.162:8789/ania/ania/52668
+#EXTINF:-1,|BR| Gazeta
+http://185.23.213.162:8789/ania/ania/52669
+#EXTINF:-1,|BR| RedeTV HD
+http://185.23.213.162:8789/ania/ania/52670
+#EXTINF:-1,|BR| SBT HD
+http://185.23.213.162:8789/ania/ania/52671
+#EXTINF:-1,|BR| TLC HD
+http://185.23.213.162:8789/ania/ania/52672
+#EXTINF:-1,|BR| Megapix HD
+http://185.23.213.162:8789/ania/ania/52673
+#EXTINF:-1,|BR| ID HD
+http://185.23.213.162:8789/ania/ania/52674
+#EXTINF:-1,|BR| FOX HD
+http://185.23.213.162:8789/ania/ania/52675
+#EXTINF:-1,|BR| FX HD
+http://185.23.213.162:8789/ania/ania/52676
+#EXTINF:-1,|BR| Discovery Theater HD
+http://185.23.213.162:8789/ania/ania/52677
+#EXTINF:-1,|BR| Warner Channel HD
+http://185.23.213.162:8789/ania/ania/52678
+#EXTINF:-1,|BR| Discovery World HD
+http://185.23.213.162:8789/ania/ania/52679
+#EXTINF:-1,|BR| Globo Nordeste
+http://185.23.213.162:8789/ania/ania/52680
+#EXTINF:-1,|BR| NHK
+http://185.23.213.162:8789/ania/ania/52681
+#EXTINF:-1,|BR| FOX Life HD
+http://185.23.213.162:8789/ania/ania/52682
+#EXTINF:-1,|BR| ZOOMOO HD
+http://185.23.213.162:8789/ania/ania/52683
+#EXTINF:-1,|BR| Tooncast
+http://185.23.213.162:8789/ania/ania/52684
+#EXTINF:-1,|BR| AMC HD
+http://185.23.213.162:8789/ania/ania/52685
+#EXTINF:-1,|BR| Combate HD
+http://185.23.213.162:8789/ania/ania/52686
+#EXTINF:-1,|BR| Nat Geo Kids HD
+http://185.23.213.162:8789/ania/ania/52687
+#EXTINF:-1,|BR| Discovery kids hd
+http://185.23.213.162:8789/ania/ania/52688
+#EXTINF:-1,|BR| Globo Rio HD
+http://185.23.213.162:8789/ania/ania/52689
+#EXTINF:-1,|BR| Comedy Central HD
+http://185.23.213.162:8789/ania/ania/52690
+#EXTINF:-1,|BR| Globo Minas
+http://185.23.213.162:8789/ania/ania/52691
+#EXTINF:-1,|BR| Warner channels 
+http://185.23.213.162:8789/ania/ania/52692
+#EXTINF:-1,|BR| Combat hd 
+http://185.23.213.162:8789/ania/ania/52693
