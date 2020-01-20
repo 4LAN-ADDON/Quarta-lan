@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,A&E FHD
-http://csrv.me:80/8931314244/fireurl.co/2025
+plugin://plugin.video.f4mTester/?name=QUARTALAN&streamtype=TSDOWNLOADER&amp;url=http://csrv.me:80/8931314244/fireurl.co/2025
 #EXTINF:-1,A&E FHD [H265]
 http://csrv.me:80/8931314244/fireurl.co/25400
 #EXTINF:-1,A&E FHD [H265] [Alter]
