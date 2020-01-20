@@ -1,796 +1,965 @@
 #EXTM3U
-#F4MTESTER
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://vipeiptv.com:25461/images/1ah9EeHjCXzhrYw3Nb5UBjb08FCLlMIF.png" group-title="FILMES E SERIES",A&E FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114825.ts
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://vipeiptv.com:25461/images/JCTutgVBXjtRXt8Iv2MAEzbWslU3CP2u.png" group-title="FILMES E SERIES",AMC FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114828.ts
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://grupobrtv.com/logos/animalplanethd.png" group-title="CANAIS 4K",ANIMAL PLANET 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115104.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://br.axn.com/sites/br.axn/files/styles/image_700x394/public/AXN_logo.jpg" group-title="FILMES E SERIES",AXN FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114835.ts
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND 4K" tvg-logo="http://grupobrtv.com/logos/bandeirantes.png" group-title="CANAIS 4K",BAND 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115102.ts
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="http://vipeiptv.com:25461/images/nOJBhR4vqIra0dayeDccHZ7a6F59hbZU.jpg" group-title="NOTICIAS",BAND NEWS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114842.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="http://vipeiptv.com:25461/images/X6G5RpAvSTjUNMhOUm8VpwOS2I8ttXBo.jpg" group-title="ESPORTES",BAND SPORTS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114847.ts
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="http://vipeiptv.com:25461/images/p4HVa0dutu0QjuXROXF8QXFTBgsdhwQd.png" group-title="INFANTIL",BOOMERANG FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114855.ts
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://vipeiptv.com:25461/images/fRKaYCc2Hna1sosPcYo0CltBW75hbRN6.png" group-title="CANAIS 4K",CARTOON NETWORK 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115107.ts
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://vipeiptv.com:25461/images/2uW8FVlI3l6J6FqGLlr8UvlhTqTLYxPy.jpg" group-title="INFANTIL",CARTOON NETWORK FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114860.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="http://imagem.natelinha.uol.com.br/grande/cinemax-novologo.jpg" group-title="FILMES E SERIES",CINEMAX FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114863.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE FHD" tvg-logo="http://vipeiptv.com:25461/images/W2JvtHy4fxnWgxYpggx0gU2tQBVgpEsI.png" group-title="ESPORTES",COMBATE FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114866.ts
-#EXTINF:-1 tvg-id="" tvg-name="COPA NORDESTE HD" tvg-logo="" group-title="ESPORTES",COPA NORDESTE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117187.ts
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://vipeiptv.com:25461/images/NBGBWsbthqQpLxDdqehO3ERQawZmohTO.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114875.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H FHD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY H&H FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115487.ts
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://vipeiptv.com:25461/images/g3azDOJTILquGG8hCI0w7eVt303tu0kq.png" group-title="INFANTIL",DISCOVERY KIDS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114879.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://vipeiptv.com:25461/images/hbFN006grwxDTQweyMbQR6OOdX9pAwcm.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114881.ts
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://vipeiptv.com:25461/images/dTI5oi29jd5j0Rk1ekulmgd7sTT3pQAa.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114883.ts
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD" tvg-logo="http://vipeiptv.com:25461/images/gcROQXwppQtvOxivRQpLL1XKqHvb0NtR.png" group-title="DOCUMENTARIOS",DISCOVERY TLC FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114886.ts
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="http://vipeiptv.com:25461/images/ks5AdyDOFNpi18Hd3d5dATQITyyuDJp4.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114889.ts
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3266548_logo_discovery_world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114892.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD FHD*" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD*
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115204.ts
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://vipeiptv.com:25461/images/zS15lkBotKbItFWVITalv2BeyFychf98.jpg" group-title="INFANTIL",DISNEY CHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114894.ts
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="http://vipeiptv.com:25461/images/RBp3XNNGTp4jdWCXu8NGFVlXtW41lc73.png" group-title="INFANTIL",DISNEY JUNIOR FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114897.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 3" tvg-logo="" group-title="ESPORTES",EIPLUS 3
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117190.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4" tvg-logo="" group-title="ESPORTES",EIPLUS 4
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117191.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 4 HD" tvg-logo="" group-title="ESPORTES",EIPLUS 4 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117192.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 HD" tvg-logo="" group-title="ESPORTES",EIPLUS 5 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117194.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 5 SD" tvg-logo="" group-title="ESPORTES",EIPLUS 5 SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117193.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6" tvg-logo="" group-title="ESPORTES",EIPLUS 6
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117195.ts
-#EXTINF:-1 tvg-id="" tvg-name="EIPLUS 6 HD" tvg-logo="" group-title="ESPORTES",EIPLUS 6 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117196.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/espn_nuevo_logo.png" group-title="ESPORTES",ESPN FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114913.ts
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="http://vipeiptv.com:25461/images/dQERHrcxxzj2bkXcEXmOkwZ7CzF9t3Q5.png" group-title="ESPORTES",ESPN 2 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114906.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://grupobrtv.com/logos/espnhd.png" group-title="CANAIS 4K",ESPN 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115109.ts
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="http://vipeiptv.com:25461/images/fkXZ1dyU5gpOP2wA9zQAGn6tfU1MjHmn.png" group-title="ESPORTES",ESPN BRASIL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114909.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="http://vipeiptv.com:25461/images/bMcSgTmdyjQ5Eswf9NC9LrEizT0Z9urw.png" group-title="ESPORTES",ESPN EXTRA FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114911.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPORTE INTERATIVO" tvg-logo="" group-title="ESPORTES",ESPORTE INTERATIVO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117188.ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROCHANNEL FHD" tvg-logo="" group-title="ESPORTES",EUROCHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117189.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES E SERIES",FOX HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114924.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="http://vipeiptv.com:25461/images/kPgnXufqXvUk9teVx7ciDuyooN0fgsZM.png" group-title="FILMES E SERIES",FOX FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114923.ts
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="http://vipeiptv.com:25461/images/HTWXyY8RxxOHwFvPptZwnF7uU7kzCQRO.png" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114927.ts
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="http://vipeiptv.com:25461/images/rtC4QpuN4WC4L6Ojc2o7sYh0RbhFmtia.png" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114929.ts
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORT FHD" tvg-logo="http://vipeiptv.com:25461/images/wEEGxLrMesRTxZETF85V3cQiWjl1jhty.jpg" group-title="ESPORTES",FOX SPORT FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114931.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://vipeiptv.com:25461/images/TdhptuCvjAhxPzoPbBe0HYYKwG9lhIlF.png" group-title="ESPORTES",FOX SPORTS 2 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114935.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://pbs.twimg.com/profile_images/1059370253262688256/LOGxmSCt_400x400.jpg" group-title="FILMES E SERIES",FX FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114939.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO  MARANHAO FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO  MARANHAO FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115481.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO ANHANGUERA FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO ANHANGUERA FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115468.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MG FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115477.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO MT" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MT
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115479.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS FHD" tvg-logo="" group-title="NOTICIAS",GLOBO NEWS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115588.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NSC FLORIANOPOLIS FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NSC FLORIANOPOLIS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115472.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RBS FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115475.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RJ FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115483.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SP FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115447.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TV LIBERAL BELEM
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/117186.ts
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB  FHD" tvg-logo="http://vipeiptv.com:25461/images/0ebRwFHBSUSTSLLIcQMacb1XDFmBN9CY.jpg" group-title="INFANTIL",GLOOB  FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114949.ts
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://vipeiptv.com:25461/images/M1DTyu2jSczQyBNOx35FPpWT9rfeh9kC.png" group-title="REDE HBO",HBO FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114961.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO +" tvg-logo="" group-title="REDE HBO",HBO +
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115568.ts
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://vipeiptv.com:25461/images/s4yu7vIN3GNlpsVR5R17PW2jz9qhBwP5.png" group-title="REDE HBO",HBO 2 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114956.ts
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://vipeiptv.com:25461/images/q0eF56ne2uZsjJCknpEKFeaX3PQmzq2A.png" group-title="REDE HBO",HBO FAMILY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114959.ts
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="http://vipeiptv.com:25461/images/oZAjovUkivYnurnFSV6XQIvHjxGDufwM.png" group-title="REDE HBO",HBO PLUS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114964.ts
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://vipeiptv.com:25461/images/EWjmVLR7pNL37jhDyeWzQOPkB8eo1dIe.png" group-title="REDE HBO",HBO SIGNATURE FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114967.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2 FHD" tvg-logo="http://vipeiptv.com:25461/images/N2M0w0EE3dnKlODCNziMuaUHcgLv8niA.png" group-title="DOCUMENTARIOS",HISTORY 2 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114970.ts
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY FHD" tvg-logo="http://vipeiptv.com:25461/images/s5RhT5y7OgtTsfhLjVnXJWn9NRZEkFSX.jpg" group-title="DOCUMENTARIOS",HISTORY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114973.ts
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇAO DISCOVERY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114976.ts
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX FHD" tvg-logo="http://vipeiptv.com:25461/images/MfCMajbymo32SeTk1vonx3C2qSDYptAI.jpg" group-title="FILMES E SERIES",MAX FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114982.ts
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME FHD" tvg-logo="http://vipeiptv.com:25461/images/0DkfMCi9aGWuekxE1t9N9KMytsok3jwm.png" group-title="FILMES E SERIES",MAX PRIME FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114985.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP FHD" tvg-logo="http://vipeiptv.com:25461/images/trSuYo38FoalFcbN8Y0BtpzvnuJXd1Z1.png" group-title="FILMES E SERIES",MAX UP FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114988.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://vipeiptv.com:25461/images/BrU95LzyKj84V2DHVtD4HS5R81Bbwnm1.png" group-title="CANAIS 4K",MEGAPIX 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115112.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://s2.glbimg.com/YmzFXfqM7A_fRwhbMp3AzjPpwEw=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/3c/45/8e98b42584b1a930aee9241e73fa.png" group-title="FILMES E SERIES",MEGAPIX FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114991.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://grupobrtv.com/logos/multishowhd.png" group-title="CANAIS 4K",MULTISHOW 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115108.ts
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids_m.png" group-title="INFANTIL",NAT GEO KIDS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115001.ts
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATGEO 4K" tvg-logo="http://vipeiptv.com:25461/images/7s5Gni4T5TLcgQQYRRVDCvjsZzZVPiQk.png" group-title="CANAIS 4K",NATGEO 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115110.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD FHD" tvg-logo="http://vipeiptv.com:25461/images/FiXWVkmArwROG7wb22WSPnmKSRgIjtIM.png" group-title="DOCUMENTARIOS",NATGEO WILD FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115005.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://vipeiptv.com:25461/images/LVvjVv9tBYlWjYuTIiTLodhmtCBf1D2a.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115008.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="http://vipeiptv.com:25461/images/wSbBypBQkjP3desAaoInBnNy7ID74Ntd.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115020.ts
-#EXTINF:-1 tvg-id="" tvg-name="PREMIER CLUBE 4K" tvg-logo="http://grupobrtv.com/logos/premiereclubeshd.png" group-title="CANAIS 4K",PREMIER CLUBE 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115099.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP 4K" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS 4K",RECORD SP 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115100.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="" group-title="CANAIS ABERTOS",REDE GOSPEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115563.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV FHD" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="CANAIS ABERTOS",REDE TV FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115032.ts
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDETV 4K" tvg-logo="http://vipeiptv.com:25461/images/3QouOpLLtxRQdPI2p1ME15GpQSeimMEv.png" group-title="CANAIS 4K",REDETV 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115103.ts
-#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="" group-title="CANAIS ABERTOS",RIT
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115564.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT 4K" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS 4K",SBT 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115105.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115138.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY FHD" tvg-logo="" group-title="FILMES E SERIES",SONY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115566.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY FHD" tvg-logo="http://vipeiptv.com:25461/images/gHxG9G6SfIEDuA92l3nG5odvezpYXBX5.jpg" group-title="FILMES E SERIES",SONY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115049.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4K" tvg-logo="http://vipeiptv.com:25461/images/palBAzucC3CDmKqphsCIZf8erfZ2eLt2.png" group-title="CANAIS 4K",SPACE 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115111.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://vipeiptv.com:25461/images/TrYUdWrdrpPMxw58W4D2uYHeZ9shAj8e.png" group-title="FILMES E SERIES",SPACE FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115052.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV FHD" tvg-logo="" group-title="ESPORTES",SPORTV FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115589.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 FHD" tvg-logo="http://vipeiptv.com:25461/images/7f302c4a2bff39d4d720cb2e45fc8750.png" group-title="ESPORTES",SPORTV 3 FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115402.ts
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://vipeiptv.com:25461/images/95Mj5zjhrF69xLdjmgVfkacYNggCz8tb.png" group-title="CANAIS 4K",SPORTV 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115106.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Universal_Studios.svg/1200px-Universal_Studios.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115055.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="http://vipeiptv.com:25461/images/oIznasyYjqxZhWPE5SVXfiAsIfjmNAut.jpg" group-title="FILMES E SERIES",SYFY FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115058.ts
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115380.ts
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115381.ts
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115585.ts
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115575.ts
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115577.ts
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115578.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT 4K" tvg-logo="http://vipeiptv.com:25461/images/dS4fm6S8dPUMY099KIZVRmTRnJ2y1mfh.png" group-title="CANAIS 4K",TNT 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115101.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://vipeiptv.com:25461/images/SEsp5iKUVdAZyGPL8zMf50xIkZW5mqGR.png" group-title="FILMES E SERIES",TNT FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115065.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES 4K" tvg-logo="http://vipeiptv.com:25461/images/hSJFo4Vx1wK3BC4XZk3Wf4cAUNU3it8J.png" group-title="CANAIS 4K",TNT SERIES 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115113.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://vipeiptv.com:25461/images/FXQzaqXxdRApSUj2Zxry9Wb1HN7kZasi.png" group-title="FILMES E SERIES",TNT SERIES FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115068.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="" group-title="CANAIS ABERTOS",TV NOVO TEMPO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115560.ts
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://vipeiptv.com:25461/images/FIP2XUaWqBSOLuQV5OamEjlZTl7cypOx.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115081.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://vipeiptv.com:25461/images/o1oBTeebz08xXRfy0sqpwirO0M8BOdF2.jpg" group-title="FILMES E SERIES",WARNER CHANNEL FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115090.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://vipeiptv.com:25461/images/B2mw1vPQf1vOm6zQ0NK8gdQ91Aiw4eme.png" group-title="FILMES E SERIES",A&E HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114826.ts
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://vipeiptv.com:25461/images/pCG8VEu1caF79gxdXruYQOyVd7MxOMhv.png" group-title="FILMES E SERIES",AMC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114829.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://vipeiptv.com:25461/images/0xF1fbWCI23rsP7tj1o5EqLoWdvLR4r0.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114831.ts
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://vipeiptv.com:25461/images/fFL94Yw4h0YfKiIav4ooSLAivNiQ5jIP.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114832.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://vipeiptv.com:25461/images/EzMYgkUK17EMjaXp590xP7nCxtDcqz4a.jpg" group-title="FILMES E SERIES",AXN HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114836.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND BRASILIA HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS ABERTOS",BAND BRASILIA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114839.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114840.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS ABERTOS",BAND RJ HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114843.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS ABERTOS",BAND RS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114844.ts
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="http://vipeiptv.com:25461/images/NffDczOO1RKk6aFklVxaYA7QXIwUGj2g.jpg" group-title="CANAIS ABERTOS",BAND SP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114845.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="http://vipeiptv.com:25461/images/SQKDlExMG02ojXrFZ7q9dRxr9UDjFSHk.jpg" group-title="ESPORTES",BAND SPORTS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114848.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND TAROBA HD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="CANAIS ABERTOS",BAND TAROBA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114849.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS FULLHD" tvg-logo="http://vipeiptv.com:25461/images/Mj3ptBUlv44pyYwnbdJmfhAzBr3jfW8o.png" group-title="VARIEDADES",BIS FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114851.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="VARIEDADES",BIS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114852.ts
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="http://vipeiptv.com:25461/images/xsXg7GF4rYq3A6DWFnuOG30gBQrdpYoR.jpg" group-title="INFANTIL",CARTOON NETWORK HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114861.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="http://imagem.natelinha.uol.com.br/grande/cinemax-novologo.jpg" group-title="FILMES E SERIES",CINEMAX HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114864.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="http://vipeiptv.com:25461/images/8DMu0TFSidNInA8hs1ocrOC7MIGNLKCV.png" group-title="ESPORTES",COMBATE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114867.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FULLHD" tvg-logo="http://vipeiptv.com:25461/images/szMmdwIpZuRAcKNwiRrBF0R5lj9dGk2N.png" group-title="VARIEDADES",COMEDY CENTRAL FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114869.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://vipeiptv.com:25461/images/gnBjESziHAls4soMz9QgIskCDe3tJV00.png" group-title="VARIEDADES",COMEDY CENTRAL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114870.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://vipeiptv.com:25461/images/VyywpSPEjU2apXVrc0ovxgYip0uzJz3T.png" group-title="ESPORTES",DAZN 1 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114873.ts
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://vipeiptv.com:25461/images/JoBytpBKV4xDYDzUC7xSwslO27jNKFui.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114876.ts
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://vipeiptv.com:25461/images/VaUgk5MAVbnfYUMfUbzZL2QucZPn3aBF.png" group-title="INFANTIL",DISCOVERY KIDS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114880.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://vipeiptv.com:25461/images/jNS2nmGJQtWgSrgBCFzQi2bI2FOpgcTL.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114882.ts
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://vipeiptv.com:25461/images/ouRrebDxye3PmGUqkIx1sgLo92HPFrU1.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114884.ts
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD" tvg-logo="http://vipeiptv.com:25461/images/bltQldmEeYPm2KjeOsnZFjg3N1Pvsi49.png" group-title="DOCUMENTARIOS",DISCOVERY TLC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114887.ts
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="http://vipeiptv.com:25461/images/nOU36y6iZ8SqBMF0JL4arIeJ5xWpFW1n.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114890.ts
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://vipeiptv.com:25461/images/V6qQzZBGThaX1THOmzqOZTOUNwOD9Amg.jpg" group-title="INFANTIL",DISNEY CHANNEL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114895.ts
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://vipeiptv.com:25461/images/ROnJcapPTvVfK4tKfGCW8toIid4FGBJm.png" group-title="INFANTIL",DISNEY JUNIOR HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114898.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FULLHD" tvg-logo="http://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="VARIEDADES",E! FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114901.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://vipeiptv.com:25461/images/m0vonmHS4a1jBW7ksAJNyJgn20M1cLnC.jpg" group-title="VARIEDADES",E! HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114902.ts
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="http://vipeiptv.com:25461/images/HV7OlHQK1EPtggp8oa3icHHbfmi07Den.png" group-title="ESPORTES",ESPN 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114907.ts
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-" group-title="ESPORTES",ESPN BRASIL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114910.ts
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="http://vipeiptv.com:25461/images/yd0g4Jc6t5GrKWbDK9oZnDDgKcIebf6x.png" group-title="ESPORTES",ESPN EXTRA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114912.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://vipeiptv.com:25461/images/2PUolKTXasKWyseGEdObXhgyp6Z1HQnl.png" group-title="ESPORTES",ESPN HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114914.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/gsEXC5h8wklzvAfBvNx1jPEZvCbmhWN8.jpg" group-title="VARIEDADES",FISH TV HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114917.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="http://vipeiptv.com:25461/images/DkAgahrY3XK5z4TD1W2oBCntJsGYI1bR.png" group-title="VARIEDADES",FISH TV HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114918.ts
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK FULLHD" tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156051/food-network-hd.png" group-title="VARIEDADES",FOOD NETWORK FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114920.ts
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="http://vipeiptv.com:25461/images/EJ9GEuvyHUEMRAQmzmD0Tv0z8HhRBA5q.png" group-title="VARIEDADES",FOOD NETWORK HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114921.ts
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="http://vipeiptv.com:25461/images/8mBHLsffmi3EZbm4s5Siow0E0oDFoiXg.png" group-title="FILMES E SERIES",FOX LIFE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114926.ts
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://vipeiptv.com:25461/images/0PCKGAOxAanPjfIi8cNs3Mo7IqTqYbYW.png" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114928.ts
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://vipeiptv.com:25461/images/R2OdAPVp7TXyTyp9REaOAJXeNYxpgQjU.png" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114930.ts
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORT HD" tvg-logo="http://vipeiptv.com:25461/images/SOgzKgojHl6LzyehYYBT0XQXQu6Jchbe.jpg" group-title="ESPORTES",FOX SPORT HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114932.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://vipeiptv.com:25461/images/XbQOR9z1cayrftYlQLC5jPNWMA7NbOHU.png" group-title="ESPORTES",FOX SPORTS 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114936.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://vipeiptv.com:25461/images/8aozmnzqFTcIYvmTENrFz5cVNIu1a5da.jpg" group-title="FILMES E SERIES",FX HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114940.ts
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/y8JP2Bby5XXhc4WNGUZWSmkta7wBDugH.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114943.ts
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://pbs.twimg.com/profile_images/926499453158137857/V72h9Tzw_400x400.jpg" group-title="NOTICIAS",GLOBO NEWS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114944.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT FULLHD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" group-title="VARIEDADES",GLOBOSAT FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114946.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/maisglobosatb.png" group-title="VARIEDADES",GLOBOSAT HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114947.ts
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="http://vipeiptv.com:25461/images/OQiRWhz48I0kmiRbj8VPmJLxwEaeiOaz.jpg" group-title="INFANTIL",GLOOB HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114950.ts
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT FULLHD" tvg-logo="http://vipeiptv.com:25461/images/RFw50YnK6s3Qd3scOP9zTePSmWJdFlad.jpg" group-title="VARIEDADES",GNT FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114952.ts
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://vipeiptv.com:25461/images/HgZh901t2BBvxtbaxg1QY70fLhMhucDW.jpg" group-title="VARIEDADES",GNT HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114953.ts
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://vipeiptv.com:25461/images/PVnVVajnGFNRoid7Afle7GD8BnOKQocy.png" group-title="REDE HBO",HBO 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114957.ts
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://vipeiptv.com:25461/images/ht0MWqDXro0YUveM9NjJ9m8LdoxZBRGp.png" group-title="REDE HBO",HBO FAMILY HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114960.ts
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://vipeiptv.com:25461/images/HPGIiJGl9qbVkl7ZstYxgKMyBdzdYUX7.png" group-title="REDE HBO",HBO HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114962.ts
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="http://vipeiptv.com:25461/images/PBqdFSXgItg58X6DxAXuDnhhn7wpb22y.png" group-title="REDE HBO",HBO PLUS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114965.ts
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://vipeiptv.com:25461/images/1h8m5nucKFZ9DN7w3F1uTQc6onkGAMua.png" group-title="REDE HBO",HBO SIGNATURE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114968.ts
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY 2 HD" tvg-logo="http://vipeiptv.com:25461/images/JJZF1ZJw1eCVJxenH0afZ8tqLMnWjZyZ.png" group-title="DOCUMENTARIOS",HISTORY 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114971.ts
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="http://vipeiptv.com:25461/images/LzQcgdW6wonavZZi5tVzu0zcC4CbgYQy.jpg" group-title="DOCUMENTARIOS",HISTORY HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114972.ts
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇAO DISCOVERY HD" tvg-logo="http://vipeiptv.com:25461/images/ZJZJkcT8xHXQReOyaPqXotp7S8QcvLFG.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114977.ts
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME FULLHD" tvg-logo="http://vipeiptv.com:25461/images/ZNvHDGYvsA2fDJCVarsxEY106NI4ZwFe.png" group-title="VARIEDADES",LIFETIME FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114979.ts
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="http://vipeiptv.com:25461/images/bAzabyWf6k8Idgupi9JadwS7sTmeaLGL.png" group-title="VARIEDADES",LIFETIME HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114980.ts
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="http://vipeiptv.com:25461/images/1AS7xsMqWrBuuK4WY9cL7Kf2oBXkqC6l.jpg" group-title="FILMES E SERIES",MAX HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114983.ts
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="http://vipeiptv.com:25461/images/mV2SW1wXSt6GXJR5bMWvfL2SAYtYihqr.png" group-title="FILMES E SERIES",MAX PRIME HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114986.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP HD" tvg-logo="http://vipeiptv.com:25461/images/hOQecPAL0tZAZRvNjrg54UxOPw27qfkT.png" group-title="FILMES E SERIES",MAX UP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114989.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://vipeiptv.com:25461/images/FBZrmHLVuw049EI1T44OpsMi6vFQDYXU.png" group-title="FILMES E SERIES",MEGAPIX HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114992.ts
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV FULLHD" tvg-logo="http://vipeiptv.com:25461/images/NyZLiG3wfaJIokVcoXdyQPKpHaRu6jX7.jpg" group-title="VARIEDADES",MTV FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114994.ts
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://vipeiptv.com:25461/images/KurwJDMzyZr8rstaAUg4qabUWhXRhwbu.jpg" group-title="VARIEDADES",MTV HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114995.ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW FULLHD" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114997.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114998.ts
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids_m.png" group-title="INFANTIL",NAT GEO KIDS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115002.ts
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NAT GEO KIDS HD" tvg-logo="http://vipeiptv.com:25461/images/GWP64KO6O6CC6l5JHraNF0tPOEhlFXrM.png" group-title="INFANTIL",NAT GEO KIDS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115003.ts
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD HD" tvg-logo="http://vipeiptv.com:25461/images/26VuNI6SMP10IN8gEvM6eg8VFQrRuDwR.png" group-title="DOCUMENTARIOS",NATGEO WILD HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115006.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://vipeiptv.com:25461/images/oBQST1fGgNL6KZI3MyhRgGZ3BJ35rXfk.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115009.ts
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="http://vipeiptv.com:25461/images/WbXwrQ1M6I1OTWDJT7i7x4gWjtBPFJom.png" group-title="INFANTIL",NICK JR HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115012.ts
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD" tvg-logo="http://vipeiptv.com:25461/images/wc81nO4SCwdkWcTrKYfCC82STruPbFq6.jpg" group-title="INFANTIL",NICKELODEON HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115014.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF FULLHD" tvg-logo="http://vipeiptv.com:25461/images/BCimqh8E5656EgnRGNqcmoW6FDozdxjC.jpg" group-title="VARIEDADES",OFF FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115016.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://vipeiptv.com:25461/images/B4DvKSuLAxpHwM2zpsXYMDpmxSmJVdVS.jpg" group-title="VARIEDADES",OFF HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115017.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://vipeiptv.com:25461/images/s2R7BaIj3qC2XM5T6e0NOYxzja9iKLBX.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115021.ts
-#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="http://vipeiptv.com:25461/images/qSMZUAe4xNEMGGCGZmj7jaQGh3pvS2Dc.jpg" group-title="NOTICIAS",RECORD NEWS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115029.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="CANAIS ABERTOS",REDE TV HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115033.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT BAHIA HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT BAHIA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115035.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT DF HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT DF HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115036.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PR HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT PR HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115039.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115040.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT RS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115041.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SC HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115042.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SERGIPE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115043.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115045.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://vipeiptv.com:25461/images/MZmGp2xHNeUumoYXhvg8FWklTkZHQuzc.jpg" group-title="FILMES E SERIES",SONY HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115050.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://vipeiptv.com:25461/images/2FWycEZXXKzDOjGyj1UeUS2vxSvJNkAd.png" group-title="FILMES E SERIES",SPACE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115053.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Universal_Studios.svg/1200px-Universal_Studios.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115056.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://vipeiptv.com:25461/images/Hvvdq8p38yuJVECCMrMnAlOKSMoEzp6R.jpg" group-title="FILMES E SERIES",SYFY HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115059.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://vipeiptv.com:25461/images/RbO856FPaihzA6Cfydl1LKmFyBMi823x.png" group-title="FILMES E SERIES",TNT HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115066.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://vipeiptv.com:25461/images/4KxTvo2U10vrECxMq3NETAiMDlB5JSEI.png" group-title="FILMES E SERIES",TNT SERIES HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115069.ts
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="http://vipeiptv.com:25461/images/32k7qoZA6fEErT4voCYqhILEFBoUqxM5.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115075.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://vipeiptv.com:25461/images/gDuVcsCR9HkRYQebVYRi0KNguJmmwD8E.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115082.ts
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 FULLHD" tvg-logo="http://vipeiptv.com:25461/images/3Q6nHY96JiS9Uth9q7VSZyKDU8BgbGC0.png" group-title="VARIEDADES",VH1 FULLHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115084.ts
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 HD" tvg-logo="http://vipeiptv.com:25461/images/Wk38SxAQvj5mXe2RlE5wEWA7aQaKBNLf.png" group-title="VARIEDADES",VH1 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115085.ts
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://vipeiptv.com:25461/images/ikYSgPWiiiBP3aGZgRF0iCGlTk0uPhl0.png" group-title="VARIEDADES",VIVA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115088.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://vipeiptv.com:25461/images/c6yi3Wmr4MWQBMeswBapgv6zVT07QRpf.jpg" group-title="FILMES E SERIES",WARNER CHANNEL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115091.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="http://vipeiptv.com:25461/images/OZaVPNbDvK0OItNqkvbsxCexTtNRc6PC.jpg" group-title="VARIEDADES",WOOHOO HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115093.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXX PRIVATE HD" tvg-logo="https://1.bp.blogspot.com/-laSD5nJPMdA/XUG5pyhL_4I/AAAAAAAAAKI/pfUzW9-Jvs0tf_h2y3SPVKI1athrWdQjwCLcBGAs/w280/canaladulto-online-gratis.png" group-title="ADULTOS",XXX PRIVATE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115098.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://vipeiptv.com:25461/images/wZsfC66MWPci0DGK2GMSqN4vEbSEfGgN.png" group-title="ESPORTES",DAZN 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115114.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://vipeiptv.com:25461/images/ZqsYCqFVoxlop1R5DPgulDUAb78h88tZ.png" group-title="ESPORTES",DAZN 3 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115115.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://vipeiptv.com:25461/images/Z9BmwFhd2L71LKkndO5lhmvg6KjySwLp.png" group-title="ESPORTES",DAZN 4 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115116.ts
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115370.ts
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115371.ts
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115372.ts
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115373.ts
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115374.ts
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115375.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 HD" tvg-logo="https://www.tracto.com.br/wp-content/uploads/2014/05/logo-sportv-3d-frontal.png" group-title="ESPORTES",SPORTV 2 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115394.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 HD" tvg-logo="http://vipeiptv.com:25461/images/7f302c4a2bff39d4d720cb2e45fc8750.png" group-title="ESPORTES",SPORTV 3 HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115395.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV HD" tvg-logo="http://vipeiptv.com:25461/images/7f302c4a2bff39d4d720cb2e45fc8750.png" group-title="ESPORTES",SPORTV HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115396.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BRASILIA HD³" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA HD³
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115409.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO INTERNACIONAL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115410.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RJ HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115411.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SERGIPE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115412.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SP HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115413.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO MG HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115416.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RPC HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RPC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115417.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO ANHANGUERA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO ANHANGUERA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115431.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND GO HD" tvg-logo="http://vipeiptv.com:25461/images/ecc36785d9d0d491f2590dba07bb60bf.jpg" group-title="CANAIS ABERTOS",BAND GO HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115432.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115466.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO VERDES FULL HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VERDES FULL HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115470.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VERDES MARES HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115471.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NSC FLORIANOPOLIS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115473.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RBS HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115476.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO MS FHD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MS FHD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115480.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TV MIRANTE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115482.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H HD" tvg-logo="http://vipeiptv.com:25461/images/OFF7r60HhTojrzhBgGxYL1CRHPiAo1Z5.jpg" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115484.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115498.ts
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115500.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD GO HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD GO HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115501.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD PARANA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD PARANA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115502.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD CAMPINAS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115504.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SC HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD SC HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115506.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD CABRALIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD CABRALIA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115508.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD RS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD RS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115509.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SJRP HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD SJRP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115510.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SERGIPE HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD SERGIPE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115511.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SP HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115512.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD BELEM HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD BELEM HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115513.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD SANTOS HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD SANTOS HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115514.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD MG HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD MG HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115515.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD RJ HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115516.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD BRASILIA HD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD BRASILIA HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115517.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E" tvg-logo="http://vipeiptv.com:25461/images/qvFSFcNOgRKnJPPd3CKStb4M6D8mWOkL.png" group-title="FILMES E SERIES",A&E
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114824.ts
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://vipeiptv.com:25461/images/21ZvDNnma0aDWPGlQ7uTO6xg6skFHdnf.png" group-title="FILMES E SERIES",AMC
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114827.ts
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" tvg-logo="http://vipeiptv.com:25461/images/Pcs9sMVQBoiLfRmv0fnPqDA4iUNIiyFg.jpg" group-title="DOCUMENTARIOS",ANIMAL PLANET
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114830.ts
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1  SD" tvg-logo="http://vipeiptv.com:25461/images/z5IM4Ze4xUQBZecevqeAUxVVzmw6Ua89.png" group-title="VARIEDADES",ARTE 1  SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114833.ts
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="http://vipeiptv.com:25461/images/QBYJ6KpeQTMf4wOi2RXC8sPdbhnyuQbY.jpg" group-title="FILMES E SERIES",AXN
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114834.ts
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD" tvg-logo="http://vipeiptv.com:25461/images/OynUY2GgLxflCU85GGgHCTmHoPoEeEfj.png" group-title="INFANTIL",BABY TV SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114837.ts
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="BAND BAHIA SD" tvg-logo="http://vipeiptv.com:25461/images/ssROVTcc6oJpPcY30yzvq1rzANQbwfFH.jpg" group-title="CANAIS ABERTOS",BAND BAHIA SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114838.ts
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS" tvg-logo="http://vipeiptv.com:25461/images/9NSU4ilwSXtOXLsiUhRgXxq70Qg4d63z.jpg" group-title="NOTICIAS",BAND NEWS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114841.ts
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS" tvg-logo="http://vipeiptv.com:25461/images/6ZVwsY0hqe3jX4rDNmeBJr2tSnrJtFzY.jpg" group-title="ESPORTES",BAND SPORTS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114846.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://vipeiptv.com:25461/images/5kpynopScg2iN386KK3rRVlUqwfH9rig.png" group-title="VARIEDADES",BIS SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114850.ts
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="http://vipeiptv.com:25461/images/rjxQ0ZvsI6v2p4FsZz4Lre4d6XEVL55K.png" group-title="INFANTIL",BOOMERANG SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114854.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL" tvg-logo="http://vipeiptv.com:25461/images/6dKEDbm5UMT1OxprHXNesk2UwVy1i6s9.png" group-title="CANAIS ABERTOS",CANAL BRASIL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114856.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://grupobrtv.com/logos/canalrural.png" group-title="CANAIS ABERTOS",CANAL DO BOI
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114857.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://grupobrtv.com/logos/cancaonova.png" group-title="CANAIS ABERTOS",CANÇÃO NOVA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114858.ts
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK" tvg-logo="http://vipeiptv.com:25461/images/3pSGBVfhqG87m99BwYT1cG0s8u5LKiAq.jpg" group-title="INFANTIL",CARTOON NETWORK
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114859.ts
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX" tvg-logo="http://vipeiptv.com:25461/images/AIkKTN0NcBu7aEsVgEnc1jgiYzH19TdP.jpg" group-title="FILMES E SERIES",CINEMAX
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114862.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://vipeiptv.com:25461/images/LIqlEsAtfYmXHWpGyFAojXqmQHVJjX1A.png" group-title="ESPORTES",COMBATE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114865.ts
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://vipeiptv.com:25461/images/7wCqcW4hA3OtvktBM4OYHDGlwWnMMurY.png" group-title="VARIEDADES",COMEDY CENTRAL SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114868.ts
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CULTURA" tvg-logo="http://vipeiptv.com:25461/images/6So3sE2cok8e8AqkoMcZurFyraRaZQpT.png" group-title="CANAIS ABERTOS",CULTURA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114871.ts
-#EXTINF:-1 tvg-id="" tvg-name="CURTA! SD" tvg-logo="http://vipeiptv.com:25461/images/JRwm3CPZXapZmdZ4uO7HxGHIlAiYie1Q.png" group-title="VARIEDADES",CURTA! SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114872.ts
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://vipeiptv.com:25461/images/8a5oXzDjboJFFDTxpQpVmVThAjn6sbxS.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114874.ts
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H" tvg-logo="http://vipeiptv.com:25461/images/ImcOB6ThHcm3WU7vduSoJNndkH03Rjae.jpg" group-title="DOCUMENTARIOS",DISCOVERY H&H
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114877.ts
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS" tvg-logo="http://vipeiptv.com:25461/images/lV3K6k52bpP44rGwjJKumaz89zftsupI.png" group-title="INFANTIL",DISCOVERY KIDS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114878.ts
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC" tvg-logo="http://vipeiptv.com:25461/images/0MmmyCnWhCtczmuzoFHRDvgwAdFhNUqI.png" group-title="DOCUMENTARIOS",DISCOVERY TLC
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114885.ts
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO" tvg-logo="http://vipeiptv.com:25461/images/rI09tnX5f6Y2oeFvFO8Hfg1fuBbDmY4W.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114888.ts
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3266548_logo_discovery_world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114891.ts
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL" tvg-logo="http://vipeiptv.com:25461/images/2hxCOxCAsZEgIv5QFsuaoRiwLDHF2S55.jpg" group-title="INFANTIL",DISNEY CHANNEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114893.ts
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR" tvg-logo="http://vipeiptv.com:25461/images/KESHZFXpF38BqhdMMrFA0XPZDt9kcrpN.png" group-title="INFANTIL",DISNEY JUNIOR
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114896.ts
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD" tvg-logo="http://vipeiptv.com:25461/images/mzanhbOvMJJEOrem9Z6ewhHQEn3SDVkD.png" group-title="INFANTIL",DISNEY XD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114899.ts
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="http://vipeiptv.com:25461/images/6f0jpnDrkw3JFQRLDBMsK6PkudFLyLsr.jpg" group-title="VARIEDADES",E! SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114900.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vipeiptv.com:25461/images/4pKX9hklvOoHZVD7NchoLVLN84fRzf47.png" group-title="ESPORTES",ESPN
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114904.ts
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2" tvg-logo="http://vipeiptv.com:25461/images/5xPkRtnkFegdg8hVQ9Ry0SacLRbLhlzR.png" group-title="ESPORTES",ESPN 2
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114905.ts
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL" tvg-logo="http://vipeiptv.com:25461/images/7gN2P65sG1ljxXgMkXeGWkl9TMVXUPmm.png" group-title="ESPORTES",ESPN BRASIL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114908.ts
-#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="http://vipeiptv.com:25461/images/MyseNQM3B9f1xXNJqgSKCr3NGa0AThcU.png" group-title="FILMES E SERIES",FILM & ARTS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114915.ts
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="http://vipeiptv.com:25461/images/dimZ7Ib9xbj5gcZi2LBx3i00GJEzL0pJ.jpg" group-title="VARIEDADES",FISH TV SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114916.ts
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK SD" tvg-logo="http://vipeiptv.com:25461/images/7Q2NeEtScVBDPfozDSK9nVRLGbdOEuCG.png" group-title="VARIEDADES",FOOD NETWORK SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114919.ts
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX" tvg-logo="http://grupobrtv.com/logos/fox1hd.png" group-title="FILMES E SERIES",FOX
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114922.ts
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE" tvg-logo="http://vipeiptv.com:25461/images/1YvkiULuKQbEvv2JIKUTBBk5iaH2Ovng.jpg" group-title="FILMES E SERIES",FOX LIFE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114925.ts
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX SPORTS" tvg-logo="http://vipeiptv.com:25461/images/Tx9dn9T6QBr1Xbf0il4LiaIvAzrqgqtl.jpg" group-title="ESPORTES",FOX SPORTS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114933.ts
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2" tvg-logo="http://vipeiptv.com:25461/images/Pr1AVrD0V9So59FTq8dwIlj32FuI1Kqs.png" group-title="ESPORTES",FOX SPORTS 2
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114934.ts
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://vipeiptv.com:25461/images/ycr1kSfC9NUhzkAfLaXC41wxv08PFxXX.png" group-title="CANAIS ABERTOS",FUTURA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114937.ts
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX" tvg-logo="http://vipeiptv.com:25461/images/MVUEbOiLJvqdraR3VuFDTlniUZx9sz27.jpg" group-title="FILMES E SERIES",FX
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114938.ts
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS" tvg-logo="http://vipeiptv.com:25461/images/zUC0Pxrh3iXxqE0EGnE2qFWzyZuUIGGL.jpg" group-title="NOTICIAS",GLOBO NEWS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114941.ts
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="GLOBOSAT SD" tvg-logo="http://vipeiptv.com:25461/images/ysZCNNx24B2N4goesWNt8j1spEsRYDwn.png" group-title="VARIEDADES",GLOBOSAT SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114945.ts
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB" tvg-logo="http://vipeiptv.com:25461/images/kywICx5kxKkkwiHwREH75FvZJwzQL1Gs.jpg" group-title="INFANTIL",GLOOB
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114948.ts
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT SD" tvg-logo="http://vipeiptv.com:25461/images/MZqRadWGDYlyBPSfulissonlvWhJUwdp.jpg" group-title="VARIEDADES",GNT SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114951.ts
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO" tvg-logo="http://vipeiptv.com:25461/images/dJuYCjVdiK2HoRGhMJ0sIQxnepgFBNxv.png" group-title="REDE HBO",HBO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114954.ts
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2" tvg-logo="http://vipeiptv.com:25461/images/XwvNac4S4xvLFFMNY1GxLMZin0Misall.png" group-title="REDE HBO",HBO 2
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114955.ts
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY" tvg-logo="http://vipeiptv.com:25461/images/wythxtHwIARLNIbiZv1P9RHo6rXW1Jyb.png" group-title="REDE HBO",HBO FAMILY
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114958.ts
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS" tvg-logo="http://vipeiptv.com:25461/images/RbRJB4WbcRiZjelOqqjd22wmUwSubQZK.png" group-title="REDE HBO",HBO PLUS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114963.ts
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE" tvg-logo="http://vipeiptv.com:25461/images/Dxrd3UFcJ1gJwE7tYzHsHTdORpF4CNax.png" group-title="REDE HBO",HBO SIGNATURE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114966.ts
-#EXTINF:-1 tvg-id="H2.br" tvg-name="HISTORY 2" tvg-logo="http://vipeiptv.com:25461/images/twazusq83nsKUTA4g5WEIxiWqvwRJvhB.png" group-title="DOCUMENTARIOS",HISTORY 2
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114969.ts
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD" tvg-logo="http://vipeiptv.com:25461/images/vcLqCPcwySGPcBy2nOtX8e4Dbt5sLeJb.png" group-title="VARIEDADES",I-SAT SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114974.ts
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGAÇAO DISCOVERY" tvg-logo="http://vipeiptv.com:25461/images/Oz7rP1qUjNp4WLBHqhsnmlD9pCWl5kIY.png" group-title="DOCUMENTARIOS",ID - INVESTIGAÇAO DISCOVERY
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114975.ts
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME SD" tvg-logo="http://vipeiptv.com:25461/images/d8RKVo6kDCseLsnwrtQ3H8RPIiGKLejX.png" group-title="VARIEDADES",LIFETIME SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114978.ts
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX" tvg-logo="http://vipeiptv.com:25461/images/wJJdwLiHc1gLgYTl0ZP3GCtl9HrA381o.jpg" group-title="FILMES E SERIES",MAX
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114981.ts
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME" tvg-logo="http://vipeiptv.com:25461/images/lDQaUWMnllnJ57nhkT9oXQymk8e2cyJI.png" group-title="FILMES E SERIES",MAX PRIME
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114984.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="http://vipeiptv.com:25461/images/oZwiAMuehq2HHRLLipvjbsEC6nJKDZ6v.png" group-title="FILMES E SERIES",MAX UP
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114987.ts
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX" tvg-logo="http://vipeiptv.com:25461/images/x3TntMv6OrJ20iSVJnq8ymbDDCwgHGSY.png" group-title="FILMES E SERIES",MEGAPIX
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114990.ts
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV SD" tvg-logo="http://vipeiptv.com:25461/images/bn0yYRkgbqNmGzCt4mSusZotibrbj4Vq.jpg" group-title="VARIEDADES",MTV SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114993.ts
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://assets.b9.com.br/wp-content/uploads/2012/04/multishow001.gif" group-title="VARIEDADES",MULTISHOW SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114996.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL SD" tvg-logo="http://vipeiptv.com:25461/images/sTh9Whf6oZExDapFmmaN311IL40SO2jT.png" group-title="VARIEDADES",MUSIC BOX BRAZIL SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/114999.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="https://cdn.mitvstatic.com/channels/br_nat-geo-kids_m.png" group-title="INFANTIL",NAT GEO KIDS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115000.ts
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NATGEO WILD" tvg-logo="http://vipeiptv.com:25461/images/ZF8J9jhlZ4oMsk3TnJEimrRqbXFwM8yF.png" group-title="DOCUMENTARIOS",NATGEO WILD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115004.ts
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://vipeiptv.com:25461/images/dCAIfRdkQAoOs5yrr1mOTJ7fphcukTwf.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115007.ts
-#EXTINF:-1 tvg-id="" tvg-name="NHK SD" tvg-logo="http://vipeiptv.com:25461/images/IcWNem8aih3umZHWotKI0gZc7tnerlkc.jpg" group-title="VARIEDADES",NHK SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115010.ts
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR" tvg-logo="http://vipeiptv.com:25461/images/AHw0yIPCJtHVWXH3TbCvCbfyWiCJFAkQ.png" group-title="INFANTIL",NICK JR
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115011.ts
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON" tvg-logo="http://vipeiptv.com:25461/images/R8XY2tXWkSY3QWbtoKDoHgscJ2C2ZdJh.jpg" group-title="INFANTIL",NICKELODEON
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115013.ts
-#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF SD" tvg-logo="http://vipeiptv.com:25461/images/pcJiAG6oNVzDPHWFoe0P3sf4SuLZgCuo.jpg" group-title="VARIEDADES",OFF SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115015.ts
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://vipeiptv.com:25461/images/dtxAOjyDkOppk37ghaz1sJtkFFX619Q0.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115019.ts
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="PLAY TV SD" tvg-logo="http://vipeiptv.com:25461/images/rEkf2WBmKsfGQN4jVIfLK81yRLUCQoLJ.png" group-title="VARIEDADES",PLAY TV SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115023.ts
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP TV" tvg-logo="http://vipeiptv.com:25461/images/uVcbiBSQMBQXB5NeTb32LSpZtNjZYN5v.png" group-title="CANAIS ABERTOS",POLISHOP TV
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115026.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRASIL  SD" tvg-logo="http://grupobrtv.com/logos/primeboxbrazil.png" group-title="VARIEDADES",PRIME BOX BRASIL  SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115027.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://vipeiptv.com:25461/images/zcXem8BWx7dYZxXRByofGoby2ZxuQrFv.jpeg" group-title="CANAIS ABERTOS",REDE BRASIL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115030.ts
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="CANAIS ABERTOS",REDE TV
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115031.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://vipeiptv.com:25461/images/rH6OiYlQ20RTgTzPet4ajAYPn1cpoQ3L.png" group-title="CANAIS ABERTOS",REDE VIDA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115034.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT ES" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT ES
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115037.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GO" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT GO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115038.ts
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP" tvg-logo="http://grupobrtv.com/logos/sbt.png" group-title="CANAIS ABERTOS",SBT SP
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115044.ts
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY" tvg-logo="http://vipeiptv.com:25461/images/hp7yQpzUeOG5QDc3VKOtZWCEWfxfjisv.jpg" group-title="FILMES E SERIES",SONY
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115048.ts
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="http://vipeiptv.com:25461/images/jm3o7DEvvpqnh7oJYAXg893wv4WR85f1.png" group-title="FILMES E SERIES",SPACE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115051.ts
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Universal_Studios.svg/1200px-Universal_Studios.svg.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115054.ts
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="http://vipeiptv.com:25461/images/peQ2Es58kOwldKkoAcfiVmzrmOe69KA7.jpg" group-title="FILMES E SERIES",SYFY
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115057.ts
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS" tvg-logo="http://vipeiptv.com:25461/images/ybuh5NO3v2f9X40yNDpwFq5A6U8O4vp2.png" group-title="FILMES E SERIES",TBS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115060.ts
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SERIES",TCM
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115061.ts
-#EXTINF:-1 tvg-id="" tvg-name="TERRA VIVA" tvg-logo="" group-title="CANAIS ABERTOS",TERRA VIVA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115062.ts
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="http://vipeiptv.com:25461/images/Kee0JiET4SotayBmByh12h0bvyQ78N8f.png" group-title="FILMES E SERIES",TNT
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115064.ts
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="http://vipeiptv.com:25461/images/PkWJehzf82EcH7sLNc1K0OD8XpExCkKl.png" group-title="FILMES E SERIES",TNT SERIES
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115067.ts
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST" tvg-logo="http://vipeiptv.com:25461/images/xO4BoOwu8EYe898njQXg7uVG9KLcOX4L.png" group-title="INFANTIL",TOONCAST
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115070.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trato Feito" tvg-logo="http://portfolioveiculos.com.br/portfolio/midia/conteudo-img/img1560954490549.jpg" group-title="SERIES 24HRS",Trato Feito
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115071.ts
-#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV SD" tvg-logo="" group-title="VARIEDADES",TRUTV SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115072.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="" group-title="CANAIS ABERTOS",TV APARECIDA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115073.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CAMERA" tvg-logo="" group-title="CANAIS ABERTOS",TV CAMERA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115074.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA" tvg-logo="" group-title="CANAIS ABERTOS",TV JUSTIÇA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115076.ts
-#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM" tvg-logo="" group-title="INFANTIL",TV RA TIM BUM
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115077.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="" group-title="CANAIS ABERTOS",TV SENADO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115078.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO VITORIA ES" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VITORIA ES
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115079.ts
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://vipeiptv.com:25461/images/bRv4c0uGGT9YLYNmvNufqjqhZ7phZVyv.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115080.ts
-#EXTINF:-1 tvg-id="VH1HD.br" tvg-name="VH1 SD" tvg-logo="http://vipeiptv.com:25461/images/CFQLe0utEbO6WVQJkJj5FmzRju9K7AJv.png" group-title="VARIEDADES",VH1 SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115083.ts
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://vipeiptv.com:25461/images/SIXyrJyMmeQlul87q1us6Rrq3gYHpi0B.png" group-title="VARIEDADES",VIVA SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115087.ts
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="http://vipeiptv.com:25461/images/5bq7Hdxf3R13EJWqvPLx81LVZYBdrt28.jpg" group-title="FILMES E SERIES",WARNER CHANNEL
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115089.ts
-#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO SD" tvg-logo="" group-title="VARIEDADES",WOOHOO SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115092.ts
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://vipeiptv.com:25461/images/ulZPFLsXR8xsDDcA6vXcTCseAjqMNvwX.png" group-title="INFANTIL",ZOOMOO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115094.ts
-#EXTINF:-1 tvg-id="" tvg-name="HIstory SD" tvg-logo="https://1.bp.blogspot.com/-laSD5nJPMdA/XUG5pyhL_4I/AAAAAAAAAKI/pfUzW9-Jvs0tf_h2y3SPVKI1athrWdQjwCLcBGAs/w280/canaladulto-online-gratis.png" group-title="DOCUMENTARIOS",HIstory SD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115117.ts
-#EXTINF:-1 tvg-id="" tvg-name="BBB 20" tvg-logo="https://static.otvfoco.com.br/2019/10/bbb-1280x720.jpg" group-title="PER PER VIEW",BBB 20
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115135.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO 4K" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="CANAIS 4K",GLOBO 4K
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115136.ts
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROH1vRKEj_Niy6tl4D0CHBWAzWBvaYQOL0fIs4ClJVUJZ5_ITG" group-title="ESPORTES",SPORTV
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115237.ts
-#EXTINF:-1 tvg-id="" tvg-name="Xena 24hs" tvg-logo="" group-title="SERIES 24HRS",Xena 24hs
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115360.ts
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="http://grupobrtv.com/logos/telecineactionhd.png" group-title="REDE TELECINE",TELECINE ACTION
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115364.ts
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT" tvg-logo="http://grupobrtv.com/logos/telecineculthd.png" group-title="REDE TELECINE",TELECINE CULT
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115365.ts
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN" tvg-logo="http://grupobrtv.com/logos/telecinefunhd.png" group-title="REDE TELECINE",TELECINE FUN
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115366.ts
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA" tvg-logo="http://grupobrtv.com/logos/telecinepipocahd.png" group-title="REDE TELECINE",TELECINE PIPOCA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115367.ts
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM" tvg-logo="http://grupobrtv.com/logos/telecinepremiumhd.png" group-title="REDE TELECINE",TELECINE PREMIUM
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115368.ts
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH" tvg-logo="http://grupobrtv.com/logos/telecinetouchhd.png" group-title="REDE TELECINE",TELECINE TOUCH
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115385.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://vipeiptv.com:25461/images/7f302c4a2bff39d4d720cb2e45fc8750.png" group-title="ESPORTES",SPORTV 3
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115397.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://vipeiptv.com:25461/images/7f302c4a2bff39d4d720cb2e45fc8750.png" group-title="ESPORTES",SPORTV 2
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115398.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SANTA CRUZ" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SANTA CRUZ
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115414.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BAHIA SUBAE" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BAHIA SUBAE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115415.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BRASILIA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BRASILIA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115418.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NORDESTE" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NORDESTE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115420.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RJ" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RJ
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115421.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SP" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SP
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115422.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RBS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RBS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115423.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO RPC" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO RPC
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115424.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BAURU" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BAURU
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115425.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SAO JOSE DO RIO PRETO" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SAO JOSE DO RIO PRETO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115426.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO SOROCABA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO SOROCABA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115427.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO TRIBUNA SANTOS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO TRIBUNA SANTOS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115428.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO VANGUARDA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VANGUARDA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115429.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO VERDES MARES" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO VERDES MARES
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115430.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV SAO CARLOS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115433.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV CAMPINAS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115434.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO EPTV RIBEIRAO PRETO
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115435.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO CABUGI" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO CABUGI
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115436.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD AMAZONAS" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD AMAZONAS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115437.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO ANHANGUERA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO ANHANGUERA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115438.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO BAHIA" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO BAHIA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115439.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="GLOBO MG" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO MG
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115445.ts
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY THEATER
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115491.ts
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115492.ts
-#EXTINF:-1 tvg-id="TVGlobo.br" tvg-name="GLOBO NSC FLORIANOPOLIS" tvg-logo="http://grupobrtv.com/logos/globosp.png" group-title="GLOBOS",GLOBO NSC FLORIANOPOLIS
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115505.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV PARANA" tvg-logo="http://vipeiptv.com:25461/images/f2ea1d2d2c51659491b82cc9ddc95de1.jpg" group-title="CANAIS ABERTOS",TV PARANA
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115507.ts
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORD" tvg-logo="http://grupobrtv.com/logos/rederecord.png" group-title="CANAIS ABERTOS",RECORD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115518.ts
-#EXTINF:-1 tvg-id="" tvg-name="x PRIVATE HD" tvg-logo="https://1.bp.blogspot.com/-laSD5nJPMdA/XUG5pyhL_4I/AAAAAAAAAKI/pfUzW9-Jvs0tf_h2y3SPVKI1athrWdQjwCLcBGAs/w280/canaladulto-online-gratis.png" group-title="ADULTOS",x PRIVATE HD
-http://p2pbrtv.com:8080/live/novoyou2020/2020000015/115133.ts
+#EXTINF:-1,A&E
+http://lista.serverpower.me:80/503427/503427/37029
+#EXTINF:-1,A&E ¹
+http://lista.serverpower.me:80/503427/503427/37577
+#EXTINF:-1,A&E HD
+http://lista.serverpower.me:80/503427/503427/37219
+#EXTINF:-1,A&E HD ¹
+http://lista.serverpower.me:80/503427/503427/37555
+#EXTINF:-1,AMC
+http://lista.serverpower.me:80/503427/503427/37043
+#EXTINF:-1,AMC ¹
+http://lista.serverpower.me:80/503427/503427/37582
+#EXTINF:-1,AMC HD
+http://lista.serverpower.me:80/503427/503427/37132
+#EXTINF:-1,AMC HD ¹
+http://lista.serverpower.me:80/503427/503427/37557
+#EXTINF:-1,ANIMAL PLANET
+http://lista.serverpower.me:80/503427/503427/37076
+#EXTINF:-1,ANIMAL PLANET ¹
+http://lista.serverpower.me:80/503427/503427/37583
+#EXTINF:-1,ANIMAL PLANET HD
+http://lista.serverpower.me:80/503427/503427/37133
+#EXTINF:-1,ANIMAL PLANET HD ¹
+http://lista.serverpower.me:80/503427/503427/37595
+#EXTINF:-1,ARTE 1
+http://lista.serverpower.me:80/503427/503427/37075
+#EXTINF:-1,ARTE 1 HD
+http://lista.serverpower.me:80/503427/503427/37134
+#EXTINF:-1,ARTE 1 HD ¹
+http://lista.serverpower.me:80/503427/503427/37641
+#EXTINF:-1,AXN
+http://lista.serverpower.me:80/503427/503427/37077
+#EXTINF:-1,AXN ¹
+http://lista.serverpower.me:80/503427/503427/37578
+#EXTINF:-1,AXN HD
+http://lista.serverpower.me:80/503427/503427/37135
+#EXTINF:-1,AXN HD ¹
+http://lista.serverpower.me:80/503427/503427/37556
+#EXTINF:-1,BABY TV ¹
+http://lista.serverpower.me:80/503427/503427/37598
+#EXTINF:-1,BAND NEWS
+http://lista.serverpower.me:80/503427/503427/37104
+#EXTINF:-1,BAND NEWS HD
+http://lista.serverpower.me:80/503427/503427/37136
+#EXTINF:-1,BAND
+http://lista.serverpower.me:80/503427/503427/37096
+#EXTINF:-1,BAND¹
+http://lista.serverpower.me:80/503427/503427/37639
+#EXTINF:-1,BAND HD
+http://lista.serverpower.me:80/503427/503427/37220
+#EXTINF:-1,BAND SP  HD¹
+http://lista.serverpower.me:80/503427/503427/37635
+#EXTINF:-1,BAND SPORTS
+http://lista.serverpower.me:80/503427/503427/37103
+#EXTINF:-1,BAND SPORTS ¹
+http://lista.serverpower.me:80/503427/503427/37532
+#EXTINF:-1,BAND SPORTS HD
+http://lista.serverpower.me:80/503427/503427/37137
+#EXTINF:-1,BAND SPORTS HD ¹
+http://lista.serverpower.me:80/503427/503427/37543
+#EXTINF:-1,BIS
+http://lista.serverpower.me:80/503427/503427/37101
+#EXTINF:-1,BIS  ¹
+http://lista.serverpower.me:80/503427/503427/37658
+#EXTINF:-1,BIS HD
+http://lista.serverpower.me:80/503427/503427/37221
+#EXTINF:-1,BIS HD ¹
+http://lista.serverpower.me:80/503427/503427/37640
+#EXTINF:-1,TV MUNDIAL
+http://lista.serverpower.me:80/503427/503427/37662
+#EXTINF:-1,BOOMERANG
+http://lista.serverpower.me:80/503427/503427/37056
+#EXTINF:-1,BOOMERANG ¹
+http://lista.serverpower.me:80/503427/503427/37601
+#EXTINF:-1,BOOMERANG HD
+http://lista.serverpower.me:80/503427/503427/37138
+#EXTINF:-1,BOOMERANG HD ¹
+http://lista.serverpower.me:80/503427/503427/37605
+#EXTINF:-1,CANAL BRASIL
+http://lista.serverpower.me:80/503427/503427/37105
+#EXTINF:-1,CANAL BRASIL¹
+http://lista.serverpower.me:80/503427/503427/37637
+#EXTINF:-1,CANAL BRASIL HD
+http://lista.serverpower.me:80/503427/503427/37139
+#EXTINF:-1,CANAL BRASIL HD¹
+http://lista.serverpower.me:80/503427/503427/37630
+#EXTINF:-1,CANAL SONY
+http://lista.serverpower.me:80/503427/503427/37073
+#EXTINF:-1,CANAL SONY HD
+http://lista.serverpower.me:80/503427/503427/37140
+#EXTINF:-1,CANAL SONY HD ¹
+http://lista.serverpower.me:80/503427/503427/37554
+#EXTINF:-1,CARTOON NETWORK
+http://lista.serverpower.me:80/503427/503427/37041
+#EXTINF:-1,CARTOON NETWORK ¹
+http://lista.serverpower.me:80/503427/503427/37602
+#EXTINF:-1,CARTOON NETWORK HD
+http://lista.serverpower.me:80/503427/503427/37141
+#EXTINF:-1,CARTOON NETWORK HD ¹
+http://lista.serverpower.me:80/503427/503427/37612
+#EXTINF:-1, CINEMAX
+http://lista.serverpower.me:80/503427/503427/29705
+#EXTINF:-1,CINEMAX ¹
+http://lista.serverpower.me:80/503427/503427/37575
+#EXTINF:-1,CINEMAX HD
+http://lista.serverpower.me:80/503427/503427/37222
+#EXTINF:-1,CINEMAX HD ¹
+http://lista.serverpower.me:80/503427/503427/37553
+#EXTINF:-1,COMBATE
+http://lista.serverpower.me:80/503427/503427/37106
+#EXTINF:-1,COMBATE ¹
+http://lista.serverpower.me:80/503427/503427/37529
+#EXTINF:-1,COMBATE HD
+http://lista.serverpower.me:80/503427/503427/37142
+#EXTINF:-1,COMEDY CENTRAL
+http://lista.serverpower.me:80/503427/503427/37049
+#EXTINF:-1,COMEDY CENTRAL ¹
+http://lista.serverpower.me:80/503427/503427/37660
+#EXTINF:-1,COMBATE FHD 
+http://lista.serverpower.me:80/503427/503427/37546
+#EXTINF:-1,COMEDY CENTRAL HD
+http://lista.serverpower.me:80/503427/503427/37143
+#EXTINF:-1,COMEDY CENTRAL HD ¹
+http://lista.serverpower.me:80/503427/503427/37643
+#EXTINF:-1,CULTURA
+http://lista.serverpower.me:80/503427/503427/37026
+#EXTINF:-1,CULTURA HD
+http://lista.serverpower.me:80/503427/503427/37223
+#EXTINF:-1,CURTA!
+http://lista.serverpower.me:80/503427/503427/37059
+#EXTINF:-1,CURTA ¹
+http://lista.serverpower.me:80/503427/503427/37661
+#EXTINF:-1,CURTA! HD
+http://lista.serverpower.me:80/503427/503427/37144
+#EXTINF:-1,DISCOVERY H&H
+http://lista.serverpower.me:80/503427/503427/37117
+#EXTINF:-1,DISCOVERY H&H ¹
+http://lista.serverpower.me:80/503427/503427/37587
+#EXTINF:-1,DISCOVERY H&H HD
+http://lista.serverpower.me:80/503427/503427/37145
+#EXTINF:-1,DISCOVERY H&H HD ¹
+http://lista.serverpower.me:80/503427/503427/37590
+#EXTINF:-1,DISCOVERY CHANNEL
+http://lista.serverpower.me:80/503427/503427/37024
+#EXTINF:-1,DISCOVERY CHANNEL ¹
+http://lista.serverpower.me:80/503427/503427/37586
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://lista.serverpower.me:80/503427/503427/37225
+#EXTINF:-1,DISCOVERY CHANNEL HD ¹
+http://lista.serverpower.me:80/503427/503427/37589
+#EXTINF:-1,DISNEY CHANNEL
+http://lista.serverpower.me:80/503427/503427/37047
+#EXTINF:-1,DISNEY CHANNEL HD
+http://lista.serverpower.me:80/503427/503427/37149
+#EXTINF:-1,DISNEY CHANNEL HD ¹
+http://lista.serverpower.me:80/503427/503427/37594
+#EXTINF:-1,DISCOVERY CIVILIZATION ¹
+http://lista.serverpower.me:80/503427/503427/37585
+#EXTINF:-1,DISCOVERY CIVILIZATION HD ¹
+http://lista.serverpower.me:80/503427/503427/37596
+#EXTINF:-1,DISCOVERY KIDS
+http://lista.serverpower.me:80/503427/503427/37102
+#EXTINF:-1,DISCOVERY KIDS ¹
+http://lista.serverpower.me:80/503427/503427/37600
+#EXTINF:-1,DISCOVERY KIDS HD
+http://lista.serverpower.me:80/503427/503427/37226
+#EXTINF:-1,DISCOVERY KIDS HD ¹
+http://lista.serverpower.me:80/503427/503427/37606
+#EXTINF:-1,DISCOVERY SCIENCE
+http://lista.serverpower.me:80/503427/503427/37020
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://lista.serverpower.me:80/503427/503427/37227
+#EXTINF:-1,DISCOVERY SCIENCE HD ¹
+http://lista.serverpower.me:80/503427/503427/37591
+#EXTINF:-1,DISCOVERY THEATER
+http://lista.serverpower.me:80/503427/503427/37042
+#EXTINF:-1,DISCOVERY THEATER HD
+http://lista.serverpower.me:80/503427/503427/37146
+#EXTINF:-1,DISCOVERY THEATER HD ¹
+http://lista.serverpower.me:80/503427/503427/37592
+#EXTINF:-1,DISCOVERY TURBO
+http://lista.serverpower.me:80/503427/503427/37051
+#EXTINF:-1,DISCOVERY TURBO HD
+http://lista.serverpower.me:80/503427/503427/37147
+#EXTINF:-1,DISCOVERY TURBO HD ¹
+http://lista.serverpower.me:80/503427/503427/37588
+#EXTINF:-1,DISCOVERY WORLD
+http://lista.serverpower.me:80/503427/503427/37036
+#EXTINF:-1,DISCOVERY WORLD HD
+http://lista.serverpower.me:80/503427/503427/37148
+#EXTINF:-1,DISCOVERY WORLD HD ¹
+http://lista.serverpower.me:80/503427/503427/37593
+#EXTINF:-1,DISNEY JR
+http://lista.serverpower.me:80/503427/503427/37044
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/503427/503427/37603
+#EXTINF:-1,DISNEY JR ¹
+http://lista.serverpower.me:80/503427/503427/37599
+#EXTINF:-1,DISNEY JR HD
+http://lista.serverpower.me:80/503427/503427/37150
+#EXTINF:-1,DISNEY JR HD ¹
+http://lista.serverpower.me:80/503427/503427/37607
+#EXTINF:-1,DISNEY XD HD ¹
+http://lista.serverpower.me:80/503427/503427/37611
+#EXTINF:-1,E!
+http://lista.serverpower.me:80/503427/503427/37107
+#EXTINF:-1,E! HD
+http://lista.serverpower.me:80/503427/503427/37151
+#EXTINF:-1,EI PLUS 
+http://lista.serverpower.me:80/503427/503427/37549
+#EXTINF:-1,ESPN
+http://lista.serverpower.me:80/503427/503427/37109
+#EXTINF:-1,ESPN HD
+http://lista.serverpower.me:80/503427/503427/37154
+#EXTINF:-1,ESPN HD ¹
+http://lista.serverpower.me:80/503427/503427/37547
+#EXTINF:-1,ESPN 2 HD ¹
+http://lista.serverpower.me:80/503427/503427/37537
+#EXTINF:-1,ESPN 2 ²
+http://lista.serverpower.me:80/503427/503427/46839
+#EXTINF:-1,ESPN 2 HD
+http://lista.serverpower.me:80/503427/503427/37155
+#EXTINF:-1,ESPN 2
+http://lista.serverpower.me:80/503427/503427/37110
+#EXTINF:-1,ESPN BRASIL
+http://lista.serverpower.me:80/503427/503427/37108
+#EXTINF:-1,ESPN BRASIL ¹
+http://lista.serverpower.me:80/503427/503427/37534
+#EXTINF:-1,ESPN BRASIL HD
+http://lista.serverpower.me:80/503427/503427/37152
+#EXTINF:-1,ESPN BRASIL HD ¹
+http://lista.serverpower.me:80/503427/503427/37536
+#EXTINF:-1,ESPN EXTRA
+http://lista.serverpower.me:80/503427/503427/37055
+#EXTINF:-1,ESPN EXTRA HD
+http://lista.serverpower.me:80/503427/503427/37153
+#EXTINF:-1,ESPN EXTRA HD ¹
+http://lista.serverpower.me:80/503427/503427/37538
+#EXTINF:-1,FASHION TV
+http://lista.serverpower.me:80/503427/503427/37034
+#EXTINF:-1,FASHION TV HD
+http://lista.serverpower.me:80/503427/503427/37156
+#EXTINF:-1,FASHION TV HD  ¹
+http://lista.serverpower.me:80/503427/503427/37644
+#EXTINF:-1,FISH TV
+http://lista.serverpower.me:80/503427/503427/37126
+#EXTINF:-1,FISH TV  ¹
+http://lista.serverpower.me:80/503427/503427/37683
+#EXTINF:-1,FISH TV HD
+http://lista.serverpower.me:80/503427/503427/37157
+#EXTINF:-1,FISH HD ¹
+http://lista.serverpower.me:80/503427/503427/37548
+#EXTINF:-1,FOOD NETWORK
+http://lista.serverpower.me:80/503427/503427/37115
+#EXTINF:-1,FOOD NETWORK ¹
+http://lista.serverpower.me:80/503427/503427/37651
+#EXTINF:-1,FOOD NETWORK HD
+http://lista.serverpower.me:80/503427/503427/37228
+#EXTINF:-1,FOOD NETWORK HD ¹
+http://lista.serverpower.me:80/503427/503427/37645
+#EXTINF:-1,FOX LIFE
+http://lista.serverpower.me:80/503427/503427/37081
+#EXTINF:-1,FOX LIFE ¹
+http://lista.serverpower.me:80/503427/503427/37579
+#EXTINF:-1,FOX LIFE HD
+http://lista.serverpower.me:80/503427/503427/37159
+#EXTINF:-1,FOX LIFE HD ¹
+http://lista.serverpower.me:80/503427/503427/37563
+#EXTINF:-1,FOX PREMIUM 1 
+http://lista.serverpower.me:80/503427/503427/37071
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://lista.serverpower.me:80/503427/503427/37160
+#EXTINF:-1,FOX
+http://lista.serverpower.me:80/503427/503427/37069
+#EXTINF:-1,FOX ¹
+http://lista.serverpower.me:80/503427/503427/37573
+#EXTINF:-1,FOX HD
+http://lista.serverpower.me:80/503427/503427/37158
+#EXTINF:-1,FOX SPORTS
+http://lista.serverpower.me:80/503427/503427/37111
+#EXTINF:-1,FOX SPORTS ¹
+http://lista.serverpower.me:80/503427/503427/37528
+#EXTINF:-1,FOX SPORTS HD
+http://lista.serverpower.me:80/503427/503427/37163
+#EXTINF:-1,FOX SPORTS HD ¹
+http://lista.serverpower.me:80/503427/503427/37542
+#EXTINF:-1,FUTURA
+http://lista.serverpower.me:80/503427/503427/37094
+#EXTINF:-1,FX
+http://lista.serverpower.me:80/503427/503427/37080
+#EXTINF:-1,FX ¹
+http://lista.serverpower.me:80/503427/503427/37580
+#EXTINF:-1,GLOBO BRASILIA
+http://lista.serverpower.me:80/503427/503427/30389
+#EXTINF:-1,GLOBO BRASILIA  HD
+http://lista.serverpower.me:80/503427/503427/40458
+#EXTINF:-1,FX HD
+http://lista.serverpower.me:80/503427/503427/37165
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/503427/503427/37388
+#EXTINF:-1,GLOBO  ES SD
+http://lista.serverpower.me:80/503427/503427/37706
+#EXTINF:-1,GLOBO BRASILIA HD
+http://lista.serverpower.me:80/503427/503427/27525
+#EXTINF:-1,GLOBO MINAS HD
+http://lista.serverpower.me:80/503427/503427/27526
+#EXTINF:-1,GLOBO NEWS
+http://lista.serverpower.me:80/503427/503427/37062
+#EXTINF:-1,GLOBO NEWS ¹
+http://lista.serverpower.me:80/503427/503427/27533
+#EXTINF:-1,GLOBO NEWS HD
+http://lista.serverpower.me:80/503427/503427/37166
+#EXTINF:-1,GLOBO NEWS HD ¹
+http://lista.serverpower.me:80/503427/503427/37681
+#EXTINF:-1,GLOBO RJ HD
+http://lista.serverpower.me:80/503427/503427/27537
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/503427/503427/27530
+#EXTINF:-1,GLOOB
+http://lista.serverpower.me:80/503427/503427/37099
+#EXTINF:-1,GLOOB ¹
+http://lista.serverpower.me:80/503427/503427/37678
+#EXTINF:-1,GLOOB HD
+http://lista.serverpower.me:80/503427/503427/37231
+#EXTINF:-1,GLOOB HD ¹
+http://lista.serverpower.me:80/503427/503427/37610
+#EXTINF:-1,GNT
+http://lista.serverpower.me:80/503427/503427/37093
+#EXTINF:-1,GNT  ¹
+http://lista.serverpower.me:80/503427/503427/37656
+#EXTINF:-1,GNT HD
+http://lista.serverpower.me:80/503427/503427/37167
+#EXTINF:-1,HBO
+http://lista.serverpower.me:80/503427/503427/37119
+#EXTINF:-1,HBO HD
+http://lista.serverpower.me:80/503427/503427/37169
+#EXTINF:-1,HBO FAMILY
+http://lista.serverpower.me:80/503427/503427/37118
+#EXTINF:-1,HBO FAMILY HD
+http://lista.serverpower.me:80/503427/503427/37168
+#EXTINF:-1,HBO PLUS
+http://lista.serverpower.me:80/503427/503427/37122
+#EXTINF:-1,HBO PLUS ¹
+http://lista.serverpower.me:80/503427/503427/37618
+#EXTINF:-1,HBO PLUS HD
+http://lista.serverpower.me:80/503427/503427/37170
+#EXTINF:-1,HBO PLUS HD ¹
+http://lista.serverpower.me:80/503427/503427/37622
+#EXTINF:-1,HBO SIGNATURE
+http://lista.serverpower.me:80/503427/503427/37121
+#EXTINF:-1,HBO SIGNATURE HD
+http://lista.serverpower.me:80/503427/503427/37171
+#EXTINF:-1,HBO SIGNATURE HD ¹
+http://lista.serverpower.me:80/503427/503427/37623
+#EXTINF:-1,HGTV
+http://lista.serverpower.me:80/503427/503427/37017
+#EXTINF:-1,HGTV HD
+http://lista.serverpower.me:80/503427/503427/37224
+#EXTINF:-1,HISTORY
+http://lista.serverpower.me:80/503427/503427/37072
+#EXTINF:-1,HISTORY ¹
+http://lista.serverpower.me:80/503427/503427/37584
+#EXTINF:-1,HISTORY HD
+http://lista.serverpower.me:80/503427/503427/37173
+#EXTINF:-1,HISTORY HD ¹
+http://lista.serverpower.me:80/503427/503427/37675
+#EXTINF:-1,ID
+http://lista.serverpower.me:80/503427/503427/37035
+#EXTINF:-1,ID HD
+http://lista.serverpower.me:80/503427/503427/37174
+#EXTINF:-1,ID HD ¹
+http://lista.serverpower.me:80/503427/503427/37597
+#EXTINF:-1,IDEAL  ¹
+http://lista.serverpower.me:80/503427/503427/37652
+#EXTINF:-1,IDEAL TV HD
+http://lista.serverpower.me:80/503427/503427/38675
+#EXTINF:-1,LIFETIME
+http://lista.serverpower.me:80/503427/503427/37030
+#EXTINF:-1,LIFETIME ¹
+http://lista.serverpower.me:80/503427/503427/37568
+#EXTINF:-1,LIFETIME HD
+http://lista.serverpower.me:80/503427/503427/37233
+#EXTINF:-1,MAIS GLOBOSAT
+http://lista.serverpower.me:80/503427/503427/37677
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://lista.serverpower.me:80/503427/503427/37234
+#EXTINF:-1,MAX
+http://lista.serverpower.me:80/503427/503427/37023
+#EXTINF:-1,MAX ¹
+http://lista.serverpower.me:80/503427/503427/37581
+#EXTINF:-1,MAX HD
+http://lista.serverpower.me:80/503427/503427/37235
+#EXTINF:-1,MAX UP
+http://lista.serverpower.me:80/503427/503427/37120
+#EXTINF:-1,MAX UP HD
+http://lista.serverpower.me:80/503427/503427/37176
+#EXTINF:-1,MAX PRIME
+http://lista.serverpower.me:80/503427/503427/37095
+#EXTINF:-1,MAX PRIME ¹
+http://lista.serverpower.me:80/503427/503427/37572
+#EXTINF:-1,MAX PRIME HD
+http://lista.serverpower.me:80/503427/503427/37236
+#EXTINF:-1,MAX PRIME HD ¹
+http://lista.serverpower.me:80/503427/503427/37562
+#EXTINF:-1,MEGAPIX
+http://lista.serverpower.me:80/503427/503427/37068
+#EXTINF:-1,MEGAPIX  ¹
+http://lista.serverpower.me:80/503427/503427/37570
+#EXTINF:-1,MEGAPIX HD
+http://lista.serverpower.me:80/503427/503427/37177
+#EXTINF:-1,MEGAPIX HD¹
+http://lista.serverpower.me:80/503427/503427/37551
+#EXTINF:-1,MTV
+http://lista.serverpower.me:80/503427/503427/37050
+#EXTINF:-1,MTV HD
+http://lista.serverpower.me:80/503427/503427/37178
+#EXTINF:-1,MTV HD ¹
+http://lista.serverpower.me:80/503427/503427/37648
+#EXTINF:-1,MTV LIVE
+http://lista.serverpower.me:80/503427/503427/37032
+#EXTINF:-1,MTV LIVE HD
+http://lista.serverpower.me:80/503427/503427/37179
+#EXTINF:-1,MTV LIVE HD  ¹
+http://lista.serverpower.me:80/503427/503427/37649
+#EXTINF:-1,MULTISHOW
+http://lista.serverpower.me:80/503427/503427/37092
+#EXTINF:-1,MULTISHOW  ¹
+http://lista.serverpower.me:80/503427/503427/37655
+#EXTINF:-1,MULTISHOW HD
+http://lista.serverpower.me:80/503427/503427/37180
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://lista.serverpower.me:80/503427/503427/37057
+#EXTINF:-1,MUSIC BOX ¹
+http://lista.serverpower.me:80/503427/503427/37653
+#EXTINF:-1,MUSIC BOX BRAZIL HD
+http://lista.serverpower.me:80/503427/503427/37181
+#EXTINF:-1,NATGEO KIDS
+http://lista.serverpower.me:80/503427/503427/37091
+#EXTINF:-1,NATGEO KIDS HD
+http://lista.serverpower.me:80/503427/503427/37182
+#EXTINF:-1,NATGEO KIDS HD ¹
+http://lista.serverpower.me:80/503427/503427/37613
+#EXTINF:-1,NATGEO
+http://lista.serverpower.me:80/503427/503427/37079
+#EXTINF:-1,NATGEO HD
+http://lista.serverpower.me:80/503427/503427/38664
+#EXTINF:-1,NATGEO HD ¹
+http://lista.serverpower.me:80/503427/503427/37183
+#EXTINF:-1,NATGEO WILD
+http://lista.serverpower.me:80/503427/503427/37065
+#EXTINF:-1,NATGEO WILD HD
+http://lista.serverpower.me:80/503427/503427/37184
+#EXTINF:-1,NATGEO WILD HD ¹
+http://lista.serverpower.me:80/503427/503427/37674
+#EXTINF:-1,NHK
+http://lista.serverpower.me:80/503427/503427/37131
+#EXTINF:-1,NHK  ¹
+http://lista.serverpower.me:80/503427/503427/37654
+#EXTINF:-1,NHK WORLD HD ¹
+http://lista.serverpower.me:80/503427/503427/37642
+#EXTINF:-1,NICK JR
+http://lista.serverpower.me:80/503427/503427/37066
+#EXTINF:-1,NICK JR ¹
+http://lista.serverpower.me:80/503427/503427/37604
+#EXTINF:-1,NICK JR HD
+http://lista.serverpower.me:80/503427/503427/37185
+#EXTINF:-1,NICK JR HD ¹
+http://lista.serverpower.me:80/503427/503427/37609
+#EXTINF:-1,NICKELODEON
+http://lista.serverpower.me:80/503427/503427/37058
+#EXTINF:-1,NICKELODEON HD
+http://lista.serverpower.me:80/503427/503427/37186
+#EXTINF:-1,OFF
+http://lista.serverpower.me:80/503427/503427/37098
+#EXTINF:-1,OFF HD
+http://lista.serverpower.me:80/503427/503427/37237
+#EXTINF:-1,PARAMOUNT
+http://lista.serverpower.me:80/503427/503427/37052
+#EXTINF:-1,PARAMOUNT ¹
+http://lista.serverpower.me:80/503427/503427/37574
+#EXTINF:-1,PARAMOUNT HD
+http://lista.serverpower.me:80/503427/503427/37187
+#EXTINF:-1,PREMIERE CLUBES
+http://lista.serverpower.me:80/503427/503427/37088
+#EXTINF:-1,PREMIERE CLUBES HD
+http://lista.serverpower.me:80/503427/503427/37195
+#EXTINF:-1,PREMIERE  1 ¹
+http://lista.serverpower.me:80/503427/503427/37670
+#EXTINF:-1,PREMIERE 1 HD ¹
+http://lista.serverpower.me:80/503427/503427/37521
+#EXTINF:-1,PREMIERE 3
+http://lista.serverpower.me:80/503427/503427/37112
+#EXTINF:-1,PREMIERE 3 HD
+http://lista.serverpower.me:80/503427/503427/37190
+#EXTINF:-1,PREMIERE 3 HD  ¹
+http://lista.serverpower.me:80/503427/503427/37524
+#EXTINF:-1,PREMIERE 4
+http://lista.serverpower.me:80/503427/503427/37089
+#EXTINF:-1,PREMIERE 4  ¹
+http://lista.serverpower.me:80/503427/503427/37671
+#EXTINF:-1,PREMIERE 4 HD
+http://lista.serverpower.me:80/503427/503427/37191
+#EXTINF:-1,PREMIERE 4 HD ¹
+http://lista.serverpower.me:80/503427/503427/37522
+#EXTINF:-1,PREMIERE 5
+http://lista.serverpower.me:80/503427/503427/37113
+#EXTINF:-1,PREMIERE 5 HD
+http://lista.serverpower.me:80/503427/503427/37192
+#EXTINF:-1,PREMIERE 5 HD ¹
+http://lista.serverpower.me:80/503427/503427/37525
+#EXTINF:-1,PREMIERE 6
+http://lista.serverpower.me:80/503427/503427/37125
+#EXTINF:-1,PREMIERE 6 HD
+http://lista.serverpower.me:80/503427/503427/37193
+#EXTINF:-1,PREMIERE 6 HD ¹
+http://lista.serverpower.me:80/503427/503427/37526
+#EXTINF:-1,PREMIERE 7
+http://lista.serverpower.me:80/503427/503427/37124
+#EXTINF:-1,PREMIERE 7 HD
+http://lista.serverpower.me:80/503427/503427/37194
+#EXTINF:-1,PREMIERE  7 ¹
+http://lista.serverpower.me:80/503427/503427/37672
+#EXTINF:-1,PREMIERE 8  ¹
+http://lista.serverpower.me:80/503427/503427/37673
+#EXTINF:-1,PRIME BOX BRAZIL
+http://lista.serverpower.me:80/503427/503427/37054
+#EXTINF:-1,PRIME BOX BRAZIL HD
+http://lista.serverpower.me:80/503427/503427/37196
+#EXTINF:-1,PRIME BOX BRAZIL ¹
+http://lista.serverpower.me:80/503427/503427/37531
+#EXTINF:-1,PLAY TV  ¹
+http://lista.serverpower.me:80/503427/503427/37657
+#EXTINF:-1,PLAY TV HD
+http://lista.serverpower.me:80/503427/503427/38658
+#EXTINF:-1, RECORD SP  HD
+http://lista.serverpower.me:80/503427/503427/40474
+#EXTINF:-1,RECORD SP HD
+http://lista.serverpower.me:80/503427/503427/37704
+#EXTINF:-1,RECORD HD¹
+http://lista.serverpower.me:80/503427/503427/37627
+#EXTINF:-1,RECORD RJ HD
+http://lista.serverpower.me:80/503427/503427/40785
+#EXTINF:-1,RECORD DF HD
+http://lista.serverpower.me:80/503427/503427/37705
+#EXTINF:-1,RECORD AMAZONAS  HD
+http://lista.serverpower.me:80/503427/503427/40470
+#EXTINF:-1,RECORD CAMPINAS  HD
+http://lista.serverpower.me:80/503427/503427/40471
+#EXTINF:-1, RECORD MG  HD
+http://lista.serverpower.me:80/503427/503427/40472
+#EXTINF:-1,RECORD NORDESTE  HD
+http://lista.serverpower.me:80/503427/503427/40473
+#EXTINF:-1,REDE TV  SD
+http://lista.serverpower.me:80/503427/503427/37638
+#EXTINF:-1,REDE VIDA
+http://lista.serverpower.me:80/503427/503427/37061
+#EXTINF:-1,REDE VIDA HD
+http://lista.serverpower.me:80/503427/503427/37197
+#EXTINF:-1,SBT PR
+http://lista.serverpower.me:80/503427/503427/43890
+#EXTINF:-1,SBT PR HD
+http://lista.serverpower.me:80/503427/503427/43889
+#EXTINF:-1,SBT SP HD
+http://lista.serverpower.me:80/503427/503427/37625
+#EXTINF:-1,SPACE
+http://lista.serverpower.me:80/503427/503427/37037
+#EXTINF:-1,SPACE HD
+http://lista.serverpower.me:80/503427/503427/37199
+#EXTINF:-1,SPORTV
+http://lista.serverpower.me:80/503427/503427/37087
+#EXTINF:-1,SPORTV HD
+http://lista.serverpower.me:80/503427/503427/37200
+#EXTINF:-1,SPORTV HD ¹
+http://lista.serverpower.me:80/503427/503427/37682
+#EXTINF:-1,SPORTV 3
+http://lista.serverpower.me:80/503427/503427/37083
+#EXTINF:-1,SPORTV 3 ¹
+http://lista.serverpower.me:80/503427/503427/37533
+#EXTINF:-1,SPORTV 3 HD
+http://lista.serverpower.me:80/503427/503427/37202
+#EXTINF:-1,STUDIO UNIVERSAL
+http://lista.serverpower.me:80/503427/503427/37019
+#EXTINF:-1,STUDIO UNIVERSAL ¹
+http://lista.serverpower.me:80/503427/503427/37576
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://lista.serverpower.me:80/503427/503427/37239
+#EXTINF:-1,SYFY
+http://lista.serverpower.me:80/503427/503427/37027
+#EXTINF:-1,SYFY ¹
+http://lista.serverpower.me:80/503427/503427/37566
+#EXTINF:-1,SYFY HD
+http://lista.serverpower.me:80/503427/503427/37240
+#EXTINF:-1,SYFY HD ¹
+http://lista.serverpower.me:80/503427/503427/37550
+#EXTINF:-1,TBS
+http://lista.serverpower.me:80/503427/503427/37040
+#EXTINF:-1,TBS ¹
+http://lista.serverpower.me:80/503427/503427/37567
+#EXTINF:-1,TBS HD
+http://lista.serverpower.me:80/503427/503427/37203
+#EXTINF:-1,TCM ¹
+http://lista.serverpower.me:80/503427/503427/37569
+#EXTINF:-1,TELECINE ACTION
+http://lista.serverpower.me:80/503427/503427/37060
+#EXTINF:-1,TELECINE ACTION ¹
+http://lista.serverpower.me:80/503427/503427/37410
+#EXTINF:-1,TELECINE ACTION HD
+http://lista.serverpower.me:80/503427/503427/37204
+#EXTINF:-1,TELECINE ACTION HD ¹
+http://lista.serverpower.me:80/503427/503427/37402
+#EXTINF:-1,TELECINE CULT
+http://lista.serverpower.me:80/503427/503427/37067
+#EXTINF:-1,TELECINE CULT ¹
+http://lista.serverpower.me:80/503427/503427/37407
+#EXTINF:-1,TELECINE CULT HD
+http://lista.serverpower.me:80/503427/503427/37205
+#EXTINF:-1,TELECINE CULT HD ¹
+http://lista.serverpower.me:80/503427/503427/37409
+#EXTINF:-1,TELECINE FUN
+http://lista.serverpower.me:80/503427/503427/37082
+#EXTINF:-1,TELECINE FUN ²
+http://lista.serverpower.me:80/503427/503427/46867
+#EXTINF:-1,TELECINE FUN ¹
+http://lista.serverpower.me:80/503427/503427/37408
+#EXTINF:-1,TELECINE FUN HD
+http://lista.serverpower.me:80/503427/503427/37206
+#EXTINF:-1,TELECINE FUN HD ¹
+http://lista.serverpower.me:80/503427/503427/37403
+#EXTINF:-1,TELECINE PIPOCA
+http://lista.serverpower.me:80/503427/503427/37064
+#EXTINF:-1,TELECINE PIPOCA HD
+http://lista.serverpower.me:80/503427/503427/37207
+#EXTINF:-1,TELECINE PIPOCA HD ¹
+http://lista.serverpower.me:80/503427/503427/37404
+#EXTINF:-1,TELECINE PREMIUM
+http://lista.serverpower.me:80/503427/503427/37116
+#EXTINF:-1,TELECINE PREMIUM HD
+http://lista.serverpower.me:80/503427/503427/37208
+#EXTINF:-1,TELECINE PREMIUM HD ¹
+http://lista.serverpower.me:80/503427/503427/37405
+#EXTINF:-1,TELECINE TOUCH
+http://lista.serverpower.me:80/503427/503427/37063
+#EXTINF:-1,TELECINE TOUCH HD
+http://lista.serverpower.me:80/503427/503427/37209
+#EXTINF:-1,TELECINE TOUCH HD ¹
+http://lista.serverpower.me:80/503427/503427/37406
+#EXTINF:-1,TLC
+http://lista.serverpower.me:80/503427/503427/38225
+#EXTINF:-1,TLC HD
+http://lista.serverpower.me:80/503427/503427/37241
+#EXTINF:-1,TLC HD ¹
+http://lista.serverpower.me:80/503427/503427/37561
+#EXTINF:-1,TNT
+http://lista.serverpower.me:80/503427/503427/37038
+#EXTINF:-1,TNT HD
+http://lista.serverpower.me:80/503427/503427/38636
+#EXTINF:-1,TNT HD¹
+http://lista.serverpower.me:80/503427/503427/37679
+#EXTINF:-1,TNT SERIES
+http://lista.serverpower.me:80/503427/503427/37039
+#EXTINF:-1,TNT SERIES HD
+http://lista.serverpower.me:80/503427/503427/37211
+#EXTINF:-1,TNT SERIES HD ¹
+http://lista.serverpower.me:80/503427/503427/37559
+#EXTINF:-1,TOONCAST ¹
+http://lista.serverpower.me:80/503427/503427/37565
+#EXTINF:-1,TOONCAST HD ¹
+http://lista.serverpower.me:80/503427/503427/37571
+#EXTINF:-1,TRAVEL BOX BRAZIL
+http://lista.serverpower.me:80/503427/503427/37033
+#EXTINF:-1,TRAVEL BOX BRAZIL HD
+http://lista.serverpower.me:80/503427/503427/37212
+#EXTINF:-1,TV APARECIDA HD
+http://lista.serverpower.me:80/503427/503427/27675
+#EXTINF:-1,TV CABO BRANCO HD
+http://lista.serverpower.me:80/503427/503427/37015
+#EXTINF:-1,TV GAZETA HD 
+http://lista.serverpower.me:80/503427/503427/37632
+#EXTINF:-1,TV NOVO TEMPO  
+http://lista.serverpower.me:80/503427/503427/37664
+#EXTINF:-1,TV NOVO TEMPO HD
+http://lista.serverpower.me:80/503427/503427/37214
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/503427/503427/37242
+#EXTINF:-1,TV RA TIM BUM
+http://lista.serverpower.me:80/503427/503427/37028
+#EXTINF:-1,TV RATIMBUM HD ¹
+http://lista.serverpower.me:80/503427/503427/37615
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://lista.serverpower.me:80/503427/503427/37085
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://lista.serverpower.me:80/503427/503427/37215
+#EXTINF:-1,VH1
+http://lista.serverpower.me:80/503427/503427/37053
+#EXTINF:-1,VH1 ²
+http://lista.serverpower.me:80/503427/503427/46868
+#EXTINF:-1,VH1 HD
+http://lista.serverpower.me:80/503427/503427/37216
+#EXTINF:-1,VIVA
+http://lista.serverpower.me:80/503427/503427/37084
+#EXTINF:-1,VIVA ²
+http://lista.serverpower.me:80/503427/503427/46869
+#EXTINF:-1,VIVA HD
+http://lista.serverpower.me:80/503427/503427/37217
+#EXTINF:-1,WARNER CHANNEL
+http://lista.serverpower.me:80/503427/503427/37078
+#EXTINF:-1,WARNER CHANNEL ²
+http://lista.serverpower.me:80/503427/503427/46870
+#EXTINF:-1,WARNER CHANNEL HD
+http://lista.serverpower.me:80/503427/503427/37218
+#EXTINF:-1,WARNER CHANNEL HD ¹
+http://lista.serverpower.me:80/503427/503427/37558
+#EXTINF:-1,WOOHOO
+http://lista.serverpower.me:80/503427/503427/37021
+#EXTINF:-1,WOOHOO HD
+http://lista.serverpower.me:80/503427/503427/37243
+#EXTINF:-1,ZOOMO HD ¹
+http://lista.serverpower.me:80/503427/503427/37614
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/503427/503427/40459
+#EXTINF:-1, GLOBO EPTV SAO CARLOS  HD
+http://lista.serverpower.me:80/503427/503427/40462
+#EXTINF:-1,GLOBO NORDESTE  HD
+http://lista.serverpower.me:80/503427/503427/40465
+#EXTINF:-1, GLOBO RIBEIRÃO  HD
+http://lista.serverpower.me:80/503427/503427/40466
+#EXTINF:-1,GLOBO RJ  HD
+http://lista.serverpower.me:80/503427/503427/40467
+#EXTINF:-1,REDE TV  HD
+http://lista.serverpower.me:80/503427/503427/40476
+#EXTINF:-1,GLOBO ANHANGUERA        
+http://lista.serverpower.me:80/503427/503427/40550
+#EXTINF:-1,TVIDEONEWS
+http://lista.serverpower.me:80/503427/503427/40803
+#EXTINF:-1,GLOBO SP HD
+http://lista.serverpower.me:80/503427/503427/41094
+#EXTINF:-1,DAZN ESPANHA
+http://lista.serverpower.me:80/503427/503427/42720
+#EXTINF:-1,DAZN BRASIL  SD
+http://lista.serverpower.me:80/503427/503427/42407
+#EXTINF:-1,ITALIA | DAZN2  UHD
+http://lista.serverpower.me:80/503427/503427/42721
+#EXTINF:-1,ITALIA | DAZN1 SERIEA UHD
+http://lista.serverpower.me:80/503427/503427/42723
+#EXTINF:-1,ITALIA | DAZN1 SERIEA HD
+http://lista.serverpower.me:80/503427/503427/42724
+#EXTINF:-1,GLOBO MANAUS HD
+http://lista.serverpower.me:80/503427/503427/43121
+#EXTINF:-1,GLOBO MANAUS SD
+http://lista.serverpower.me:80/503427/503427/43122
+#EXTINF:-1,RECORD ES FHD
+http://lista.serverpower.me:80/503427/503427/45168
+#EXTINF:-1,SBT ES FHD
+http://lista.serverpower.me:80/503427/503427/45169
+#EXTINF:-1,Canção Nova SD
+http://lista.serverpower.me:80/503427/503427/45849
+#EXTINF:-1,Canção Nova HD
+http://lista.serverpower.me:80/503427/503427/45850
+#EXTINF:-1,NSC BLUMENAU
+http://lista.serverpower.me:80/503427/503427/46871
+#EXTINF:-1,NSC FLORIANOPOLIS HD
+http://lista.serverpower.me:80/503427/503427/46872
+#EXTINF:-1,GLOBO BAHIA
+http://lista.serverpower.me:80/503427/503427/48371
+#EXTINF:-1,GLOBO ACRE
+http://lista.serverpower.me:80/503427/503427/48372
+#EXTINF:-1,TV EVANGELIZAR
+http://lista.serverpower.me:80/503427/503427/48399
+#EXTINF:-1,RECORD PORTO ALEGRE
+http://lista.serverpower.me:80/503427/503427/48402
+#EXTINF:-1,LoveNature HD
+http://lista.serverpower.me:80/503427/503427/50378
+#EXTINF:-1,LoveNature HD¹
+http://lista.serverpower.me:80/503427/503427/50379
+#EXTINF:-1,BBB20 FHD
+http://lista.serverpower.me:80/503427/503427/50404
+#EXTINF:-1,BBB20 SD
+http://lista.serverpower.me:80/503427/503427/50405
+#EXTINF:-1,TV CAMERA ²
+http://lista.serverpower.me:80/503427/503427/46866
+#EXTINF:-1,TV BRASIL ²
+http://lista.serverpower.me:80/503427/503427/46865
+#EXTINF:-1,TLC ²
+http://lista.serverpower.me:80/503427/503427/46864
+#EXTINF:-1,NATGEO KIDS ²
+http://lista.serverpower.me:80/503427/503427/46851
+#EXTINF:-1,NICKELODEON ²
+http://lista.serverpower.me:80/503427/503427/46853
+#EXTINF:-1,PAI ENTERNO ²
+http://lista.serverpower.me:80/503427/503427/46854
+#EXTINF:-1,PREMIERE 2 ²
+http://lista.serverpower.me:80/503427/503427/46856
+#EXTINF:-1,PREMIERE 6 ²
+http://lista.serverpower.me:80/503427/503427/46857
+#EXTINF:-1,PREMIERE CLUBES ²
+http://lista.serverpower.me:80/503427/503427/46858
+#EXTINF:-1,RBS PORTO ALEGRE ²
+http://lista.serverpower.me:80/503427/503427/46859
+#EXTINF:-1,NATGEO ²
+http://lista.serverpower.me:80/503427/503427/46852
+#EXTINF:-1,MAIS GLOBOSAT ²
+http://lista.serverpower.me:80/503427/503427/46850
+#EXTINF:-1,MTV ²
+http://lista.serverpower.me:80/503427/503427/46849
+#EXTINF:-1,MAX UP ²
+http://lista.serverpower.me:80/503427/503427/46848
+#EXTINF:-1,LIFETIME ²
+http://lista.serverpower.me:80/503427/503427/46847
+#EXTINF:-1,ID ²
+http://lista.serverpower.me:80/503427/503427/46846
+#EXTINF:-1,HISTORY 2 ²
+http://lista.serverpower.me:80/503427/503427/46845
+#EXTINF:-1,HBO 2 ²
+http://lista.serverpower.me:80/503427/503427/46844
+#EXTINF:-1,HBO+ ²
+http://lista.serverpower.me:80/503427/503427/46843
+#EXTINF:-1,FOX LIFE ²
+http://lista.serverpower.me:80/503427/503427/46842
+#EXTINF:-1,FILM & ARTS ²
+http://lista.serverpower.me:80/503427/503427/46841
+#EXTINF:-1,FX ²
+http://lista.serverpower.me:80/503427/503427/46840
+#EXTINF:-1,ESPN BRASIL ²
+http://lista.serverpower.me:80/503427/503427/46838
+#EXTINF:-1,DISCOVERY TURBO ²
+http://lista.serverpower.me:80/503427/503427/46837
+#EXTINF:-1,DISCOVERY H&H ²
+http://lista.serverpower.me:80/503427/503427/46836
+#EXTINF:-1,CANAL SONY ²
+http://lista.serverpower.me:80/503427/503427/46835
+#EXTINF:-1,GNT ²
+http://lista.serverpower.me:80/503427/503427/46834
+#EXTINF:-1,BAND SPORT ²
+http://lista.serverpower.me:80/503427/503427/46833
+#EXTINF:-1,BAND NEWS ²
+http://lista.serverpower.me:80/503427/503427/46832
+#EXTINF:-1,BIS ²
+http://lista.serverpower.me:80/503427/503427/46831
+#EXTINF:-1,REDE BRASIL ²
+http://lista.serverpower.me:80/503427/503427/46860
+#EXTINF:-1,SBT ²
+http://lista.serverpower.me:80/503427/503427/46861
+#EXTINF:-1,GLOBO ES HD 
+http://lista.serverpower.me:80/503427/503427/27677
+#EXTINF:-1,GLOBO ES FHD
+http://lista.serverpower.me:80/503427/503427/40477
+#EXTINF:-1,GLOBO ES H265
+http://lista.serverpower.me:80/503427/503427/40478
+#EXTINF:-1,HISTORY 2
+http://lista.serverpower.me:80/503427/503427/37031
+#EXTINF:-1,HISTORY 2 HD
+http://lista.serverpower.me:80/503427/503427/37232
+#EXTINF:-1,SPORTV 2
+http://lista.serverpower.me:80/503427/503427/37086
+#EXTINF:-1,SPORTV 2 ¹
+http://lista.serverpower.me:80/503427/503427/37530
+#EXTINF:-1,SPORTV 2 HD ¹
+http://lista.serverpower.me:80/503427/503427/37540
+#EXTINF:-1,SPORTV 2 HD
+http://lista.serverpower.me:80/503427/503427/37201
+#EXTINF:-1,FOX SPORTS 2
+http://lista.serverpower.me:80/503427/503427/37114
+#EXTINF:-1,FOX SPORTS 2 HD
+http://lista.serverpower.me:80/503427/503427/37162
+#EXTINF:-1,FOX SPORTS 2 HD ¹
+http://lista.serverpower.me:80/503427/503427/37545
+#EXTINF:-1,FASHION TV
+http://lista.serverpower.me:80/503427/503427/30419
+#EXTINF:-1,(24H) SCOOBY DOO
+http://lista.serverpower.me:80/503427/503427/50406
+#EXTINF:-1,(24H) VAI QUE COLA
+http://lista.serverpower.me:80/503427/503427/50407
+#EXTINF:-1,(24H) POPEYE
+http://lista.serverpower.me:80/503427/503427/50408
+#EXTINF:-1,(24H) CAVALEIRO DO ZODIACO
+http://lista.serverpower.me:80/503427/503427/50409
+#EXTINF:-1,(24H) JOSE REI DO EGITO
+http://lista.serverpower.me:80/503427/503427/50410
+#EXTINF:-1,(24H) O FANTASTICO MUNDO DE BOBBY
+http://lista.serverpower.me:80/503427/503427/50411
+#EXTINF:-1,(24H) O MASKARA
+http://lista.serverpower.me:80/503427/503427/50412
+#EXTINF:-1,(24H) BIG MOUTH
+http://lista.serverpower.me:80/503427/503427/50413
+#EXTINF:-1,(24H) NARUTO
+http://lista.serverpower.me:80/503427/503427/50414
+#EXTINF:-1,(24H) TODO MUNDO ODEIA O CHRIS
+http://lista.serverpower.me:80/503427/503427/50415
+#EXTINF:-1,(24H) TOM E JERRY
+http://lista.serverpower.me:80/503427/503427/50416
+#EXTINF:-1,(24H) CAVERNA DO DRAGAO
+http://lista.serverpower.me:80/503427/503427/50417
+#EXTINF:-1,(24H) JONNY QUEST
+http://lista.serverpower.me:80/503427/503427/50419
+#EXTINF:-1,(24H) PATRULHA CANINA
+http://lista.serverpower.me:80/503427/503427/50420
+#EXTINF:-1,(24H) EU A PATROA E AS CRINACAS
+http://lista.serverpower.me:80/503427/503427/50421
+#EXTINF:-1,(24H) GALINHA PINTADINHA
+http://lista.serverpower.me:80/503427/503427/50422
+#EXTINF:-1,(24H) PICA PAU
+http://lista.serverpower.me:80/503427/503427/50423
+#EXTINF:-1,(24H) HOMEM ARANHA
+http://lista.serverpower.me:80/503427/503427/50424
+#EXTINF:-1,(24H) BEN 10
+http://lista.serverpower.me:80/503427/503427/50425
+#EXTINF:-1,(24H) CHAVES
+http://lista.serverpower.me:80/503427/503427/50426
+#EXTINF:-1,(24H) BOB ESPONJA
+http://lista.serverpower.me:80/503427/503427/50427
+#EXTINF:-1,(24H) 3 PALAVRINHAS
+http://lista.serverpower.me:80/503427/503427/50428
+#EXTINF:-1,(24H) A CORINHA AZUL
+http://lista.serverpower.me:80/503427/503427/50429
+#EXTINF:-1,(24H) A FAMILIA DRACULA
+http://lista.serverpower.me:80/503427/503427/50430
+#EXTINF:-1,(24H) A MUMIA
+http://lista.serverpower.me:80/503427/503427/50431
+#EXTINF:-1,(24H) A TURMA DO PATETA
+http://lista.serverpower.me:80/503427/503427/50432
+#EXTINF:-1,(24H) ACAMPAMENTO LAKEBOTTOM
+http://lista.serverpower.me:80/503427/503427/50433
+#EXTINF:-1,(24H) ALADIN DESENHO ANIMADO
+http://lista.serverpower.me:80/503427/503427/50434
+#EXTINF:-1,(24H) AS AVENTURAS DE JACKIE CHAN
+http://lista.serverpower.me:80/503427/503427/50435
+#EXTINF:-1,(24H) AS AVENTURAS DE PIGGLEY WINKS
+http://lista.serverpower.me:80/503427/503427/50436
+#EXTINF:-1,(24H) AS AVENTURAS DE TINTIM
+http://lista.serverpower.me:80/503427/503427/50437
+#EXTINF:-1,(24H) CSI LAS VEGAS
+http://lista.serverpower.me:80/503427/503427/50439
+#EXTINF:-1,(24H) OS TRAPALHÕES
+http://lista.serverpower.me:80/503427/503427/50440
+#EXTINF:-1,(24H) A PANTERA COR DE ROSA
+http://lista.serverpower.me:80/503427/503427/50441
+#EXTINF:-1,(24H) DRAGON BALL SUPER
+http://lista.serverpower.me:80/503427/503427/50442
+#EXTINF:-1,(24H) TIMÃO E PUMBA
+http://lista.serverpower.me:80/503427/503427/50443
+#EXTINF:-1,(24H) X-MEN ANTIGO
+http://lista.serverpower.me:80/503427/503427/50444
+#EXTINF:-1,(24H) YUGIOH CLÁSSICO
+http://lista.serverpower.me:80/503427/503427/50445
+#EXTINF:-1,(24H) MICKEY MOUSE
+http://lista.serverpower.me:80/503427/503427/50446
+#EXTINF:-1,(24H) OS VINGADORES DESENHO
+http://lista.serverpower.me:80/503427/503427/50447
+#EXTINF:-1,(24H) CAPITÃO TSUBASA
+http://lista.serverpower.me:80/503427/503427/50448
+#EXTINF:-1,(24H) CHAPOLIN COLORADO
+http://lista.serverpower.me:80/503427/503427/50449
+#EXTINF:-1,(24H) RICK AND MORTY
+http://lista.serverpower.me:80/503427/503427/50450
+#EXTINF:-1,(24H) OS SIMPSONS
+http://lista.serverpower.me:80/503427/503427/50451
+#EXTINF:-1,(24H) SOUTH PARK
+http://lista.serverpower.me:80/503427/503427/50452
+#EXTINF:-1,(24H) LULUZINHA
+http://lista.serverpower.me:80/503427/503427/50453
+#EXTINF:-1,(24H) HIGH SCORE GIRL
+http://lista.serverpower.me:80/503427/503427/50454
+#EXTINF:-1,(24H) FLASH GORDON
+http://lista.serverpower.me:80/503427/503427/50455
