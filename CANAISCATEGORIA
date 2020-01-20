@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA 01[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA02</externallink>
+<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA01</externallink>
 <fanart></fanart>
 <info> </info>
 
@@ -33,7 +33,7 @@
 <name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA 03[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink></externallink>
-<fanart>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA04</fanart>
+<fanart>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA03</fanart>
 <info> </info>
 
 
@@ -47,7 +47,7 @@
 <channel>
 <name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA 04[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA06</externallink>
+<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA04</externallink>
 <fanart></fanart>
 <info> </info>
 
@@ -62,7 +62,7 @@
 <channel>
 <name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA 05[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA05</externallink>
+<externallink>https://raw.githubuserchttps://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA05</externallink>
 <fanart></fanart>
 <info> </info>
 
@@ -71,3 +71,17 @@
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA DE FILMES |TEMPORARIA|[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/LISTA07FILMES</externallink>
+<fanart></fanart>
+<info> </info>
+
+
+[COLOR deeppink]|[/COLOR] Canais ONLINE [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
