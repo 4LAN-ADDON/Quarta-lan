@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]REDE DE CANAIS[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/REDECANAIS</externallink>
+<fanart></fanart>
+<info> </info>
+
+
+[COLOR deeppink]|[/COLOR] Canais ONLINE [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]LISTA 00[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/jefterruthes/IPTV-Janeiro/master/TechRuthesIPTV18</externallink>
