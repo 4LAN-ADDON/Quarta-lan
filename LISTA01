@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,A&E
-http://lista.serverpower.me:80/79402/79402/37029
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=http://lista.serverpower.me:80/79402/79402/37029
 #EXTINF:-1,A&E ¹
 http://lista.serverpower.me:80/79402/79402/37577
 #EXTINF:-1,A&E HD
