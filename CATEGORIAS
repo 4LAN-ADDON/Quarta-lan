@@ -1,15 +1,10 @@
-
-
 <channels>
 <channel>
-<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR gold][B]»[/B][/COLOR] [COLOR white]TV AO VIVO[/COLOR] [COLOR gold][B][/B][/COLOR]</name>
 <thumbnail>https://ia601505.us.archive.org/24/items/fanart_20200117_2115/tvonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/CANAISCATEGORIA</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] Canais ao vivo  [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR orange][B]°[/B][/COLOR]  Canais ao vivo  </info>
 </channel>
 </channels>
 
@@ -18,14 +13,11 @@
 
 <channels>
 <channel>
-<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR gold][B]»[/B][/COLOR] [COLOR white]FILMES[/COLOR] [COLOR gold][B][/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/SUBCATEGORIASFILMES</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]  Os melhores lançamentos  [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR orange][B]°[/B][/COLOR]   Os melhores lançamentos </info>
 </channel>
 </channels>
 
@@ -33,14 +25,11 @@
 
 <channels>
 <channel>
-<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR gold][B]»[/B][/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR gold][B][/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/Series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/4LAN-ADDON/Quarta-lan/master/SERIESCATEGORIAS</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]  Novos episódios toda semana  [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR orange][B]°[/B][/COLOR]  Novos episódios toda semana  </info>
 </channel>
 </channels>
 
@@ -48,14 +37,11 @@
 
 <channels>
 <channel>
-<name>[COLOR deeppink]|[/COLOR][COLOR orangered]|[/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR orangered]|[/COLOR][COLOR deeppink]|[/COLOR]</name>
+<name>[COLOR gold][B]»[/B][/COLOR] [COLOR white]DESENHOS[/COLOR] [COLOR gold][B][/B][/COLOR]</name>
 <thumbnail>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/desenhos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801505.us.archive.org/24/items/fanart_20200117_2115/fanart.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR]  Para todas as idades  [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR orange][B]°[/B][/COLOR]   Para todas as idades  </info>
 </channel>
 </channels>
 
